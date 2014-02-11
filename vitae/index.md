@@ -3,10 +3,10 @@ layout: page
 title: 简历（谢益辉）
 ---
 
+#**斯幸峰** 
+
 [英文简历(English)](/english-cv "英文简历")   
   [下载中文简历](http://wpdrive.qiniudn.com/cv_zh.pdf "下载中文简历")
-
-#**斯幸峰** 
 
 - 博士生在读 
 - 电话：＋86 571-88206467 
