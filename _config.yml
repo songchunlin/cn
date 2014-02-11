@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://sixf.github.io/cn
+url: http://sixf.org/cn
 author: 谢益辉
 pygments: true
 
