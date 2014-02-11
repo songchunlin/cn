@@ -4,26 +4,63 @@ title: 论文著作
 comments: yes
 ---
 
-鄙人的一些拙作将汇总在这里。
-
-# 一、书籍
-
-- Yihui Xie (2013) [_Dynamic Documents with R and knitr_](http://www.crcpress.com/product/isbn/9781482203530). Chapman and Hall/CRC. ISBN 978-1482203530
-- Yihui Xie (2013) knitr: [_A Comprehensive Tool for Reproducible Research in R_](http://www.crcpress.com/product/isbn/9781466561595). In Victoria Stodden, Friedrich Leisch and Roger D. Peng, editors, Implementing Reproducible Computational Research. Chapman and Hall/CRC. ISBN 978-1466561595
-- 《现代统计图形》
-
-> 未完成。R包可下载：[MSG包](http://cran.r-project.org/package=MSG)（[源代码](http://github.com/yihui/MSG)）
+#发表论文 
+[**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en) 
 
 
-# 二、论文
+-   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. Turnover of
+    breeding bird communities on land-bridge islands: testing MacArthur
+    and Wilson's theory. *under review*
+-   **Si, X.**, Kays, R. & Ding, P. How long is enough to detect
+    terrestrial animals? Estimate the minimum trapping effort on camera
+    traps. *under review*
+-   **Si, X.** *et al.* Partitioning functional beta diversity of bird
+    communities on islands of an inundated lake. *preparing.*
+-   Shen, G., Pimm, S. L., Feng, C., Ren, G., Liu, Y., Xu, W., Li,
+    J., **Si, X.**, Su, H. & Xie, Z. Climate change challenges the
+    static conservation strategy for the giant panda. *under review*.
+-   **斯幸峰** & 丁平 (2011)
+    欧美陆地鸟类监测的历史、现状与我国的对策. **生物多样性**, 19:
+    303-310.
+    **[Link](http://www.biodiversity-science.net/CN/10.3724/SP.J.1003.2011.08314) 
+    [PDF](http://wpdrive.qiniudn.com/paper_Si&Ding_BiodivSci_2011.pdf)**
+-   **斯幸峰** & 丁平 (2011)
+    利用红外相机捕获技术确定地栖动物的最小监测时长:以古田山为例.
+    第七届全国野生动物生态与资源保护学术研讨会论文摘要集, 中国金华.
+     **[Link](http://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZWRQ201110002152.htm)**
+-   张龙龙, 鲍毅新, 李欢欢, **斯幸峰** & 胡烁瑛 (2008)
+    金华北山秋季不同植被类型大型土壤动物功能群及食物网.
+    第八届全国生物多样性保护与持续利用研讨会论文集, 中国金华, pp.
+    257-267.  [**Link**](http://d.wanfangdata.com.cn/Conference_7820627.aspx)** 
+    [PDF](http://wpdrive.qiniudn.com/paper_Zhang_etal_2008.pdf)**
 
-- Yihui Xie (2013) _animation: An R Package for Creating Animations and Demonstrating Statistical Methods_, Journal of Statistical Software (accepted; [draft manuscript](https://github.com/downloads/yihui/yihui.github.com/JSS-animation-2012-Yihui-Xie.pdf))
+--------
 
-- 统计图形和模拟视角下的模型理论解析
+#学术报告
 
-> 这是我在中国人民大学统计学院的硕士论文，现在放出电子版供感兴趣的读者下载。（[全文PDF下载](https://github.com/downloads/yihui/yihui.github.com/master-thesis-Yihui-Xie.pdf)）
 
-> 摘要：统计模型往往来自于抽象的数学理论，但我们可以通过统计模拟和统计图形的手段去分析、解读统计模型，降低它们的抽象程度，绕过对统计使用者并不重要的数学细节，使之易于理解和学习；进一步，统计图形和统计模拟也可以作为统计建模前的启发工具和建模后的探索工具。本文的研究中心为统计模型，但研究角度并非传统的数学理论，而是分析了统计图形和统计模拟对统计模型在学习和应用上的辅助作用，并给出了大量示例。第一节中，我们回顾了统计图形和统计模拟各自的发展和优势，并辅之以案例说明它们在建模中的不可替代的作用；第二节中，我们首先以t检验为例，用图形和模拟分析了模型方法假设条件的稳健性，其次以多元回归为例，用反例解除人们对模型的常见误解，然后以交互作用为例，提出对经典图示方法的补充，再以最小中位数平方回归为例，用图形和模拟的方法直观说明了模型的缺陷所在，最后以离群点检测为例，提出了一种模拟的思路，可作为对传统离群点检测方法的补充；第三节中，我们继续研究了图形和模拟在模型应用过程中的作用，以LOWESS方法、假设检验以及Tukey首尾计数法则为例；第四节对本文作出了小结以及未来展望。本文所有计算和作图都基于R语言。
-
-> 关键词：统计模拟；统计图形；统计模型；统计理论；统计教学；R语言
-
+-   **斯幸峰**, Pimm, S. L., Russell, G. J. & 丁平 (2013)
+    陆桥岛屿生境中繁殖鸟类群落的动态平衡理论.
+    第十二届中国鸟类学会和中国鸟类学家研讨会暨第九届翠鸟论坛, 中国杭州.
+    (中文报告)
+-   **Si, X.** & Ding, P. (2012) How long is enough to monitor
+    ground-dwelling animals? A case study of minimum trapping effort in
+    Gutianshan National Nature Reserve, eastern China. The 13^th^
+    Student Conference on Conservation Science, 英国剑桥(Cambridge, UK).
+    (英文墙报)
+-   **斯幸峰** & 丁平 (2011) Minimum trapping effort of monitoring
+    ground-activity animals using camera traps: a case study in
+    Gutianshan National Nature Reserve.
+    青年鸟类学家研讨会暨第七届翠鸟论坛, 中国兰州. (中文报告)
+-   **斯幸峰** & 丁平 (2010) Monitoring ground-activity birds using
+    camera trapping in Gutianshan 24-ha plot.
+    第九届全国生物多样性保护与持续利用研讨会, 中国厦门. (中文报告)
+-   **斯幸峰** & 丁平 (2010) Bird monitoring in Gutianshan 24-ha plot:
+    using spot mapping and infrared cameras. 2010国际生物多样性监测论坛,
+    中国南京. (英文报告)
+-   **斯幸峰**, 沈国春 & 丁平 (2009) Basic results of monitoring of bird
+    community in Gutianshan 24-ha plot.
+    第三届海峡两岸森林动态样区研讨会, 中国广州. (中文报告)
+-   **斯幸峰** & 丁平 (2009) Bird community structures in Gutianshan
+    dynamic monitoring plot. 中国青年鸟类学家研讨会暨第五届翠鸟论坛,
+    中国哈尔滨. (中文报告)
