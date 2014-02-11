@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 黄粱五载梦
+title: The New post
 categories: [Life]
 tags: [天朝, 没毕业, 毕业, 对联, 文学, 工作]
 ---
