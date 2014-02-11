@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 简历（谢益辉）
+title: 简历
 ---
 
 #**斯幸峰** 
