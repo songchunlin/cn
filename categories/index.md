@@ -1,5 +1,5 @@
 ---
-title: Categories
+title: 博客分类
 layout: page
 ---
 

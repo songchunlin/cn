@@ -1,5 +1,5 @@
 ---
-title: tags
+title: 博客标签
 layout: page
 ---
 
