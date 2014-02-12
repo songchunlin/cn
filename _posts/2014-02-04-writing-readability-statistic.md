@@ -8,16 +8,16 @@ tags: [Flesch,readability,SCI,可读性,西游记]
 最近在读《西游记》，小说文本真是通俗易懂。每每读之，少有长句，一般以六七字进行断句。这种写法，感觉可以借鉴到自己当下英文论文的写作当中。因为学术论文，其实也要求通俗易懂，易于传播，其中句子尽量简短，可以事半功倍。
 问题随之而来，即如何判断一篇文章是否足够易读？微软的Word软件提供了这个功能，实现该功能，三步走：
 
-1.  Word for Mac 2011中该步骤为
-	-  点击Preference, 选择Spelling and Grammar,
-    -	在Grammar复选框中勾选
-    	-	Check grammar as you type
-    	-	Show grammatical
+Word for Mac 2011中该步骤为
+
+1.	点击Preference, 选择Spelling and Grammar, 在Grammar复选框中勾选
+    -	Check grammar as you type
+    -	Show grammatical
     errors in Notebook Layout View
-    	-	Check grammar with spelling
-    	-	Show
-    readability statistics四项
- 	 -	并在Writing style中选择Formal选项；
+    -	Check grammar with spelling
+    -	Show readability statistics
+    
+    四项, 	并在Writing style中选择Formal选项；
 2.  选取需要判断的文字，点击工具菜单种的拼写与语法，点击忽略全部，然后在跳出的是否继续检查的对话框中选择否；
 3.  可读性统计结果就显示出来了。
 
