@@ -4,17 +4,16 @@ layout: page
 comments: yes
 ---
 
-# Research Sites
 --------------
+#野外研究点
 
-**[Thousand Island Lake](http://xingfeng.si/links/thousand-island-lake)  **A man-made lake created in 1959 with more than one thousand islands in western Zhejiang Province, China
+- **[千岛湖](http://xingfeng.si/links/thousand-island-lake)** 1959年因修建新安江大坝而形成的水库，地处浙江西部。正如其名，在108米水位线时有1078个岛屿。
 
-**[Gutianshan Reserve](http://xingfeng.si/links/gutianshan-reserve)  **A nature reserve established in 1975 in western Zhejiang Province, China
+- **[古田山](http://xingfeng.si/links/gutianshan-reserve)** 1975年成立保护区，地处浙江西部，主要保护动物为白颈长尾雉和黑麂。
 
+---
 
 # 相关报道
-
---------
 
 1. **仙八色鸫 Fairy Pitta *Pitta nympha***
 
@@ -33,9 +32,9 @@ comments: yes
 	- 我与奥运零距离——2008奥运会火炬接力护跑手斯幸峰
  [初阳学院院网](http://cyxy.zjnu.edu.cn/show.aspx?id=751&cid=67)
 
-3. **考研** 
+1. **考研** 
 
-	- 学生研究训练杰出人物风采展（二）：斯幸峰 [初阳学院院网](http://cyxy.zjnu.edu.cn/show.aspx?id=1360&cid=83)
+	- 学生研究训练杰出人物风采展(二): 斯幸峰 [初阳学院院网](http://cyxy.zjnu.edu.cn/show.aspx?id=1360&cid=83)
 	- 与大学生研究训练杰出人物面对面 [浙江共青团](http://www.zjgqt.org/Item/5868005.aspx)
 	- "十杰"活动候选人专访之斯幸峰
 [研友俱乐部](http://blog.sina.com.cn/s/blog_4e9e83de0100908d.html)
