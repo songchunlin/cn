@@ -6,4 +6,4 @@ comments: yes
 
 留言板。
 
-# FAQ
+## FAQ

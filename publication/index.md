@@ -1,10 +1,9 @@
 ---
 layout: page
 title: 论文著作
-comments: yes
 ---
 
-#发表论文 
+## 发表论文 
 [**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en) 
 
 
@@ -36,7 +35,7 @@ comments: yes
 
 --------
 
-#学术报告
+## 学术报告
 
 
 -   **斯幸峰**, Pimm, S. L., Russell, G. J. & 丁平 (2013)
