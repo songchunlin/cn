@@ -18,7 +18,7 @@ Word for Mac 2011中该步骤为
     -	Show readability statistics
     
     四项, 	并在Writing style中选择Formal选项；
-2.  选取需要判断的文字，点击工具菜单种的拼写与语法，点击忽略全部，然后在跳出的是否继续检查的对话框中选择否；
+2.  选取需要判断的文字，点击工具菜单中的拼写与语法，点击忽略全部，然后在跳出的是否继续检查的对话框中选择否；
 3.  可读性统计结果就显示出来了。
 
 [Windows系统中步骤类似](http://office.microsoft.com/zh-cn/word-help/HP010148506.aspx)。下面以一篇《Nature》上的短文[《Careers:
