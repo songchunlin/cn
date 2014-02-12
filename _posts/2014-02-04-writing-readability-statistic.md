@@ -23,10 +23,14 @@ tags: [Flesch,readability,SCI,可读性,西游记]
 
 [Windows系统中步骤类似](http://office.microsoft.com/zh-cn/word-help/HP010148506.aspx)。下面以一篇《Nature》上的短文[《Careers:
 A guide to the life
-scientific》](http://www.nature.com/nature/journal/v496/n7445/full/496297a.html "Careers: A guide to the life scientific")为例，看看可读性如何。按照如上三步走，得到可读性统计结果。其中第二部分显示了每段中句子的数量、每句话的字数以及每个字的字母数。关键是第三部分的[可读性结果](http://blog.163.com/lyxyxzj@126/blog/static/49861071201062210461014)，即被动语态句子的比例、Flesch
+scientific》](http://www.nature.com/nature/journal/v496/n7445/full/496297a.html "Careers: A guide to the life scientific")为例，看看可读性如何。按照如上三步走，得到可读性统计结果。
+
+<img src="http://sixf.org/files/images/readability-statistics.png" width="300" align="center" />
+
+其中第二部分显示了每段中句子的数量、每句话的字数以及每个字的字母数。关键是第三部分的可读性结果，即被动语态句子的比例、Flesch
 Reading Ease(分值越高表示越容易理解)和Flesch-Kincaid Grade
-Level(分值越高表示越难理解)。例文中每个句子的字数为15.1个、Flesch
-Reading Ease为50.6，以及F-K Grade
-Level为9.9，即表示按美国年级水平，该例文需要差不多十年级水平的人才能理解。于是乎，我试了自己一个已经投稿的摘要，结果显示每个句子字数为18.5个，Flesch
+Level(分值越高表示越难理解)。例文中每个句子的字数为15.0个、Flesch
+Reading Ease为49.8，以及F-K Grade
+Level为10.0，即表示按美国年级水平，该例文需要十年级水平的人才能理解。于是乎，我试了自己一个已经投稿的摘要，结果显示每个句子字数为18.5个，Flesch
 Reading Ease为17.2，以及F-K Grade
-Level为12。折腾了半天，发现英文写作还是太弱了，易读度才17.2，而一般论文的易读度都是上50的，以及需要十二年级的人才能理解，看来之前即使把摘要修改了20遍，还是半斤八两，只不过是改论文真的改吐了，也改不动了，所以也就投稿了。
+Level为12。折腾了半天，发现英文写作还是太弱了，易读度才17.2，而[一般论文的易读度都是上50的](http://blog.163.com/lyxyxzj@126/blog/static/49861071201062210461014)，以及需要十二年级的人才能理解，看来之前哪怕把摘要修改了20遍，还是半斤八两，只是改论文真的改吐了，自己也的确改不动了，所以也就投稿了。
