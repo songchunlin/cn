@@ -2,10 +2,7 @@
 layout: page
 title: 简历 (斯幸峰)
 ---
- 
-[下载完整简历](http://wpdrive.qiniudn.com/cv_zh.pdf "下载中文简历")
 
----
 
 ## 基本信息
 
@@ -190,3 +187,6 @@ MacArthur和Wilson的岛屿生物地理学理论的提出对片段化效应和�
 -   全程马拉松：4小时51分钟
 -   野外急救能力：二级
 
+---
+
+### [下载完整简历](http://wpdrive.qiniudn.com/cv_zh.pdf "下载完整简历")
