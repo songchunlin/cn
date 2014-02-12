@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 简历(斯幸峰)
+title: 简历 (斯幸峰)
 ---
  
 [下载完整简历](http://wpdrive.qiniudn.com/cv_zh.pdf "下载中文简历")
