@@ -4,10 +4,9 @@ title: 简历 (斯幸峰)
 ---
 
 
-## 基本信息
+## 联系信息
 
 
-- 博士生在读 
 - 电话：＋86 571-88206467 
 - 邮件：[xingfengsi \[at\]
 gmail \[dot\] com](mailto:xingfengsi@gmail.com) 
