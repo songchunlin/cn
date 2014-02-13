@@ -1,8 +1,8 @@
 ---
-title: 建设开篇之折腾记
+title: 网站建设开篇之折腾记
 layout: post
-categories: []
-tags: [折腾,WordPress,GitHub,记录,Jekyll]
+categories: [网站]
+tags: [折腾,WordPress,GitHub,记录,Jekyll,网站]
 comments: yes
 ---
 
