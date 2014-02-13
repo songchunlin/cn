@@ -4,12 +4,12 @@ layout: page
 
 ---
 
---------------
+
 ## 野外研究点
 
-- **[千岛湖](http://xingfeng.si/links/thousand-island-lake)** 1959年因修建新安江大坝而形成的水库，地处浙江西部。正如其名，在108米水位线时有1078个岛屿。
+- **[千岛湖](http://sixf.org/pages/cn/thousand-island-lake)** 1959年因修建新安江大坝而形成的水库，地处浙江西部。正如其名，在108米水位线时有1078个岛屿。
 
-- **[古田山](http://xingfeng.si/links/gutianshan-reserve)** 1975年成立保护区，地处浙江西部，主要保护动物为白颈长尾雉和黑麂。
+- **[古田山](http://sixf.org/pages/cn/gutianshan-reserve)** 1975年成立保护区，地处浙江西部，主要保护动物为白颈长尾雉和黑麂。
 
 ---
 
