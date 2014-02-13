@@ -14,7 +14,7 @@ comments: yes
 
 ---
 
-以下是流水账，最近更新于 {{site.time | date:"%Y-%m-%d}}
+以下是流水账，最近更新于<span>{{site.time | date:"%Y-%m-%d}}</span>
 	
 -	2014-02-12 [sixf.org](http://sixf.org)成功托管于[GitHub](http://www.github.com), [xingfeng.si](http://xingfeng.si)继续用[WordPress](http://www.wordpress.org)在[000webhost](http://www.000webhost.com/752844.html)免费空间上搭建以作备份
 -	2014-02-10 基于[GitHub](http://www.github.com)和[Jekyll](https://github.com/mojombo/jekyll)在本地搭建网站成功
