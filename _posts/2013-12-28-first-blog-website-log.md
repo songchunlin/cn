@@ -11,12 +11,13 @@ comments: yes
 
 计划总是没有变化来得快！开篇博客打算记录建设的部分重要节点，其实是一篇口水账。相信绝大多数看官看到后是没多大兴趣的，请自行跳过。对于开始折腾的看官，或许有几分参考价值。若是过来人造访，希望留点宝贵经验。
 
-当2014年2月8日完成网页跳转设置后，心想这下子总算完全搞定了框架之事，以后可以安心专注于写作了。殊不知方才五天后，又把费了牛鼻子劲才在WordPress上搭好的挪到了GitHub。学习在WordPress上建站是2013年12月份之事，玩转了不到两个整月，看见了貌似更加性感的GitHub。此时心中挣扎要不要再折腾一次，毕竟好东西的吸引力太大了，于是乎开始Google一番Jekyll，最终决定投向开源社区GitHub - 一个号称程序员的Facebook。[《像黑客一样写作》](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)，GitHub创始人之一的Tom Preston-Werner一语道破天机。的确太方便了，GitHub可以帮你托管一切而让你专注写作，省去了WordPress的后台管理和数据库维护。目前看来，GitHub这一站，我至少会常驻了。
+当2014年2月8日完成网页跳转设置后，心想这下子总算完全搞定了框架之事，以后可以安心专注于写作了。殊不知方才五天后，又把费了牛鼻子劲才在WordPress上搭好的挪到了GitHub。学习在WordPress上建站是2013年12月份之事，玩转了不到两个整月，看见了貌似更加性感的GitHub。此时心中挣扎要不要再折腾一次，毕竟好东西的吸引力太大了，于是乎开始Google一番Jekyll，最终决定投向开源社区GitHub - 一个号称程序员的Facebook。[《像黑客一样写博客》](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)，GitHub创始人之一的Tom Preston-Werner一语道破天机。的确太方便了，GitHub可以帮你托管一切而让你专注写作，省去了WordPress的后台管理和数据库维护。目前看来，GitHub这一站，我至少会常驻了。\[追记于2014年2月13日\] 
+
 
 ---
 
 以下是流水账，最近更新于 2014-02-13
-	
+		
 -	2014-02-12 博客采用[yihui](http://yihui.name)的网站模版，在此感谢谢前辈！
 -	2014-02-11 [sixf.org](http://sixf.org)成功托管于[GitHub](http://www.github.com), [xingfeng.si](http://xingfeng.si)继续在[000webhost](http://www.000webhost.com/752844.html)上搭建以作备份
 -	2014-02-10 基于[GitHub](http://www.github.com)和[Jekyll](https://github.com/mojombo/jekyll)在本地搭建成功
