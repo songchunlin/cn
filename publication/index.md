@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 论文著作
+title: 论文著作和学术报告
 ---
 
-## 发表论文 
+## 论文著作 
 [**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en) 
 
 
@@ -37,16 +37,12 @@ title: 论文著作
 
 ## 学术报告
 
+### 口头报告
 
 -   **斯幸峰**, Pimm, S. L., Russell, G. J. & 丁平 (2013)
     陆桥岛屿生境中繁殖鸟类群落的动态平衡理论.
     第十二届中国鸟类学会和中国鸟类学家研讨会暨第九届翠鸟论坛, 中国杭州.
     (中文报告)
--   **Si, X.** & Ding, P. (2012) How long is enough to monitor
-    ground-dwelling animals? A case study of minimum trapping effort in
-    Gutianshan National Nature Reserve, eastern China. The 13^th^
-    Student Conference on Conservation Science, 英国剑桥(Cambridge, UK).
-    (英文墙报)
 -   **斯幸峰** & 丁平 (2011) Minimum trapping effort of monitoring
     ground-activity animals using camera traps: a case study in
     Gutianshan National Nature Reserve.
@@ -63,3 +59,11 @@ title: 论文著作
 -   **斯幸峰** & 丁平 (2009) Bird community structures in Gutianshan
     dynamic monitoring plot. 中国青年鸟类学家研讨会暨第五届翠鸟论坛,
     中国哈尔滨. (中文报告)
+
+### 墙报
+
+-   **Si, X.** & Ding, P. (2012) How long is enough to monitor
+    ground-dwelling animals? A case study of minimum trapping effort in
+    Gutianshan National Nature Reserve, eastern China. The 13^th^
+    Student Conference on Conservation Science, 英国剑桥(Cambridge, UK).
+    (英文墙报)
