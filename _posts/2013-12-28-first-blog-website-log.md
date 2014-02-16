@@ -22,7 +22,7 @@ comments: yes
 -	2013年2月前 打算开通个人网站并零碎学习
 -	2013-02-02 开通[Weebly二级域名网站](xingfengsi.weebly.com)
 -	2013-03-01 开通[Google二级域名网站](sites.google.com/site/xingfengsi)
--	2013-12-10 动手学习建立个人独立网站
+-	2013-12-10 动手学习建立个人独立域名网站
 -	2013-12-19 在[GoDaddy](http://x.co/gobirder)购买特价1.99美元域名`xingfengsi.com`, 等待审核
 -	2013-12-20 注册免费虚拟主机[000webhost](http://www.000webhost.com/752844.html)账户，等待审核
 -	2013-12-20 GoDaddy告知需提供有效的付款凭证
@@ -46,7 +46,7 @@ comments: yes
 -	2014-02-06 在000webhost上架设`sixf.org`
 -	2014-02-06 惊奇发现[七牛云](https://portal.qiniu.com/signup?code=iv0wl84z6mq)的神奇外链功能, 喜之不尽
 -	2014-02-06 `xingfeng.si`的早期备份文件成功导入`sixf.org`
--	2014-02-08 设置`xingfeng.si`网站[跳转](http://support.netim.com/en/wiki/Use_the_web_forwarding_service)至`sixf.org`
+-	2014-02-08 设置`xingfeng.si`[直接跳转](http://support.netim.com/en/wiki/Use_the_web_forwarding_service)至`sixf.org`
 -	2014-02-08 开启safari隐藏的`Develop`菜单, 方便查看网页源代码; 打算购买付费主机
 -	2013-02-09 开始使用[DISQUS](http://www.disqus.com)云评论功能
 -	2014-02-10 基于[Jekyll](https://github.com/mojombo/jekyll)在本地搭建成功
