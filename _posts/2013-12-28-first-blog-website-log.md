@@ -50,7 +50,7 @@ comments: yes
 -	2014-02-08 开启safari隐藏的`Develop`菜单, 方便查看网页源代码; 打算购买付费主机
 -	2013-02-09 开始使用[DISQUS](http://www.disqus.com)云评论功能
 -	2014-02-10 基于[Jekyll](https://github.com/mojombo/jekyll)在本地搭建成功
--	2014-02-11 `sixf.org`成功托管于[GitHub](http://www.github.com), `xingfeng.si`继续在000webhost上搭建以作备份
+-	2014-02-11 `sixf.org`托管于[GitHub](http://www.github.com), `xingfeng.si`继续在000webhost上搭建以作备份
 -	2014-02-12 `sixf.org`采用[Yihui](http://yihui.name)的博客模版
 -	2014-02-14 发表`sixf.org`第一篇英文博客
 
