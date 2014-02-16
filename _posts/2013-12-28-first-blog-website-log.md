@@ -7,7 +7,7 @@ comments: yes
 ---
 
 
-> 生命在于折腾！
+> *生命在于折腾！*
 
 计划总是没有变化来得快！开篇博客打算记录建设的部分重要节点，其实是一篇口水账。相信绝大多数看官看到后是没多大兴趣的，请自行跳过。对于开始折腾的看官，或许有几分参考价值。若是过来人造访，希望留点宝贵经验。
 
@@ -16,7 +16,7 @@ comments: yes
 
 ---
 
-以下是流水账，最近更新于 2014-02-13
+以下就是又长又臭的流水账：
 		
 
 -	2013年2月前 打算开通个人网站并零碎学习
@@ -47,13 +47,13 @@ comments: yes
 -	2014-02-06 惊奇发现[七牛云](https://portal.qiniu.com/signup?code=iv0wl84z6mq)的神奇外链功能, 喜之不尽
 -	2014-02-06 `xingfeng.si`的早期备份文件成功导入`sixf.org`
 -	2014-02-08 设置`xingfeng.si`网站[跳转](http://support.netim.com/en/wiki/Use_the_web_forwarding_service)至`sixf.org`
--	2014-02-08 开启safari隐藏的Develop菜单, 方便查看网页源代码; 打算购买付费主机
+-	2014-02-08 开启safari隐藏的`Develop`菜单, 方便查看网页源代码; 打算购买付费主机
 -	2013-02-09 开始使用[DISQUS](http://www.disqus.com)云评论功能
 -	2014-02-10 基于[Jekyll](https://github.com/mojombo/jekyll)在本地搭建成功
 -	2014-02-11 `sixf.org`成功托管于[GitHub](http://www.github.com), `xingfeng.si`继续在000webhost上搭建以作备份
--	2014-02-12 网站采用[Yihui](http://yihui.name)的博客模版
+-	2014-02-12 `sixf.org`采用[Yihui](http://yihui.name)的博客模版
+-	2014-02-14 发表`sixf.org`第一篇英文博客
 
-
-
+最近更新于 2014-02-14
 
 
