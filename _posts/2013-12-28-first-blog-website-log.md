@@ -18,36 +18,42 @@ comments: yes
 
 以下是流水账，最近更新于 2014-02-13
 		
--	2014-02-12 网站采用[Yihui](http://yihui.name)的博客模版
--	2014-02-11 [sixf.org](http://sixf.org)成功托管于[GitHub](http://www.github.com), [xingfeng.si](http://xingfeng.si)继续在[000webhost](http://www.000webhost.com/752844.html)上搭建以作备份
--	2014-02-10 基于[GitHub](http://www.github.com)和[Jekyll](https://github.com/mojombo/jekyll)在本地搭建成功
--	2013-02-09 开始使用[DISQUS](http://www.disqus.com)云评论功能
--	2014-02-08 开启safari隐藏的Develop菜单, 方便查看网页源代码; 打算购买付费主机
--	2014-02-08 设置[xingfeng.si](http://xingfeng.si)网站[跳转](http://support.netim.com/en/wiki/Use_the_web_forwarding_service)至[sixf.org](http://sixf.org)
--	2014-02-06 [xingfeng.si](http://xingfeng.si)的早期备份文件成功导入[sixf.org](http://sixf.org)
--	2014-02-06 惊奇发现[七牛云](https://portal.qiniu.com/signup?code=iv0wl84z6mq)的神奇外链功能, 喜之不尽
--	2014-02-06 在[000webhost](http://www.000webhost.com/752844.html)上架设[sixf.org](http://sixf.org)
--	2014-02-05 [xingfeng.si](http://xingfeng.si)重定向错误, 无法登录, 后来发现清除safari缓存后重启就好了
--	2014-02-05 直接更新[WordPress](http://www.wordpress.org)及[Parabola](http://www.cryoutcreations.eu)主题, [xingfeng.si](http://xingfeng.si)崩溃
--	2014-02-04 把[xingfeng.si](http://xingfeng.si)备份文件从虚拟主机成功地搬家至本地
--	2014-01-17 上传身份材料复印件后, [GoDaddy](http://x.co/gobirder)审核通过[sixf.org](http://sixf.org)域名
--	2014-01-14 在[GoDaddy](http://x.co/gobirder)购买[sixf.org](http://sixf.org)域名, 因忘记注册密码, 等待审核
--	2014-01-01 [xingfeng.si](http://xingfeng.si)收到第一条评论
--	2014-01-01 采用[Parabola](http://www.cryoutcreations.eu)主题, [xingfeng.si](http://xingfeng.si)内容初步完成并继续折腾
--	2013-12-31 发表[xingfeng.si](http://xingfeng.si)第一篇博客
--	2013-12-29 完成[xingfeng.si](http://xingfeng.si)第一次备份
--	2013-12-28 采用[sitemeter](http://sitemeter.com)和[e-zeeinternet](http://e-zeeinternet.com)的访问统计功能
--	2013-12-28 [xingfeng.si](http://xingfeng.si)基于[WordPress](http://www.wordpress.org)在[000webhost](http://www.000webhost.com/752844.html)上架设成功, Hello World!
--	2013-12-28 在法国域名注册商[Netim](http://www.netim.com)成功购买[xingfeng.si](http://xingfeng.si)域名, 每年22欧元
--	2013-12-28 用[51VPN代理](http://a.wy002.com/309788)美国IP再次申请[000webhost](http://www.000webhost.com/752844.html)主机空间, 立即开通
--	2013-12-27 [GoDaddy](http://x.co/gobirder)告知审核失败, 域名被冻结并全额退款
--	2013-12-25 提交付款凭证等材料给[GoDaddy](http://x.co/gobirder)，继续审核
--	2013-12-25 [000webhost](http://www.000webhost.com/752844.html)邮件回复, 继续审核开户申请
--	2013-12-21 下载[MAMP软件](http://www.mamp.info/en/index.html)开始学习本地建站
--	2013-12-20 [GoDaddy](http://x.co/gobirder)告知需提供有效的付款凭证
--	2013-12-20 注册免费虚拟主机[000webhost](http://www.000webhost.com/752844.html)账户，等待审核
--	2013-12-19 在[GoDaddy](http://x.co/gobirder)购买特价1.99美元域名(xingfengsi.com), 等待审核
--	2013-12-10 动手学习建立个人独立网站
--	2013-03-01 开通[Google二级域名网站](sites.google.com/site/xingfengsi)
--	2013-02-02 开通[Weebly二级域名网站](xingfengsi.weebly.com)
+
 -	2013年2月前 打算开通个人网站并零碎学习
+-	2013-02-02 开通[Weebly二级域名网站](xingfengsi.weebly.com)
+-	2013-03-01 开通[Google二级域名网站](sites.google.com/site/xingfengsi)
+-	2013-12-10 动手学习建立个人独立网站
+-	2013-12-19 在[GoDaddy](http://x.co/gobirder)购买特价1.99美元域名`xingfengsi.com`, 等待审核
+-	2013-12-20 注册免费虚拟主机[000webhost](http://www.000webhost.com/752844.html)账户，等待审核
+-	2013-12-20 GoDaddy告知需提供有效的付款凭证
+-	2013-12-21 下载[MAMP软件](http://www.mamp.info/en/index.html)开始学习本地建站
+-	2013-12-25 000webhost邮件回复, 继续审核开户申请
+-	2013-12-25 提交付款凭证等材料给GoDaddy，继续审核
+-	2013-12-27 GoDaddy告知审核失败, 域名被冻结并全额退款
+-	2013-12-28 用[51VPN代理](http://a.wy002.com/309788)美国IP再次申请000webhost主机空间, 立即开通
+-	2013-12-28 在法国域名注册商[Netim](http://www.netim.com)成功购买[xingfeng.si](http://xingfeng.si)域名, 每年22欧元
+-	2013-12-28 `xingfeng.si`基于[WordPress](http://www.wordpress.org)在000webhost上架设成功. **Hello World!**
+-	2013-12-28 采用[sitemeter](http://sitemeter.com)和[e-zeeinternet](http://e-zeeinternet.com)的访问统计功能
+-	2013-12-29 完成`xingfeng.si`第一次备份
+-	2013-12-31 发表`xingfeng.si`第一篇博客
+-	2014-01-01 采用[Parabola](http://www.cryoutcreations.eu)主题, `xingfeng.si`内容初步完成并继续折腾
+-	2014-01-01 `xingfeng.si`收到第一条评论
+-	2014-01-14 在GoDaddy购买[sixf.org](http://sixf.org)域名, 因忘记注册密码, 等待审核
+-	2014-01-17 上传身份材料复印件后, GoDaddy审核通过`sixf.org`域名
+-	2014-02-04 把`xingfeng.si`备份文件从虚拟主机成功地搬家至本地
+-	2014-02-05 直接更新[WordPress](http://www.wordpress.org)及[Parabola](http://www.cryoutcreations.eu)主题, `xingfeng.si`崩溃
+-	2014-02-05 `xingfeng.si`重定向错误, 无法登录, 后来发现清除safari缓存后重启就好了
+-	2014-02-06 在000webhost上架设`sixf.org`
+-	2014-02-06 惊奇发现[七牛云](https://portal.qiniu.com/signup?code=iv0wl84z6mq)的神奇外链功能, 喜之不尽
+-	2014-02-06 `xingfeng.si`的早期备份文件成功导入`sixf.org`
+-	2014-02-08 设置`xingfeng.si`网站[跳转](http://support.netim.com/en/wiki/Use_the_web_forwarding_service)至`sixf.org`
+-	2014-02-08 开启safari隐藏的Develop菜单, 方便查看网页源代码; 打算购买付费主机
+-	2013-02-09 开始使用[DISQUS](http://www.disqus.com)云评论功能
+-	2014-02-10 基于[Jekyll](https://github.com/mojombo/jekyll)在本地搭建成功
+-	2014-02-11 `sixf.org`成功托管于[GitHub](http://www.github.com), `xingfeng.si`继续在000webhost上搭建以作备份
+-	2014-02-12 网站采用[Yihui](http://yihui.name)的博客模版
+
+
+
+
+
