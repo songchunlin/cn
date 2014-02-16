@@ -1,7 +1,7 @@
 ---
 title: 在美国如何考驾照？
 layout: post
-categories: [生活]
+categories: [出国]
 tags: [交通,出国,北卡,美国,驾照]
 comemnts: yes
 ---
