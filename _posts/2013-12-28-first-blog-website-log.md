@@ -26,7 +26,7 @@ comments: yes
 -	2013-12-19 在[GoDaddy](http://x.co/gobirder)购买特价1.99美元域名`xingfengsi.com`, 等待审核
 -	2013-12-20 注册免费虚拟主机[000webhost](http://www.000webhost.com/752844.html)账户，等待审核
 -	2013-12-20 GoDaddy告知需提供有效的付款凭证
--	2013-12-21 下载[MAMP软件](http://www.mamp.info/en/index.html)开始学习本地建站
+-	2013-12-21 下载[MAMP软件](http://www.mamp.info/en/index.html)开始学习[本地建站](http://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
 -	2013-12-25 000webhost邮件回复, 继续审核开户申请
 -	2013-12-25 提交付款凭证等材料给GoDaddy，继续审核
 -	2013-12-27 GoDaddy告知审核失败, 域名被冻结并全额退款
