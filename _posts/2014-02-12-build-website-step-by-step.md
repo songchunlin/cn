@@ -1,7 +1,7 @@
 ---
-title: 如何建立网站及独立网站建设的概念解析
+title: 如何建立个人独立网站
 layout: post
-tags: [域名,解析,WordPress,主机,IP地址]
+tags: [域名,解析,WordPress,主机,IP地址,个人博客]
 catergories: [网站]
 comments: yes
 ---
@@ -36,4 +36,4 @@ comments: yes
 
 \[注2\]: 如果你的网站主要浏览用户是来自国内，把域名放到国内域名解析商解析的好处之一是可以网页速度。或者国外一些解析商容易被墙，也是放到国内解析商的原因。不过，我这域名，就扔在GoDaddy那里解析的。
 
-\[注3\]: 国际顶级域名，诸如\*.com,\*.org, \*.net等后缀结尾的域名。虽然.com是company(公司)的缩写，.org是organization(非营利性组织)的缩写，.net是network(网络)的缩写，但实际上别非如此严格。除了.gov, .edu等政府教育部门的后缀，个人无法申请，其他的后缀差不多都开放了。比如我的另外一个域名，[xingfeng.si](http://xingfeng.si)，就是从一个法国域名注册商那里注册了一个斯洛文尼亚的国家域名后缀`.si`。</small>
+\[注3\]: 国际顶级域名，诸如\*.com,\*.org, \*.net等后缀结尾的域名。虽然.com是company(公司)的缩写，.org是organization(非营利性组织)的缩写，.net是network(网络公司)的缩写，但实际上并非如此严格。除了.gov, .edu等政府教育部门的后缀，个人无法申请，其他的后缀差不多都开放了。比如我的另外一个域名，[xingfeng.si](http://xingfeng.si)，就是从一个法国域名注册商那里注册了一个斯洛文尼亚的国家域名后缀`.si`。</small>
