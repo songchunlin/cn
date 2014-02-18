@@ -2,7 +2,7 @@
 title: 如何建立个人独立网站
 layout: post
 tags: [域名,解析,WordPress,主机,IP地址,个人博客]
-catergories: [网站]
+categories: [网站]
 comments: yes
 ---
 
