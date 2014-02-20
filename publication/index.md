@@ -20,18 +20,15 @@ title: 论文著作和学术报告
     static conservation strategy for the giant panda. *under review*.
 -   **斯幸峰** & 丁平 (2011)
     欧美陆地鸟类监测的历史、现状与我国的对策. **生物多样性**, 19:
-    303-310.
-    **[Link](http://www.biodiversity-science.net/CN/10.3724/SP.J.1003.2011.08314) 
-    [PDF](http://sixf.org/files/articles/Si-Ding-2011.pdf)**
+    303-310.    [pdf(241KB)](http://sixf.org/files/articles/Si-Ding-2011.pdf)
 -   **斯幸峰** & 丁平 (2011)
     利用红外相机捕获技术确定地栖动物的最小监测时长:以古田山为例.
     第七届全国野生动物生态与资源保护学术研讨会论文摘要集, 中国金华.
-     **[Link](http://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZWRQ201110002152.htm)**
+     [Link](http://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZWRQ201110002152.htm)
 -   张龙龙, 鲍毅新, 李欢欢, **斯幸峰** & 胡烁瑛 (2008)
     金华北山秋季不同植被类型大型土壤动物功能群及食物网.
     第八届全国生物多样性保护与持续利用研讨会论文集, 中国金华, pp.
-    257-267.  [**Link**](http://d.wanfangdata.com.cn/Conference_7820627.aspx)** 
-    [PDF](http://sixf.org/files/articles/Zhang-etal-2008.pdf)**
+    257-267.  [pdf(656KB)](http://sixf.org/files/articles/Zhang-etal-2008.pdf)
 
 --------
 

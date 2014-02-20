@@ -30,16 +30,16 @@ gmail \[dot\] com](mailto:xingfengsi@gmail.com)
 -   2013     复合种群承载能力分析 (Mathematica *version 9*) – 3天课程。 Gareth
     Russell教授 (新泽西理工学院 NJIT)。 美国北卡州德罕(Durham，NC USA)。
     
--   2013     乌燕鸥 *Onychoprion fuscatus* 种群的生存能力研究 – 3天课程。 Stuart
+-   2013     乌燕鸥 *Onychoprion fuscatus* 种群的生存能力研究 – 4天课程。 Stuart
     Pimm院士 (杜克大学 Duke University)。 美国佛罗里达州干龟岛(Dry
     Tortugas，FL USA)。 
--   2010     野外生存急救培训 – 4天课程。 Lloyd Figgins (地球观察研究所
+-   2010     野外急救培训 – 4天课程。 Lloyd Figgins (地球观察研究所
     EarthWatch Institute)。 中国开化。 
--   2009     空间分析培训 – 7天课程。 Pierre Legendre院士 (加拿大蒙特利尔大学
+-   2009     空间分析生物统计培训 – 5天课程。 Pierre Legendre院士 (加拿大蒙特利尔大学
     Université de Montréal)。 中国北京。 
 -   2009     线性回归培训 – 6天课程。 Pierre Legendre院士 (加拿大蒙特利尔大学
     Université de Montréal)。 中国北京。 
--   2009     统计课程培训 (R语言与CANOCO软件) – 5天课程。 赖江山博士
+-   2009     数理统计, R语言以及多远统计分析培训 – 5天课程。 赖江山博士
     (中国科学院植物研究所)、 张金龙博士 (中国科学院植物研究所)、
     陈堰平博士 (中国人民大学)。 中国北京。 
 
@@ -90,70 +90,7 @@ MacArthur和Wilson的岛屿生物地理学理论的提出对片段化效应和�
 
 -----
 
-## 发表论文 
-[**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en) 
-
-
--   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. Turnover of
-    breeding bird communities on land-bridge islands: testing MacArthur
-    and Wilson's theory. *under review*
--   **Si, X.**, Kays, R. & Ding, P. How long is enough to detect
-    terrestrial animals? Estimate the minimum trapping effort on camera
-    traps. *under review*
--   **Si, X.** *et al.* Partitioning functional beta diversity of bird
-    communities on islands of an inundated lake. *preparing.*
--   Shen, G., Pimm, S. L., Feng, C., Ren, G., Liu, Y., Xu, W., Li,
-    J., **Si, X.**, Su, H. & Xie, Z. Climate change challenges the
-    static conservation strategy for the giant panda. *under review*.
--   **斯幸峰** & 丁平 (2011)
-    欧美陆地鸟类监测的历史、现状与我国的对策. **生物多样性**, 19:
-    303-310.
-    **[Link](http://www.biodiversity-science.net/CN/10.3724/SP.J.1003.2011.08314) 
-    [PDF](http://sixf.org/files/articles/Si-Ding-2011.pdf)**
--   **斯幸峰** & 丁平 (2011)
-    利用红外相机捕获技术确定地栖动物的最小监测时长:以古田山为例.
-    第七届全国野生动物生态与资源保护学术研讨会论文摘要集, 中国金华.
-     **[Link](http://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZWRQ201110002152.htm)**
--   张龙龙, 鲍毅新, 李欢欢, **斯幸峰** & 胡烁瑛 (2008)
-    金华北山秋季不同植被类型大型土壤动物功能群及食物网.
-    第八届全国生物多样性保护与持续利用研讨会论文集, 中国金华, pp.
-    257-267.  [**Link**](http://d.wanfangdata.com.cn/Conference_7820627.aspx)** 
-    [PDF](http://sixf.org/files/articles/Zhang-etal-2008.pdf)**
-
---------
-
-## 学术报告
-
-### 口头报告
-
--   **斯幸峰**, Pimm, S. L., Russell, G. J. & 丁平 (2013)
-    陆桥岛屿生境中繁殖鸟类群落的动态平衡理论.
-    第十二届中国鸟类学会和中国鸟类学家研讨会暨第九届翠鸟论坛, 中国杭州.
-    (中文报告)
--   **斯幸峰** & 丁平 (2011) Minimum trapping effort of monitoring
-    ground-activity animals using camera traps: a case study in
-    Gutianshan National Nature Reserve.
-    青年鸟类学家研讨会暨第七届翠鸟论坛, 中国兰州. (中文报告)
--   **斯幸峰** & 丁平 (2010) Monitoring ground-activity birds using
-    camera trapping in Gutianshan 24-ha plot.
-    第九届全国生物多样性保护与持续利用研讨会, 中国厦门. (中文报告)
--   **斯幸峰** & 丁平 (2010) Bird monitoring in Gutianshan 24-ha plot:
-    using spot mapping and infrared cameras. 2010国际生物多样性监测论坛,
-    中国南京. (英文报告)
--   **斯幸峰**, 沈国春 & 丁平 (2009) Basic results of monitoring of bird
-    community in Gutianshan 24-ha plot.
-    第三届海峡两岸森林动态样区研讨会, 中国广州. (中文报告)
--   **斯幸峰** & 丁平 (2009) Bird community structures in Gutianshan
-    dynamic monitoring plot. 中国青年鸟类学家研讨会暨第五届翠鸟论坛,
-    中国哈尔滨. (中文报告)
-
-### 墙报
-
--   **Si, X.** & Ding, P. (2012) How long is enough to monitor
-    ground-dwelling animals? A case study of minimum trapping effort in
-    Gutianshan National Nature Reserve, eastern China. The 13^th^
-    Student Conference on Conservation Science, 英国剑桥(Cambridge, UK).
-    (英文墙报)
+## 详见 [发表论文和学术报告](/cn/publication/ "论文报告")
     
 --------------
 
@@ -192,4 +129,4 @@ MacArthur和Wilson的岛屿生物地理学理论的提出对片段化效应和�
 
 ---
 
-### [下载完整简历](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
+### [下载完整简历(234KB)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
