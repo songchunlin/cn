@@ -13,7 +13,7 @@ title: 论文著作和学术报告
 -   **Si, X.**, Kays, R. & Ding, P. How long is enough to detect
     terrestrial animals? Estimate the minimum trapping effort on camera
     traps. *under review*
--   **Si, X.** *et al.* Partitioning functional beta diversity of bird
+-   **Si, X.** *et al.* Partitioning beta diversity of bird
     communities on islands of an inundated lake. *preparing.*
 -   Shen, G., Pimm, S. L., Feng, C., Ren, G., Liu, Y., Xu, W., Li,
     J., **Si, X.**, Su, H. & Xie, Z. Climate change challenges the
@@ -38,29 +38,22 @@ title: 论文著作和学术报告
 
 -   **斯幸峰**, Pimm, S. L., Russell, G. J. & 丁平 (2013)
     陆桥岛屿生境中繁殖鸟类群落的动态平衡理论.
-    第十二届中国鸟类学会和中国鸟类学家研讨会暨第九届翠鸟论坛, 中国杭州.
-    (中文报告)
--   **斯幸峰** & 丁平 (2011) Minimum trapping effort of monitoring
-    ground-activity animals using camera traps: a case study in
-    Gutianshan National Nature Reserve.
-    青年鸟类学家研讨会暨第七届翠鸟论坛, 中国兰州. (中文报告)
--   **斯幸峰** & 丁平 (2010) Monitoring ground-activity birds using
-    camera trapping in Gutianshan 24-ha plot.
-    第九届全国生物多样性保护与持续利用研讨会, 中国厦门. (中文报告)
--   **斯幸峰** & 丁平 (2010) Bird monitoring in Gutianshan 24-ha plot:
-    using spot mapping and infrared cameras. 2010国际生物多样性监测论坛,
-    中国南京. (英文报告)
--   **斯幸峰**, 沈国春 & 丁平 (2009) Basic results of monitoring of bird
-    community in Gutianshan 24-ha plot.
-    第三届海峡两岸森林动态样区研讨会, 中国广州. (中文报告)
--   **斯幸峰** & 丁平 (2009) Bird community structures in Gutianshan
-    dynamic monitoring plot. 中国青年鸟类学家研讨会暨第五届翠鸟论坛,
-    中国哈尔滨. (中文报告)
+    第十二届中国鸟类学会和中国鸟类学家研讨会暨第九届翠鸟论坛, 浙江杭州.
+-	**Si, X.** (2012) Biodiversity research in the Thousand Island Lake region. The Pimm Group, Durham, NC USA. (美国北卡州德罕, 英文报告)
+-	**斯幸峰** & 丁平 (2011) 利用红外自动触发相机计算地栖动物的最小监测时长: 以古田山国家级自然保护区为例.
+    青年鸟类学家研讨会暨第七届翠鸟论坛, 甘肃兰州. 
+-	**斯幸峰** & 丁平 (2010) 古田山24公顷样地内利用红外自动触发相机监测地栖鸟类.
+    第九届全国生物多样性保护与持续利用研讨会, 福建厦门. 
+-   **Si, X.** & Ding, P. (2010) Bird monitoring in Gutianshan 24-ha plot:
+    using spot mapping and infrared cameras. The 2010 International Symposium on Biodiversity Monitoring, Nanjing, China. (江苏南京, 英文报告)
+-   **斯幸峰**, 沈国春 & 丁平 (2009) 古田山24公顷样地内鸟类群落监测的初步结果.
+    第三届海峡两岸森林动态样区研讨会, 广东广州. 
+-   **斯幸峰** & 丁平 (2009) 古田山大样地内鸟类群落结构. 中国青年鸟类学家研讨会暨第五届翠鸟论坛,
+    黑龙江哈尔滨.
 
 ### 墙报
 
 -   **Si, X.** & Ding, P. (2012) How long is enough to monitor
     ground-dwelling animals? A case study of minimum trapping effort in
     Gutianshan National Nature Reserve, eastern China. The 13<sup>th</sup>
-    Student Conference on Conservation Science, 英国剑桥(Cambridge, UK).
-    (英文墙报)
+    Student Conference on Conservation Science, Cambridge, UK. (英国剑桥, 英文墙报)
