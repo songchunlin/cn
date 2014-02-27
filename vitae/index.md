@@ -7,9 +7,8 @@ title: 简历 (斯幸峰)
 ## 基本信息
 
 
-- 电话：＋86 571-88206467 
-- 邮件：[xingfengsi \[at\]
-gmail \[dot\] com](mailto:xingfengsi@gmail.com) 
+- 电话：0086(571)8206467
+- 邮件：[xingfengsi \[at\] gmail \[dot\] com](mailto:xingfengsi@gmail.com) 
 - 个人网站：[www.sixf.org](/home)
 - 联系地址：浙江省杭州市西湖区浙江大学生命科学学院441A室
 - [下载完整简历(237KB)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
@@ -19,7 +18,7 @@ gmail \[dot\] com](mailto:xingfengsi@gmail.com)
 ## 教育背景 
 
 
--   2008-    	          **博士生在读**，生态学，**浙江大学**  导师: [丁平教授](http://mypage.zju.edu.cn/personnelCard/pingding)
+-   2008-    	            **博士生在读**，生态学，**浙江大学**  导师: [丁平教授](http://mypage.zju.edu.cn/personnelCard/pingding)
 -   2012-2013     **联培博士生**，生态学，美国**杜克(Duke)大学**  合作导师: [Stuart Pimm教授](http://fds.duke.edu/db/Nicholas/esp/faculty/spimm)
 -   2004-2008     **理学学士**，生物学，**浙江师范大学**  指导老师: [鲍毅新教授](http://ecology.zjnu.edu.cn/sts/baoyx/baoyxjiaoshigerenjianjie.htm)
 
