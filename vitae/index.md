@@ -7,7 +7,7 @@ title: 简历 (斯幸峰)
 ## 基本信息
 
 
-- 电话：0086(571)8206467
+- 电话：0086(571)88206467
 - 邮件：[xingfengsi \[at\] gmail \[dot\] com](mailto:xingfengsi@gmail.com) 
 - 个人网站：[www.sixf.org](/home)
 - 联系地址：浙江省杭州市西湖区浙江大学生命科学学院441A室
