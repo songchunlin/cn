@@ -19,9 +19,9 @@ gmail \[dot\] com](mailto:xingfengsi@gmail.com)
 ## 教育背景 
 
 
--   2008-    	       博士生在读	**生态学**，浙江大学	导师： [丁平教授](http://mypage.zju.edu.cn/personnelCard/pingding)
--   2012-2013	联培博士生	**生态学**，美国杜克(Duke)大学	合作导师： [Stuart Pimm教授](http://fds.duke.edu/db/Nicholas/esp/faculty/spimm)
--   2004-2008	理学学士     **生物学**，浙江师范大学	指导老师： [鲍毅新教授](http://ecology.zjnu.edu.cn/sts/baoyx/baoyxjiaoshigerenjianjie.htm)
+-   2008-    	         **博士生在读**，生态学，**浙江大学**。 导师: [丁平教授](http://mypage.zju.edu.cn/personnelCard/pingding)
+-   2012-2013     **联培博士生**，生态学，美国**杜克(Duke)大学**。合作导师: [Stuart Pimm教授](http://fds.duke.edu/db/Nicholas/esp/faculty/spimm)
+-   2004-2008     **理学学士**，生物学，**浙江师范大学**。指导老师: [鲍毅新教授](http://ecology.zjnu.edu.cn/sts/baoyx/baoyxjiaoshigerenjianjie.htm)
 
 ------------
 
@@ -108,7 +108,7 @@ MacArthur和Wilson的岛屿生物地理学理论的提出对片段化效应和�
 
 ## 参加学术会议及研讨会
 
--   2013     第十二届全国鸟类学术研讨会暨第十届海峡两岸鸟类学术研讨会,，浙江杭州
+-   2013     第十二届全国鸟类学术研讨会暨第十届海峡两岸鸟类学术研讨会，浙江杭州
 -   2013     青年鸟类学家研讨会暨第九届翠鸟论坛，浙江杭州
 -   2013     The 26<sup>th</sup> ICCB, Baltimore, MD USA. (美国马里兰州巴尔的摩)
 -   2012     生命科学学院首次学生科技创新交流冷餐会，浙江杭州
@@ -161,7 +161,6 @@ MacArthur和Wilson的岛屿生物地理学理论的提出对片段化效应和�
 
 -   英语(流利)
 -   普通话(母语)
--   西班牙语(纯菜鸟)
 -   野外急救能力：二级
 -   全程马拉松：4小时51分钟
 
