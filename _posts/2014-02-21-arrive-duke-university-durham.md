@@ -35,10 +35,10 @@ comments: yes
 
 以下事件按优先排列，以尼古拉斯环境学院为例。之中出现的人名请跳过，对于具体步骤，其他学院可以类似参照之：
 
-1.	告诉院长助理Anne你要申请DukeCard，然后她会发一封email到DukeCard Center，你就可以带上护照到West Union办理DukeCard。拿到DukeCard后，直接去Parking and Transportation Service（就是那栋白房子，下午3点下班）免费办理GoPass公交卡。有了GoPass，就可以免费搭乘达勒姆的公交车了；
-2.	尽快去Smithware House的Bay 7办理visa注册。每天早上和下午各有一次为visiting scholar办理visa注册，时间大概是9AM和1PM（具体时间可以在duke visa service确认）；
+1.	告诉院长助理Anne你要申请DukeCard，然后她会发一封email到DukeCard Center，你就可以带上护照到West Union办理DukeCard。拿到DukeCard后，直接去Parking and Transportation Service (就是那栋白房子，下午3点下班)，免费办理GoPass公交卡。有了GoPass，就可以免费搭乘达勒姆的公交车了；
+2.	尽快去Smithware House的Bay 7办理visa注册。每天早上和下午各有一次为visiting scholar办理visa注册，时间大概是9AM和1PM(具体时间可以在duke visa service确认)；
 3.	杜克附件有三家主要的银行：Bank of America, Wells Fargo 和 SunTrust。SunTrust的分行离杜克非常近，但是是一个当地银行。建议办理Bank of America，在NorthGate Mall，地址是 1058 West Club Blvd, Durham, NC 27701。 在NorthGate Mall，还有AT&T，可以办理手机事宜；
-4.	银行账户办理好以后，去Bryant University Center的邮局（或者任一一个邮局）寄报告材料给大使馆（一定要在银行信息复印件上签名，信封上注明：报道材料与银行账号），建议选择Priority Flate Mail，大概5.6刀邮费；
+4.	银行账户办理好以后，去Bryant University Center的邮局(或者任一一个邮局)寄报告材料给大使馆(一定要在银行信息复印件上签名，信封上注明：报道材料与银行账号)，建议选择Priority Flate Mail，大概5.6刀邮费；
 5.	在Smith House注册visa十天以后可以申请Social Security Number。可以去International House拿SSN申请表，并且可以顺便问下IHouse最近有没有免费vans来回接送办理SSN的安排；
-6.	等你拿到NetID以后，去Perkins Library的地下一楼的LINK重新设置你的NetID密码（我当时没法知道原始密码，只好带着DukeCard亲自去LINK更改）。然后你联系学院管理电脑网络的Katheryne(it@\*\*\*.duke.edu)，她会帮你申请DukeMail，这样便可以使用杜克邮箱了。在Perkins Library办理借书手续时需要填写邮箱及信息后，办理之后你就可以利用DukeCard在图书馆借书了。
-7.	visa注册十天以后，可以考虑[考美国驾照](http://sixf.org/cn/2014/01/us-driver-license-nc/)。先是笔试，通过后拿到Learner' Permit，再考正式驾照。
+6.	等你拿到NetID以后，去Perkins Library的地下一楼的LINK重新设置你的NetID密码(我当时没法知道原始密码，只好带着DukeCard亲自去LINK更改)。然后你联系学院管理电脑网络的Katheryne(it@\*\*\*.duke.edu)，她会帮你申请DukeMail，这样便可以使用杜克邮箱了。在Perkins Library办理借书手续时需要填写邮箱及信息后，办理之后你就可以利用DukeCard在图书馆借书了。
+7.	visa注册十天以后，可以考虑[考美国驾照](http://sixf.org/cn/2014/01/us-driver-license-nc/)。先是笔试，通过后拿到Learner's Permit，再考正式驾照。
