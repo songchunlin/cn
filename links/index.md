@@ -5,7 +5,7 @@ layout: page
 ---
 
 
-## 野外研究点
+# 野外研究点
 
 - **[千岛湖](/cn/pages/thousand-island-lake)** 1959年因修建新安江大坝而形成的水库，地处浙江西部。正如其名，在108米水位线时有1078个岛屿。
 
@@ -13,7 +13,7 @@ layout: page
 
 ---
 
-## 相关报道
+# 相关报道
 
 1. **仙八色鸫 Fairy Pitta *Pitta nympha***
 
@@ -41,11 +41,11 @@ layout: page
 
 =======
 
-## 个人
+# 个人
 
-## 统计
+# 统计
 
-## 软件
+# 软件
 
 - [R语言](http://www.r-project.org) 
 - [pandoc](http://johnmacfarlane.net/pandoc/) 

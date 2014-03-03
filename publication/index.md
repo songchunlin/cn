@@ -3,7 +3,7 @@ layout: page
 title: 论文著作和学术报告
 ---
 
-## 论文著作 <small>[**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en) </small>
+# 论文著作 <small>[**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en) </small>
 
 -   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson's theory. *under review*
 -   **Si, X.**, Kays, R. & Ding, P. How long is enough to detect terrestrial animals? Estimate the minimum trapping effort on camera traps. *under review*
@@ -15,9 +15,9 @@ title: 论文著作和学术报告
 
 --------
 
-## 学术报告
+# 学术报告
 
-### 口头报告
+## 口头报告
 
 -   **斯幸峰**, Pimm, S. L., Russell, G. J. & 丁平 (2013) 陆桥岛屿生境中繁殖鸟类群落的动态平衡理论. 第十二届中国鸟类学会和中国鸟类学家研讨会暨第九届翠鸟论坛, 浙江杭州.
 -	**Si, X.** (2012) Biodiversity research in the Thousand Island Lake region. The Pimm Group, Durham, NC USA. (美国北卡州德罕, 英文报告)
@@ -28,6 +28,6 @@ title: 论文著作和学术报告
 -   **斯幸峰** & 丁平 (2009) 古田山大样地内鸟类群落结构. 中国青年鸟类学家研讨会暨第五届翠鸟论坛,
     黑龙江哈尔滨.
 
-### 墙报
+## 墙报
 
 -   **Si, X.** & Ding, P. (2012) How long is enough to monitor ground-dwelling animals? A case study of minimum trapping effort in Gutianshan National Nature Reserve, eastern China. The 13th Student Conference on Conservation Science, Cambridge, UK. (英国剑桥, 英文墙报)
