@@ -30,4 +30,4 @@ title: 论文著作和学术报告
 
 ### 墙报
 
--   **Si, X.** & Ding, P. (2012) How long is enough to monitor ground-dwelling animals? A case study of minimum trapping effort in Gutianshan National Nature Reserve, eastern China. The 13<sup>th</sup> Student Conference on Conservation Science, Cambridge, UK. (英国剑桥, 英文墙报)
+-   **Si, X.** & Ding, P. (2012) How long is enough to monitor ground-dwelling animals? A case study of minimum trapping effort in Gutianshan National Nature Reserve, eastern China. The 13th Student Conference on Conservation Science, Cambridge, UK. (英国剑桥, 英文墙报)
