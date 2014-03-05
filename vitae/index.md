@@ -8,7 +8,7 @@ title: 简历 (斯幸峰)
 
 
 - 电话：0086(571)88206467
-- 邮件：[xingfengsi \[at\] gmail \[dot\] com](mailto:xingfengsi@gmail.com) 
+- 邮件：[xingfengsi\[at\]gmail.com](mailto:xingfengsi@gmail.com) 
 - 个人网站：[www.sixf.org](/home)
 - 联系地址：浙江省杭州市西湖区浙江大学生命科学学院441A室
 - [下载完整简历(237KB)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
@@ -45,12 +45,12 @@ title: 简历 (斯幸峰)
 # 专业课程培训
 
 
--   2013     复合种群承载能力分析 (Mathematica *version 9*) – 3天课程。 Gareth Russell教授 (新泽西理工学院 NJIT)，美国北卡州德罕(Durham，NC USA)
--   2013     乌燕鸥 *Onychoprion fuscatus* 种群的生存能力研究 – 4天课程。 Stuart Pimm院士 (杜克大学 Duke University)，美国佛罗里达州干龟岛(Dry Tortugas，FL USA) 
--   2010     野外急救培训 – 4天课程。 Lloyd Figgins (地球观察研究所 EarthWatch Institute)，浙江开化
--   2009     空间分析生物统计培训 – 5天课程。 Pierre Legendre院士 (加拿大蒙特利尔大学  Université de Montréal)，北京
--   2009     线性回归培训 – 6天课程。 Pierre Legendre院士 (加拿大蒙特利尔大学 Université de Montréal)，北京
--   2009     数理统计, R语言以及多远统计分析培训 – 5天课程。 赖江山博士    (中国科学院植物研究所)、 张金龙博士 (中国科学院植物研究所)、陈堰平博士 (中国人民大学)，北京
+-   2013     复合种群承载能力分析 (Mathematica *version 9*)。 Gareth Russell教授 (新泽西理工学院 NJIT)，2013.01.28-30，美国北卡州德罕(Durham，NC USA)
+-   2013     乌燕鸥 *Onychoprion fuscatus* 环志培训及其种群的生存能力分析。 Stuart Pimm院士 (杜克大学 Duke University)，2013.03.11-14，美国佛罗里达州干龟岛(Dry Tortugas，FL USA) 
+-   2010     野外急救培训。 Lloyd Figgins (地球观察研究所 EarthWatch Institute)，2010.10.07-10，浙江开化
+-   2009     空间分析生物统计培训。 Pierre Legendre院士 (加拿大蒙特利尔大学  Université de Montréal)，2009.10.01-05，北京
+-   2009     线性回归培训。 Pierre Legendre院士 (加拿大蒙特利尔大学 Université de Montréal)，2009.09.10-15，北京
+-   2009     数理统计, R语言以及多远统计分析培训 – 5天课程。 赖江山博士    (中国科学院植物研究所)、 张金龙博士 (中国科学院植物研究所)、陈堰平博士 (中国人民大学)，2009.09.05-09，北京
 
 --------
 
@@ -107,18 +107,20 @@ MacArthur和Wilson的岛屿生物地理学理论的提出对片段化效应和�
 
 # 参加学术会议及研讨会
 
--   2013     第十二届全国鸟类学术研讨会暨第十届海峡两岸鸟类学术研讨会，浙江杭州
--   2013     青年鸟类学家研讨会暨第九届翠鸟论坛，浙江杭州
+-	2014     The 26th IOC, Tokyo, Japan. (日本东京)
+-	2014     The 6th EAFES International Congress, 海南海口
+-	2013     第十二届全国鸟类学术研讨会暨第十届海峡两岸鸟类学术研讨会，浙江杭州
+-	2013     青年鸟类学家研讨会暨第九届翠鸟论坛，浙江杭州
 -   2013     The 26th ICCB, Baltimore, MD USA. (美国马里兰州巴尔的摩)
 -   2012     生命科学学院首次学生科技创新交流冷餐会，浙江杭州
 -   2012     The 13th SCCS, Cambridge, UK. (英国剑桥)
--   2011     第九届全国生物多样性保护与持续利用研讨会，福建厦门
--   2011     第四届海峡两岸森林动态样区研讨会，福建厦门
 -   2011     第七届全国野生动物生态与资源保护学术研讨会，浙江金华
 -   2011     第十一届全国鸟类学术研讨会，甘肃兰州
 -   2011     青年鸟类学家研讨会暨第七届翠鸟论坛，甘肃兰州
 -   2011     Symposium for Theoretical Ecology and Biodiversity, 广东广州
--   2010     The 2010 International Symposium on Biodiversity Monitoring, 江苏南京
+-   2010     第九届全国生物多样性保护与持续利用研讨会，福建厦门
+-   2010     第四届海峡两岸森林动态样区研讨会，福建厦门
+-   2010     The 2010 International Forum on Biodiversity Monitoring, 江苏南京
 -   2009     第三届海峡两岸森林动态样区研讨会，广东肇庆
 -   2009     浙江省动物学会第十一届代表大会，浙江金华
 -   2009     第十届全国鸟类学术研讨会暨第八届海峡两岸鸟类学术研讨会，黑龙江哈尔滨
@@ -149,6 +151,19 @@ MacArthur和Wilson的岛屿生物地理学理论的提出对片段化效应和�
 # 计算机能力与软件操作
 
 -   熟练掌握     R语言、微软系统Office和Photoshop
+-   中等熟悉     LaTeX、苹果系统iWork、WordPress、EndNote和Google Earth
+-   基本操作     Mathematica、PHP、MarkDown、CANOCO和WinBUGS
+
+
+--------------
+
+# 语言及其他技能
+
+
+-   英语(流利)
+-   普通话(母语)
+-   野外急救能力：二级
+-    R语言、微软系统Office和Photoshop
 -   中等熟悉     LaTeX、苹果系统iWork、WordPress、EndNote和Google Earth
 -   基本操作     Mathematica、PHP、MarkDown、CANOCO和WinBUGS
 
