@@ -7,20 +7,20 @@ title: 论文著作和学术报告
 
 ## 发表论文
 
--   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson's theory. *under review*
+-   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. Turnover of breeding bird communities on islands of an inundated lake. *under review*
 -   **Si, X.**, Kays, R. & Ding, P. How long is enough to detect terrestrial animals? Estimate the minimum trapping effort on camera traps. *under review*
 -   **Si, X.** *et al.* Partitioning beta diversity of bird communities on islands of an inundated lake. *preparing.*
 -   Shen, G., Pimm, S. L., Feng, C., Ren, G., Liu, Y., Xu, W., Li, J., **Si, X.**, Su, H. & Xie, Z. Climate change challenges the static conservation strategy for the giant panda. *under review*.
 -   **斯幸峰** & 丁平 (2011) 欧美陆地鸟类监测的历史、现状与我国的对策. **生物多样性**, 19: 303-310.    [pdf(241KB)](http://sixf.org/files/articles/Si-Ding-2011.pdf)
 
-## 会议论文
+## 会议论文与摘要
 
 -   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. (2014) Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson’s theory. Proceedings of the 26th International Ornithological Conference, 2014.08.18-24, pp. ??, Tokyo, Japan. (日本东京)
 -   **Si, X**. & Ding, P. (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. Proceedings of the 6th EAFES International Congress, 2014.04.09-11, pp. ??, Haikou, China.
--   **斯幸峰**, Pimm, S. L., Russell, G. J. & 丁平. (2013) 陆桥岛屿生境中繁殖鸟类群落的周转率研究. 第十二届中国鸟类学会和中国鸟类学家研讨会暨第十届海峡两岸鸟类学术研讨会论文摘要集, 2013.11.23--24, pp. 13, 浙江杭州.
+-   **斯幸峰**, Pimm, S. L., Russell, G. J. & 丁平. (2013) 陆桥岛屿生境中繁殖鸟类群落的周转率研究. 第十二届中国鸟类学会和中国鸟类学家研讨会暨第十届海峡两岸鸟类学术研讨会论文摘要集, 2013.11.23-24, pp. 13, 浙江杭州.
 -   **Si, X.** (2012) A case study of minimum trapping effort using camera traps in eastern China. Talks and Posters of the 13th Student Conference on Conservation Science, 2012.03.20-22, pp. 49, Cambridge, UK. (英国剑桥)
 -   **斯幸峰** & 丁平 (2011) 利用红外相机捕获技术确定地栖动物的最小监测时长:以古田山为例. 第七届全国野生动物生态与资源保护学术研讨会论文摘要集, 2011.10.28-31, pp. 132, 浙江金华. [Link](http://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZWRQ201110002152.htm)
--   **Si, X.** & Ding, P. (2010) Monitoring ground activity birds using camera trapping in Gutianshan 24-ha plot. 第九届全国生物多样性保护与持续利用研讨会论文摘要集, 2010.11.04-06, pp. 99, 福建厦门.
+-   **Si, X.** & Ding, P. (2010) Monitoring ground activity birds using camera trapping in Gutianshan 24-ha plot. 第九届全国生物多样性保护与持续利用研讨会论文摘要集, 2010.11.04-06, pp. 99-100, 福建厦门.
 -   **斯幸峰** & 丁平. (2010) 古田山24公顷大样地的鸟类监测：以标图法和相机拍摄法为例. 2010生物多样性监测论坛论文摘要集, 2010.06.20-22, pp. 96, 江苏南京.
 -   张蒙, 丁平, 王彦平, **斯幸峰**, 丁志锋 & 孙吉吉. (2009) 千岛湖地区大山雀对人工巢箱的利用及其影响因素. 浙江省动物学会第十一届会员代表大会暨学术讨论会, 2009.10.30-11.01, pp. 513, 浙江金华.
 -   张龙龙, 鲍毅新, 李欢欢, **斯幸峰** & 胡烁瑛 (2008) 金华北山秋季不同植被类型大型土壤动物功能群及食物网. 第八届全国生物多样性保护与持续利用研讨会论文集, 2008.10.17-19, pp. 257-267, 浙江金华.  [pdf(656KB)](http://sixf.org/files/articles/Zhang-etal-2008.pdf)
