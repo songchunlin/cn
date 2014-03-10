@@ -6,7 +6,7 @@ layout: page
 The **Thousand Island Lake** [(Wikipedia)](http://en.wikipedia.org/wiki/Qiandao_Lake) is a large artificial reservoir in
 western Zhejiang Province, eastern China. It was created in 1959 by the
 construction of the Xinanjiang dam on the Xinanjiang River for
-hydroelectricity. Flooding approximately 580 km<small>2</small>, it formed 1078 islands
+hydroelectricity. Flooding approximately 580 km<sup>2</sup>, it formed 1078 islands
 with areas \> 0.25 ha when the water reached its highest level (108 m).
 The vegetation type on the islands is natural secondary forest, mainly
 of *Pinus massoniana*, with many broadleaved trees and shrubs mixed,
