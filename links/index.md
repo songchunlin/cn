@@ -13,6 +13,25 @@ layout: page
 
 ---
 
+
+# 大牛们
+
+
+---
+
+
+# 软件
+
+-	[生态学软件大全](http://sixf.org/en/pages/ecology-programs/) (持续添加中)
+- [pandoc](http://johnmacfarlane.net/pandoc/) 
+- [LyX](http://www.lyx.org) 
+
+---
+
+# 开放数据库
+
+---
+
 # 相关报道
 
 1. **仙八色鸫 Fairy Pitta *Pitta nympha***
@@ -39,15 +58,4 @@ layout: page
 	- "十杰"活动候选人专访之斯幸峰
 [研友俱乐部](http://blog.sina.com.cn/s/blog_4e9e83de0100908d.html)
 
-=======
-
-# 个人
-
-# 统计
-
-# 软件
-
-- [R语言](http://www.r-project.org) 
-- [pandoc](http://johnmacfarlane.net/pandoc/) 
-- [LyX](http://www.lyx.org) 
 
