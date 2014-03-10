@@ -34,5 +34,5 @@ layout: page
 
 # 如何找到我
 
-平时大部分时间我都窝在实验室，趴在电脑前，所以[发邮件](mailto:sixingfeng@gmail.com)是最合适的联系方式。以前曾在[新浪微博](http://weibo.com/kiukii)和[校内网](http://www.renren.com/228658765)活跃过，目前在闲余时间会上[小木虫论坛](http://emuch.net/bbs/space.php?uid=1157743)逛逛，也常常去墙外的[FB](http://facebook.com/xingfengsi)看看风景。[ResearchGate](http://www.researchgate.net/profile/Xingfeng_Si/)这个网站不错，被誉为是研究人员的FB。另外一个被誉为程序员FB的是[GitHub](http://github.com/sixf/sixf.github.io)网站，本站便托管于此。好了，就此打住，否则再提FB，可真要“非死不可”了。
+平时大部分时间我都窝在实验室，趴在电脑前，所以[发邮件](mailto:sixingfeng@gmail.com)是最合适的联系方式。以前曾在[新浪微博](http://weibo.com/kiukii)和[校内网](http://www.renren.com/228658765)活跃过，目前在闲余时间会上[小木虫论坛](http://emuch.net/bbs/index.php?friend=1157743)逛逛，也常常去墙外的[FB](http://facebook.com/xingfengsi)看看风景。[ResearchGate](http://www.researchgate.net/profile/Xingfeng_Si/)这个网站不错，被誉为是研究人员的FB。另外一个被誉为程序员FB的是[GitHub](http://github.com/sixf/sixf.github.io)网站，本站便托管于此。好了，就此打住，否则再提FB，可真要“非死不可”了。
 
