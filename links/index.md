@@ -5,28 +5,6 @@ layout: page
 ---
 
 
-# 野外站点
-
--	[千岛湖](/cn/pages/thousand-island-lake): 1959年因修建新安江大坝而形成的水库，地处浙江西部。正如其名，在108米水位线时有1078个岛屿。
--	[CForBio](http://www.cfbiodiv.org/): 中国森林生物多样性监测网络
-	-	[古田山](/cn/pages/gutianshan-reserve): 1975年成立保护区，地处浙江西部，主要保护动物为白颈长尾雉和黑麂。
--	CTFS
-	-	BCI
-	-	Pasoh
--	Duke Forest
-
----
-
-# 博客
-
--	生态博客 (持续添加中)
-	-	[ConservationBytes.com](http://conservationbytes.com)
-	-	[ALERT](http://alert-conservation.org)
-	-	[NatureThinker](http://www.naturethinker.org)
-
----
-
-
 # 大牛师神们
 
 -	[生态学领域的大牛师神们](http://sixf.org/en/2014/03/big-names-in-ecology/) (已列入约270位学者，名单持续添加中)
@@ -38,14 +16,39 @@ layout: page
 # 软件
 
 -	[生态学软件大全](http://sixf.org/en/2014/03/ecology-programs/) (持续添加中)
--	[pandoc](http://johnmacfarlane.net/pandoc/) 
--	[LyX](http://www.lyx.org) 
+-	[神奇的R语言包](http://sixf.org/en/2014/03/r-language/) (持续添加中)
+-	[pandoc](http://johnmacfarlane.net/pandoc/) (文件转化的黑魔法利器)
+-	[LyX](http://www.lyx.org) (LaTeX高级进阶)
 
 ---
 
 # 数据库
 
 -	[环境及生物多样性数据库](http://sixf.org/en/2014/03/environmental-biodiversity-databases/) (持续添加中)
+
+---
+
+# 博客
+
+-	生态博客 (持续添加中)
+	-	[ConservationBytes.com](http://conservationbytes.com)
+	-	[ALERT](http://alert-conservation.org)
+	-	[NatureThinker](http://www.naturethinker.org)
+	-	[Rob Dunn](http://www.robrdunn.com)
+
+---
+
+# 野外站点
+
+-	[千岛湖](/cn/pages/thousand-island-lake): 1959年因修建新安江大坝而形成的水库，地处浙江西部。正如其名，在108米水位线时有1078个岛屿。
+-	[CForBio](http://www.cfbiodiv.org/): 中国森林生物多样性监测网络
+	-	[古田山](/cn/pages/gutianshan-reserve): 1975年成立保护区，地处浙江西部，主要保护动物为白颈长尾雉和黑麂。
+-	CTFS
+	-	BCI
+	-	Pasoh
+-	Duke Forest
+-	大王叫我来巡山
+
 
 ---
 
