@@ -29,7 +29,7 @@ layout: page
 
 # 大牛师神们
 
--	[生态学领域的大牛师神们](http://sixf.org/en/pages/big-names-in-ecology/) (已列入约130位学者，名单持续添加中)
+-	[生态学领域的大牛师神们](http://sixf.org/en/2014/03/big-names-in-ecology/) (已列入约130位学者，名单持续添加中)
 
 
 ---
@@ -37,7 +37,7 @@ layout: page
 
 # 软件
 
--	[生态学软件大全](http://sixf.org/en/pages/ecology-programs/) (持续添加中)
+-	[生态学软件大全](http://sixf.org/en/2014/03/ecology-programs/) (持续添加中)
 -	[pandoc](http://johnmacfarlane.net/pandoc/) 
 -	[LyX](http://www.lyx.org) 
 
@@ -45,7 +45,7 @@ layout: page
 
 # 数据库
 
--	[环境及生物多样性数据库](http://sixf.org/en/pages/environmental-biodiversity-databases/) (持续添加中)
+-	[环境及生物多样性数据库](http://sixf.org/en/2014/03/environmental-biodiversity-databases/) (持续添加中)
 
 ---
 
