@@ -17,8 +17,19 @@ layout: page
 
 ---
 
+# 博客
 
-# 大牛们
+-	生态博客 (持续添加中)
+	-	[ConservationBytes.com](http://conservationbytes.com)
+	-	[ALERT](http://alert-conservation.org)
+	-	[NatureThinker](http://www.naturethinker.org)
+
+---
+
+
+# 大牛师神们
+
+-	[生态学领域的大牛师神们](http://sixf.org/en/pages/big-names-in-ecology/) (持续添加中)
 
 
 ---
@@ -27,8 +38,8 @@ layout: page
 # 软件
 
 -	[生态学软件大全](http://sixf.org/en/pages/ecology-programs/) (持续添加中)
-- [pandoc](http://johnmacfarlane.net/pandoc/) 
-- [LyX](http://www.lyx.org) 
+-	[pandoc](http://johnmacfarlane.net/pandoc/) 
+-	[LyX](http://www.lyx.org) 
 
 ---
 
