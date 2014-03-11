@@ -29,7 +29,7 @@ layout: page
 
 # 大牛师神们
 
--	[生态学领域的大牛师神们](http://sixf.org/en/2014/03/big-names-in-ecology/) (已列入约230位学者，名单持续添加中)
+-	[生态学领域的大牛师神们](http://sixf.org/en/2014/03/big-names-in-ecology/) (已列入约270位学者，名单持续添加中)
 
 
 ---
