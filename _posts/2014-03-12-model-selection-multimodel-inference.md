@@ -6,6 +6,7 @@ layout: post
 comments: yes
 ---
 
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 
 #### －基于模型选择和多模型推断的方法
@@ -43,35 +44,37 @@ AIC、盗墓、多模型推断、模型选择、鸟类、千岛湖、逐步回�
 
 AIC(Akaika Information Criterion)即赤池信息量准则，是评估统计模型的复杂度和衡量统计模型拟合优良性的一种标准。最早由日本统计学家赤池弘次创立和发展，由此得名。
 
-AIC在一般情况下，可以表示为 AIC = 2k-2ln(L)
+AIC在一般情况下，可以表示为:
+
+$$AIC = 2k-2ln(L)$$
 
 其中: k是参数的数量, L是似然函数(likelihood function)。这是公式，知道就可以，R语言中有现成的命令(`stat`包中的`AIC`命令，及`stats`包中的`extractAIC`命令)。如果自己动手算，也可以：假设条件是模型的误差服从独立正态分布，n为观察数, RSS为残差平方和，则
 
-AIC = 2k+n*ln(RSS/n)
+$$AIC = 2k+n ln(\frac{RSS}{n})$$
 
 增加了自由参数提高了拟合的优良性，即AIC鼓励数据的优良性但是尽量避免出现过度拟合(overfitting)的情况，所以优先考虑的模型是AIC值最小的那一只。
 
-其中在样本小的情况下(n/k < 40)，AIC转变成AICc(corrected AIC)，即：
+其中在样本小的情况下 $\left( \frac{n}{k} <40 \right)$ ，AIC 转变成AICc(corrected AIC)，即：
 
-AICc = AIC + 2k(k+1)/(n-k-1)
+$$AICc = AIC + 2k \frac {k+1}{n-k-1}$$
 
 当n增加时，AICc收敛成AIC。所以AICc可以应用于任何样本大小的情况下(注: 这部分内容主要抄自[维基百科](http://zh.wikipedia.org/wiki/赤池信息量准则)，不过维基百科中的文献引用有个小错误，即参考书是 Burham & Anderson(2002)，而不是2004)
 
 如果数据有过度离散(overdispersion)的影响，则需要考虑Q版的AIC，即
 
-QAIC = -2ln(L)/hat(v) + 2k
+$$QAIC = \frac {-2ln(L)}{\hat{c}} + 2k$$
 
-hat(v)为方差膨胀系数(VIF)或者过度离散系数(overdispersion coefficient)。如果hat(v)大于1，则需要采用QAIC。当然，Q版的，也有QAICc，道理同上。一般可以参数进入模型前，只要保证参数的独立性，则可以避免过度离散的情况。
+$\hat{c}$ 为方差膨胀系数(VIF)或者过度离散系数(overdispersion coefficient)。如果 $\hat{c}$ 大于1，则需要采用QAIC。当然，Q版的，也有QAICc，道理同上。一般可以参数进入模型前，只要保证参数的独立性，则可以避免过度离散的情况。
 
 ### 计算模型权重
 
 得到各个模型的AIC值后，按照AIC从小到大排列，然后每个模型的AIC值与最小的AIC值相减，得到ΔAIC。
 
-通过得到的ΔAIC，计算各个模型的模型权重，即Akaika weight(wi)。其中第i个模型的模型权重为：
+通过得到的ΔAIC，计算各个模型的模型权重，即Akaika weight($w_i$)。其中第 $i$ 个模型的模型权重为：
 
-w~i = exp^(-0.5\*ΔAICi)^/∑(exp^(-0.5\*ΔAIC)^)
+$$w_i = \frac {e^{(- \frac{1}{2} \Delta AIC_i)}}{\sum_{r=1}^R e^{(- \frac {1}{2} \Delta AIC_r)}}$$
 
-公式不复杂，只是我输入比较麻烦。知道这个过程就可以，以为R中有现成的命令计算w~i。w~i在0至1之间，并且所有模型权重之和为1。模型权重越大，表示该模型是真实模型的可能性就越大。比如第二个模型的w~2为0.31，则表示这个模型为真实模型(best possible model)的可能性为31%。
+公式不复杂，而且R中有现成的命令计算 $w_i$ 。 $w_i$ 在0至1之间，并且所有模型权重之和为1。模型权重越大，表示该模型是真实模型的可能性就越大。比如第二个模型的 $w_2$ 为0.31，则表示这个模型为真实模型(best possible model)的可能性为31%。
 
 通过模型权重还可以计算各个参数的重要值(importance)。方法很简单，比如参数1，则挑出含参数1的所有模型，然后把这些模型的权重相加，即使该参数的权重。各个参数的权重一比，就知道谁最重要了。
 
@@ -79,23 +82,30 @@ w~i = exp^(-0.5\*ΔAICi)^/∑(exp^(-0.5\*ΔAIC)^)
 
 其实现实一般不会这么完美的，上述所有结论都建立在ΔAIC>2的基础上，即第二个模型的AIC值比最小模型的AIC值差值大于2。如果小于2，则说明第一个模型跟第二个模型(或者连续前四五个模型)为真实模型的可能性差不多，无法决定优劣。咋么办？终极武器：模型平均(model averaging)。
 
-曾经ΔAIC>2是条金科玉律(Burnham & Anderson, 2002)，但是Anderson大神在2008版的书中似乎把ΔAIC>2给降级了(Andersion, 2008)，建议不要轻信这条规律，而是建议把所有模型统统进入模型进行平均，也就是不要随便剔除一些看似不可能模型，哪怕这些模型的权重都小得接近于零。如果ΔAIC>2，通过最优模型，带入实际岛屿参数，就可以计算出预测的鸟类种数或者存在墓葬的可能性。现在由于ΔAIC<2，第一个模型无法“代表”其他模型，于是所有模型都得参与进来。假设hat(Y)值为预测值(鸟类种数或墓葬出现概率)，则平均预测值hat-bar(Y)为：
+曾经ΔAIC>2是条金科玉律(Burnham & Anderson, 2002)，但是Anderson大神在2008版的书中似乎把ΔAIC>2给降级了(Andersion, 2008)，建议不要轻信这条规律，而是建议把所有模型统统进入模型进行平均，也就是不要随便剔除一些看似不可能模型，哪怕这些模型的权重都小得接近于零。如果ΔAIC>2，通过最优模型，带入实际岛屿参数，就可以计算出预测的鸟类种数或者存在墓葬的可能性。现在由于ΔAIC<2，第一个模型无法“代表”其他模型，于是所有模型都得参与进来。假设 $\hat {Y_i}$ 值为预测值(鸟类种数或墓葬出现概率)，则平均预测值 $\hat {\bar {Y}}$ 为：
 
-hat-bar(Y) = ∑(wi\*hat(Y))
+$$\hat {\bar {Y}} = \sum_{r=1}^R (w_i \hat {Y_i})$$
 
 啥意思？假设有十个可能模型，则有十个模型的权重，以及可以计算出十个预测值。如今，平均预测值就是预测值分别乘以权重后的和，比如
 
-w1\*hat(Y1)+w2\*hat(Y2)+...+w10\*hat(Y10)。
+$$w_1 \hat{Y_1} + w_2 \hat{Y_2} + ... + w_{10} \hat{Y_{10}}$$
 
-既然预测值hat(Y)需要模型平均，参数估计值也得平均，道理跟估计预测值相似。假设参数1的参数估计为ß1，本来当ΔAIC>2时只要直接采用最小AIC模型的ß1值即可，现在则需要把含有参数1的所有模型列出来，进行相似的模型平均：
 
-hat-bar(ß1) = ∑(wi\*hat(ß1i))
+既然预测值 $\hat {Y}$ 需要模型平均，参数估计值也得平均，道理跟估计预测值相似。假设参数 $i$ 的参数估计为 $\theta_i$ ，本来当ΔAIC>2时只要直接采用最小AIC模型的 $\theta_i$ 值即可，现在则需要把含有参数 $i$ 的所有模型列出来，进行相似的模型平均：
 
-同理，计算参数估计的方差时，也得进行模型平均，得到非条件方差估计(unconditional variance estimate)。公式比较复杂，详见(Burnham & Anderson, 2002, p162)。Anderson大神似乎对这个公式也不是很满意，建议更新为Anderson(2008)第111页的公式，其实结果相差不多。公式如下图所示：
+$$\hat {\bar {\theta}} = \sum_{r=1}^R (w_i \hat {\theta_i})$$
 
-![](https://raw.github.com/sixf/TIL-model-selection/master/figure/uncond-se.png)
+同理，计算参数估计的方差时，也得进行模型平均，得到非条件方差估计(unconditional variance estimate)，详见(Burnham & Anderson, 2002, p162):
 
-简言之，非条件方差估计就是包括两部分：一部分是本身的取样方差，另外一部分是由于模型选择不确定导致的方差。所以，把后者考虑进去以后，最后的方差估计不会由于模型的不确定性而降低准确性。我怕表达不准，列出Anderson(2008)第111页的原文: an estimator of the variance of parameter estimater esimates that incorporates both sampling variance, given a model, and a variance component for model selection uncertainty. 所以，最后参数的置信区间为hat-bar(ß1)± 1.96se(hat-bar(ß1)) 。
+$$\hat {var}\left(\hat {\bar {\theta}}\right) = \left[\sum_{i=1}^R w_i \sqrt{\hat {var}(\hat {\theta_i}|g_i)+(\hat {\theta_i}-\hat {\bar {\theta}})^2} \right]^2$$
+
+Anderson大神似乎对这个公式也不是很满意，建议更新为Anderson(2008)第111页的公式，其实结果相差不多：
+
+$$var\left(\hat {\bar {\theta}}\right) = \sum_{i=1}^R w_i\left[var(\hat {\theta_i}|g_i)+(\hat {\theta_i}-\hat {\bar {\theta}})^2 \right]$$
+
+ 其中 $\hat {\bar {\theta}}$ 是模型的平均参数估计， $w_i$ 是模型权重，以及 $g_i$ 表示第 $i$ 个模型。简言之，非条件方差估计就是包括两部分：一部分是本身的取样方差 $var(\hat {\theta_i}|g_i)$ ，另外一部分是由于模型选择不确定导致的方差 $(\hat {\theta_i}-\hat {\bar {\theta}})^2$ 。所以，把后者考虑进去以后，最后的方差估计不会由于模型的不确定性而降低准确性。我怕表达不准，列出Anderson(2008)第111页的原文: an estimator of the variance of parameter estimater esimates that incorporates both sampling variance, given a model, and a variance component for model selection uncertainty. 所以，最后参数的置信区间为 
+
+$$\hat {\bar {\theta}} \pm 1.96 \times \sqrt{var\left({\hat {\bar {\theta}}}\right)}$$
 
 ### 实战演练
 
@@ -350,7 +360,7 @@ lm16 <- lm(birdspp ~ 1, data = tilbird)
 ```
 
 
-看着比较壮观，但是碰到十个参数，共2^10=1024个可能模型的时候就比较麻烦了。没事，可以再编个程序循环一下就行，此处暂时不提。
+看着比较壮观，但是碰到十个参数，共 $2^10=1024$ 个可能模型的时候就比较麻烦了。没事，可以再编个程序循环一下就行，此处暂时不提。
 
 16个可能模型一起平均，
 
@@ -413,7 +423,7 @@ summary(lm.ave)
 
 结果中的第一部分，'Component models'，即列出了所有模型的自由度(df)，对数似然函数(logLik)，AICc值，ΔAICc值和模型权重。比如最优模型的模型权重为**0.22**，即为真实模型的可能性为22%(其实是非常低的，一般达到0.6-0.7就很不错了，当然，这里使用的数据是被我随机化过的，所以结果没有实际参考价值)
 
-其中的第4部分，'Full model-averaged coefficients'，即使平均参数估计，hat-bar(ß1)。
+其中的第4部分，'Full model-averaged coefficients'，即使平均参数估计， $\hat {\bar {\theta}}$ 。
 
 第5部分，'Relative variable importance'，即是各个参数的重要值。最大为1，可见该例子中，面积是最重要的，次之是生境。至于隔离度和植物数量，则在模型中贡献不大。
 
@@ -456,7 +466,7 @@ t(bird.pred)  #把矩阵换方向，给页面省点空间，跟分析无关
 ```
 
 
-还有一点是非条件方差估计，这个，有点麻烦，等以后再说。计算方法其实跟上述的hat-bar(Y)类似。
+还有一点是非条件方差估计，这个，有点麻烦，等以后再说。计算方法其实跟上述的 $\hat {\bar {Y}}$ 类似。
 
 #### 实战演练2: 千岛湖墓群的决定因素
 
@@ -527,7 +537,7 @@ cor.sig(tiltomb[, c("plants", "habitats", "SI", "convex", "aspect", "Al", "sand"
 ```
 
 
-后续步骤跟演练1类似，不同的是，此处的应变量为二元结构，即presence-absence数据，得用广义线性模型中的逻辑斯帝回归(logistic regress)。其他注解省略，直接上程序，
+后续步骤跟演练1类似，不同的是，此处的应变量为二元结构，即presence-absence数据，得用广义线性模型中的逻辑斯帝回归(logistic regreθ)。其他注解省略，直接上程序，
 
 
 ```r
@@ -639,7 +649,7 @@ summary(tomb.model)
 ```
 
 
-结果一看，最优模型只包括生境参数，看来理论想像的数据也不错嘛，虽然烦人的ΔAICc依旧小于2，此处就不再进行模型平均了，因为2^7=128个可能模型，那个循环程序还没写好，所以就此为止。
+结果一看，最优模型只包括生境参数，看来理论想像的数据也不错嘛，虽然烦人的ΔAICc依旧小于2，此处就不再进行模型平均了，因为 $2^7=128$ 个可能模型，那个循环程序还没写好，所以就此为止。
 
 ## 结果
 
@@ -685,6 +695,6 @@ cor.test(tilbird[, 1], tiltomb[, 1])
 
 1.	Anderson, David R. (2008) *Model based inference in the life sciences: a primer on evidence*. New York: Springer.
 Burnham, Kenneth P., and David R. Anderson. (2002) *Model selection and multimodel inference: a practical information-theoretic approach*. Springer.
-2.	Symonds, Matthew RE, and Adnan Moussalli. (2011) "A brief guide to model selection, multimodel inference and model averaging in behavioural ecology using Akaike’s information criterion." *Behavioral Ecology and Sociobiology* 65.1: 13-21.
+2.	Symonds, Matthew RE, and Adnan Mouθalli. (2011) A brief guide to model selection, multimodel inference and model averaging in behavioural ecology using Akaike’s information criterion. *Behavioral Ecology and Sociobiology*, **65**: 13-21.
 APA  
-3.	Whittingham, Mark J., et al. (2006) "Why do we still use stepwise modelling in ecology and behaviour?." *Journal of animal ecology* 75.5: 1182-1189.
+3.	Whittingham, Mark J., et al. (2006) Why do we still use stepwise modelling in ecology and behaviour?. *Journal of animal ecology*, **75**: 1182-1189.
