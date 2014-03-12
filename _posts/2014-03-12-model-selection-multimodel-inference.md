@@ -70,11 +70,11 @@ $\hat{c}$ 为方差膨胀系数(VIF)或者过度离散系数(overdispersion coef
 
 得到各个模型的AIC值后，按照AIC从小到大排列，然后每个模型的AIC值与最小的AIC值相减，得到ΔAIC。
 
-通过得到的ΔAIC，计算各个模型的模型权重，即Akaika weight($w_i$)。其中第 $i$ 个模型的模型权重为：
+通过得到的ΔAIC，计算各个模型的模型权重，即Akaika weight(*w<sub>i</sub>*)。其中第 *i* 个模型的模型权重为：
 
 $$w_i = \frac {e^{(- \frac{1}{2} \Delta AIC_i)}}{\sum_{r=1}^R e^{(- \frac {1}{2} \Delta AIC_r)}}$$
 
-公式不复杂，而且R中有现成的命令计算 $w_i$ 。 $w_i$ 在0至1之间，并且所有模型权重之和为1。模型权重越大，表示该模型是真实模型的可能性就越大。比如第二个模型的 $w_2$ 为0.31，则表示这个模型为真实模型(best possible model)的可能性为31%。
+公式不复杂，而且R中有现成的命令计算*w<sub>i</sub>*。*w<sub>i</sub>*在0至1之间，并且所有模型权重之和为1。模型权重越大，表示该模型是真实模型的可能性就越大。比如第二个模型的*w<sub>2</sub>*为0.31，则表示这个模型为真实模型(best possible model)的可能性为31%。
 
 通过模型权重还可以计算各个参数的重要值(importance)。方法很简单，比如参数1，则挑出含参数1的所有模型，然后把这些模型的权重相加，即使该参数的权重。各个参数的权重一比，就知道谁最重要了。
 
@@ -82,28 +82,28 @@ $$w_i = \frac {e^{(- \frac{1}{2} \Delta AIC_i)}}{\sum_{r=1}^R e^{(- \frac {1}{2}
 
 其实现实一般不会这么完美的，上述所有结论都建立在ΔAIC>2的基础上，即第二个模型的AIC值比最小模型的AIC值差值大于2。如果小于2，则说明第一个模型跟第二个模型(或者连续前四五个模型)为真实模型的可能性差不多，无法决定优劣。咋么办？终极武器：模型平均(model averaging)。
 
-曾经ΔAIC>2是条金科玉律(Burnham & Anderson, 2002)，但是Anderson大神在2008版的书中似乎把ΔAIC>2给降级了(Andersion, 2008)，建议不要轻信这条规律，而是建议把所有模型统统进入模型进行平均，也就是不要随便剔除一些看似不可能模型，哪怕这些模型的权重都小得接近于零。如果ΔAIC>2，通过最优模型，带入实际岛屿参数，就可以计算出预测的鸟类种数或者存在墓葬的可能性。现在由于ΔAIC<2，第一个模型无法“代表”其他模型，于是所有模型都得参与进来。假设 $\hat{Y}$ 值为预测值(鸟类种数或墓葬出现概率)，则平均预测值为：
+曾经ΔAIC>2是条金科玉律(Burnham & Anderson, 2002)，但是Anderson大神在2008版的书中似乎把ΔAIC>2给降级了(Andersion, 2008)，建议不要轻信这条规律，而是建议把所有模型统统进入模型进行平均，也就是不要随便剔除一些看似不可能模型，哪怕这些模型的权重都小得接近于零。如果ΔAIC>2，通过最优模型，带入实际岛屿参数，就可以计算出预测的鸟类种数或者存在墓葬的可能性。现在由于ΔAIC<2，第一个模型无法“代表”其他模型，于是所有模型都得参与进来。假设 *Y<sup>^</sup>* 值为预测值(鸟类种数或墓葬出现概率)，则平均预测值为：
 
 $$\hat {\bar {Y}} = \sum_{r=1}^R (w_i \hat {Y_i})$$
 
-啥意思？假设有十个可能模型，则有十个模型的权重，以及可以计算出十个预测值。如今，平均预测值就是预测值分别乘以权重后的和，比如
+啥意思？假设有九个可能模型，则有九个模型的权重，以及可以计算出九个预测值。如今，平均预测值就是预测值分别乘以权重后的和，比如
 
-$$w_1 \hat{Y_1} + w_2 \hat{Y_2} + ... + w_{10} \hat{Y_{10}}$$
+$$w_1\hat{Y_1}+w_2\hat{Y_2}+...+w_9\hat{Y_9}$$
 
 
-既然预测值 $\hat{Y}$ 需要模型平均，参数估计值也得平均，道理跟估计预测值相似。假设参数 $i$ 的参数估计为 $θ_i$ ，本来当ΔAIC>2时只要直接采用最小AIC模型的 $θ_i$ 值即可，现在则需要把含有参数 $i$ 的所有模型列出来，进行相似的模型平均：
+既然预测值*Y<sup>^</sup>*需要模型平均，参数估计值也得平均，道理跟估计预测值相似。假设参数*i*的参数估计为*θ<sub>i</sub>*，本来当ΔAIC>2时只要直接采用最小AIC模型的 *θ<sub>i</sub>* 值即可，现在则需要把含有参数 $i$ 的所有模型列出来，进行相似的模型平均：
 
 $$\hat {\bar {\theta}} = \sum_{r=1}^R (w_i \hat {\theta_i})$$
 
 同理，计算参数估计的方差时，也得进行模型平均，得到非条件方差估计(unconditional variance estimate)，详见(Burnham & Anderson, 2002, p162):
 
-$$\hat {var}\left(\hat {\bar {\theta}}\right) = \left[\sum_{i=1}^R w_i \sqrt{\hat {var}(\hat {\theta_i}|g_i)+(\hat {\theta_i}-\hat {\bar {\theta}})^2} \right]^2$$
+$$\hat{var}\left(\hat{\bar{\theta}}\right)=\left[\sum_{i=1}^R w_i\sqrt{\hat {var}(\hat{\theta_i}|g_i)+(\hat{\theta_i}-\hat{\bar {\theta}})^2}\right]^2$$
 
 Anderson大神似乎对这个公式也不是很满意，建议更新为Anderson(2008)第111页的公式，其实结果相差不多：
 
-$$var\left(\hat {\bar {\theta}}\right) = \sum_{i=1}^R w_i\left[var(\hat {\theta_i}|g_i)+(\hat {\theta_i}-\hat {\bar {\theta}})^2 \right]$$
+$$var\left(\hat{\bar{\theta}}\right)=\sum_{i=1}^R w_i\left[var(\hat {\theta_i}|g_i)+(\hat{\theta_i}-\hat{\bar{\theta}})^2\right]$$
 
- 其中 $\hat{\bar{θ}}$ 是模型的平均参数估计， $w_i$ 是模型权重，以及 $g_i$ 表示第 $i$ 个模型。简言之，非条件方差估计就是包括两部分：根号内的前部分是本身的取样方差，另外一部分是由于模型选择不确定导致的方差。所以，把后者考虑进去以后，最后的方差估计不会由于模型的不确定性而降低准确性。我怕表达不准，列出Anderson(2008)第111页的原文: an estimator of the variance of parameter estimater esimates that incorporates both sampling variance, given a model, and a variance component for model selection uncertainty. 所以，最后参数的置信区间为 
+ 其中 $\hat{\bar{θ}}$ 是模型的平均参数估计，*w<sub>i</sub>*是模型权重，以及 *g<sub>i</sub>*表示第*i*个模型。简言之，非条件方差估计就是包括两部分：根号内的前部分是本身的取样方差，另外一部分是由于模型选择不确定导致的方差。所以，把后者考虑进去以后，最后的方差估计不会由于模型的不确定性而降低准确性。我怕表达不准，列出Anderson(2008)第111页的原文: an estimator of the variance of parameter estimater esimates that incorporates both sampling variance, given a model, and a variance component for model selection uncertainty. 所以，最后参数的置信区间为 
 
 $$\hat {\bar {\theta}} \pm 1.96 \times \sqrt{var\left({\hat {\bar {\theta}}}\right)}$$
 
