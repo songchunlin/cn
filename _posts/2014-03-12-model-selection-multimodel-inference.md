@@ -112,7 +112,7 @@ Anderson大神似乎对这个公式也不是很满意，建议更新为Anderson(
 
 {% highlight r %}
 install.packages("glmulti")
-{% endhlight %}
+{% endhighlight %}
 
 否则，从R的镜像网站下载压缩包后再本地安装。
 
@@ -124,7 +124,7 @@ install.packages("glmulti")
 
 {% highlight r %}
 library(glmulti)
-{% endhlight %}
+{% endhighlight %}
 
 ```
 ## Loading required package: rJava
@@ -137,7 +137,7 @@ library(glmulti)
 {% highlight r %}
 tilbird <- read.table("tilbird.txt", h = T)  #找到 'tilbird.txt'文件并打开
 str(tilbird)  # 检查`til.bird`的数据结构
-{% endhlight %}
+{% endhighlight %}
 
 ```
 ## 'data.frame':	40 obs. of  9 variables:
@@ -193,7 +193,7 @@ cor.sig = function(test) {
     }
     as.data.frame(res.sig)
 }
-{% endhlight %}
+{% endhighlight %}
 
 
 所有岛屿参数进行相关分析，
@@ -201,7 +201,7 @@ cor.sig = function(test) {
 
 {% highlight r %}
 cor.sig(tilbird[, 2:9])  #第一列不算，那是鸟类物种数，即Y值。
-{% endhlight %}
+{% endhighlight %}
 
 ```
 ##                area isolation    plants  habitats        Pe       PAR
@@ -232,7 +232,7 @@ cor.sig(tilbird[, 2:9])  #第一列不算，那是鸟类物种数，即Y值。
 
 {% highlight r %}
 global.model <- lm(birdspp ~ area + isolation + plants + habitats, data = tilbird)
-{% endhlight %}
+{% endhighlight %}
 
 
 然后利用`glmulti`包中的函数`glmulti`对所有可能模型中来选择最优模型。此处由于是4个参数，则共有2^4=16个可能模型(**此处不考虑交互效应**)。
@@ -240,7 +240,7 @@ global.model <- lm(birdspp ~ area + isolation + plants + habitats, data = tilbir
 
 {% highlight r %}
 bird.model <- glmulti(global.model, level = 1, crit = "aicc")  #选用AICc进行评判模型
-{% endhlight %}
+{% endhighlight %}
 
 ```
 ## Initialization...
@@ -251,7 +251,7 @@ bird.model <- glmulti(global.model, level = 1, crit = "aicc")  #选用AICc进行
 
 {% highlight r %}
 summary(bird.model)
-{% endhlight %}
+{% endhighlight %}
 
 ```
 ## $name
@@ -300,7 +300,7 @@ summary(bird.model)
 {% highlight r %}
 lm9 <- lm(birdspp ~ area + habitats, data = tilbird)
 summary(lm9)
-{% endhlight %}
+{% endhighlight %}
 
 ```
 ## 
@@ -330,7 +330,7 @@ summary(lm9)
 
 {% highlight r %}
 summary(bird.model)$icvalue
-{% endhlight %}
+{% endhighlight %}
 
 ```
 ##  [1] 204.9 205.3 206.9 207.5 214.3 214.9 216.6 217.1 217.8 218.4 220.6
@@ -358,7 +358,7 @@ lm13 <- lm(birdspp ~ isolation, data = tilbird)
 lm14 <- lm(birdspp ~ plants, data = tilbird)
 lm15 <- lm(birdspp ~ habitats, data = tilbird)
 lm16 <- lm(birdspp ~ 1, data = tilbird)
-{% endhlight %}
+{% endhighlight %}
 
 
 看着比较壮观，但是碰到十个参数，共 2^10=1024 个可能模型的时候就比较麻烦了。没事，可以再编个程序循环一下就行，此处暂时不提。
@@ -371,7 +371,7 @@ library(MuMIn)
 lm.ave <- model.avg(lm1, lm2, lm3, lm4, lm5, lm6, lm7, lm8, lm9, lm10, lm11, 
     lm12, lm13, lm14, lm15, lm16)
 summary(lm.ave)
-{% endhlight %}
+{% endhighlight %}
 
 ```
 ## 
@@ -453,7 +453,7 @@ pred.mat[, 16] <- predict(lm16)
 # 输出40个岛屿的平均预测值，即上述的 hat-bar(Y)
 bird.pred <- pred.mat %*% summary(lm.ave)$summary$Weight
 t(bird.pred)  #把矩阵换方向，给页面省点空间，跟分析无关
-{% endhlight %}
+{% endhighlight %}
 
 ```
 ##       isl1  isl2  isl3  isl4  isl5 isl6  isl7 isl8 isl9 isl10 isl11 isl12
@@ -477,7 +477,7 @@ t(bird.pred)  #把矩阵换方向，给页面省点空间，跟分析无关
 {% highlight r %}
 tiltomb <- read.table("tiltomb.txt", h = T)  #读取墓的虚拟数据 'tiltomb.txt'
 cor.sig(tiltomb[, -1])
-{% endhlight %}
+{% endhighlight %}
 
 ```
 ##               area    plants  habitats        SI      elev    convex
@@ -516,7 +516,7 @@ cor.sig(tiltomb[, -1])
 
 {% highlight r %}
 cor.sig(tiltomb[, c("plants", "habitats", "SI", "convex", "aspect", "Al", "sand")])
-{% endhlight %}
+{% endhighlight %}
 
 ```
 ##             plants  habitats        SI    convex    aspect        Al
@@ -545,7 +545,7 @@ cor.sig(tiltomb[, c("plants", "habitats", "SI", "convex", "aspect", "Al", "sand"
 global.model.tomb <- glm(tomb ~ plants + habitats + SI + convex + aspect + Al + 
     sand, family = binomial("logit"), data = tiltomb)
 tomb.model <- glmulti(global.model.tomb, level = 1, crit = "aicc")
-{% endhlight %}
+{% endhighlight %}
 
 ```
 ## Initialization...
@@ -586,7 +586,7 @@ tomb.model <- glmulti(global.model.tomb, level = 1, crit = "aicc")
 
 {% highlight r %}
 summary(tomb.model)
-{% endhlight %}
+{% endhighlight %}
 
 ```
 ## $name
@@ -669,7 +669,7 @@ PS: 以下是娱乐时间。
 
 {% highlight r %}
 cor.test(tilbird[, 1], tiltomb[, 1])
-{% endhlight %}
+{% endhighlight %}
 
 ```
 ## 
