@@ -1,6 +1,6 @@
 ---
-title: 模型选择和多模型推断
-tags: [多模型推断,模型选择,千岛湖,逐步回归,盗墓]
+title: 模型选择与多模型推断
+tags: [multimodel inference,model selection,千岛湖,逐步回归,盗墓]
 categories: [统计,娱乐]
 layout: post
 comments: yes
