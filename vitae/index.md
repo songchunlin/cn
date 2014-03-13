@@ -11,7 +11,7 @@ title: 简历 (斯幸峰)
 - 邮件：[xingfengsi\[at\]gmail.com](mailto:xingfengsi@gmail.com) 
 - 个人网站：[www.sixf.org](/home)
 - 联系地址：浙江省杭州市西湖区浙江大学生命科学学院441A室
-- [下载完整简历(237KB)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
+- [个人简历(237KB)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
 
 -------
 
@@ -180,4 +180,4 @@ MacArthur和Wilson的岛屿生物地理学理论的提出对片段化效应和�
 
 ---
 
-## [下载完整简历(237KB)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
+## [个人简历(237KB)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
