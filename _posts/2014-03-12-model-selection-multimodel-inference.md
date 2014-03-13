@@ -1,6 +1,6 @@
 ---
 title: 模型选择与多模型推断
-tags: [multimodel inference,model selection,千岛湖,逐步回归,盗墓]
+tags: [multimodel inference,model selection,千岛湖,盗墓,逐步回归,model averaging,模型平均]
 categories: [统计,娱乐]
 layout: post
 comments: yes
@@ -8,15 +8,15 @@ comments: yes
 
 
 
-#### －千岛湖鸟类与墓群的决定因素分析为例
+#### -- 以千岛湖鸟类与墓群的决定因素分析为例
 
 [**斯幸峰**](http://sixf.org/cn)
 
-三墩职业技术学校空想资本主义学院理论空间学研究所, 杭州 310058, 中国浙江
+[三墩职业技术学校](http://www.zju.edu)[空想资本主义学院](http://www.cls.zju.edu.cn)理论空间学研究所, 杭州 310058, 中国浙江
 
 ## 摘要
 
-由于常规的逐步回归分析在使用过程中有诸多缺陷，而信息理论的赤池信息量准则(AIC)弥补这一缺点。此文基于AIC的判定方法，利用模型选择和多模型推断(Model selection and multimodel inference)探讨了千岛湖岛屿的鸟类多样性的决定因素。同时开展对千岛湖墓葬分布的可能性分析，为盗墓的理论研究打下翔实的基础。
+由于常规的逐步回归分析在使用过程中有诸多缺陷，而信息理论的赤池信息量准则(AIC)弥补了这一缺点。此文基于AIC的判定方法，利用模型选择和多模型推断(model selection and multimodel inference)探讨千岛湖岛屿鸟类多样性的决定因素。同时开展对千岛湖墓葬分布的可能性分析，为盗墓的理论研究打下翔实的基础。
 
 ## 关键词
 
@@ -25,17 +25,17 @@ AIC、盗墓、多模型推断、模型选择、鸟类、千岛湖、逐步回�
 
 ## 前言
 
-面对一系列可能的备选模型，如何评判模型的优劣？选用逐步回归分析(stepwise regression)还是信息理论(information theoretic analysis)？Whittingham等(2006)对2004年的《Ecology Letters》、《Journal of Applied Ecology》和《Animal Behaviors》三个杂志分析，共有65篇文章使用多元回归(multiple regression)，其中57%的研究使用了逐步回归的方法。虽然逐步回归依旧广泛使用，但是有许多缺陷，如：参数估计的误差(bias in parameter)，模型选择算法的不一致(inconsistencies among model selection algorithms)，多个假设检验的内在缺陷(inherent problem of multiple hypothesis testing)，以及最后结果只依赖单一的最优模型(inappropriate focus or reliance on a single best model)。至于具体的缺陷原理，此处不予细说，本文将采用信息理论简要介绍多模型推断的方法。
+面对一系列可能的备选模型，如何评判模型的优劣？选用逐步回归分析(stepwise regression)还是信息理论(information theoretic analysis)？Whittingham等(2006)对2004年的*Ecology Letters*、*Journal of Applied Ecology*和*Animal Behaviors*三个杂志分析，共有65篇文章使用多元回归(multiple regression)，其中57%的研究使用了逐步回归的方法。虽然逐步回归依旧广泛使用，但是有许多缺陷，如：参数估计的误差(bias in parameter)，模型选择算法的不一致(inconsistencies among model selection algorithms)，多个假设检验的内在缺陷(inherent problem of multiple hypothesis testing)，以及最后结果只依赖单一的最优模型(inappropriate focus or reliance on a single best model)。至于具体的缺陷原理，此处不予细说，本文将采用信息理论简要介绍多模型推断的方法。
 
-千岛湖地处浙江西部，山清水秀，民风淳朴(此处省略一百字)。自1959年新安江大坝建成后，形成1078个岛屿(108米水位时)，乃名副其实的“千岛湖”，是一个得天独厚的路桥岛屿天然实验场所。[本研究团队](http://mypage.zju.edu.cn/personnelCard/pingding)自2002年开始千岛湖地区的鸟类调查，到目前已经逐渐拓展到蜘蛛、蜥蜴、青蛙、蛇、猴子、昆虫、兽类、蝴蝶以及植物等各项业务，欢迎广大生态爱好者和有志之士前来参观与洽谈。撰写本文的起因是早先跟本团队中的“蜘蛛侠”吴博士尝试探讨鸟类多样性与风水的关系，加上近日刚好看了一些有关模型选择和多模型推断(model selection and multimodel inference)的文献，采用“先进”的AIC(Akaike information criterion)技术，探讨该学术问题的可能性。
+[千岛湖](http://sixf.org/cn/pages/thousand-island-lake/)地处浙江西部，山清水秀，民风淳朴(此处省略一百字)。自1959年新安江大坝建成后，形成1078个岛屿(108米水位时)，乃名副其实的“千岛湖”，是一个得天独厚的路桥岛屿天然实验场所。[本研究团队](http://mypage.zju.edu.cn/personnelCard/pingding)自2002年开始千岛湖地区的鸟类调查，到目前已经逐渐拓展到蜘蛛、蜥蜴、青蛙、蛇、猴子、昆虫、兽类、蝴蝶以及植物等各项业务，欢迎广大生态爱好者和有志之士前来参观与洽谈。撰写本文的起因是早先跟本团队中的“蜘蛛侠”吴博士尝试探讨鸟类多样性与风水的关系，加上近日刚好看了一些有关模型选择和多模型推断(model selection and multimodel inference)的文献(xián)，采用“先进”的AIC(Akaike information criterion)技术，探讨该学术问题的可能性。
 
-本文主要探讨的问题包括两部分：1) AIC是啥？莫非是美国国际大学(American International College)吗？ 2) 模型选择的操作步骤；3) 千岛湖岛屿上鸟类和墓葬分布的机理。
+本文主要探讨的问题包括两部分：1) AIC是啥？莫非是美国国际大学(American International College)得缩写？2) 模型选择的操作步骤；3) 千岛湖岛屿上鸟类和墓葬分布的机理。
 
 ## 材料与方法 
 
 ### 研究地点与岛屿参数
 
-按照面积和隔离度，进行分层随机(stratified random sampling)在千岛湖选取40个岛屿。自2002年起开始实地考察并详细并测量了跟鸟类多样性相关的各种岛屿参数：面积、隔离度、 植被物种数、生境数目、周长、周长面积比、形状指数、海拔，并于昨晚想像了各种与及盗墓可能性相关的岛屿参数：凹凸度、坡度、朝向、铝和硅的含量，沙土指数和pH值。
+按照面积和隔离度，利用分层随机抽样法(stratified random sampling)在千岛湖选取40个岛屿。自2002年开始实地考察并详细并测量了跟鸟类多样性相关的各种岛屿参数：面积、隔离度、 植被物种数、生境种类、周长、周长面积比、形状指数、海拔，并于昨晚想像了各种与盗墓可能相关的岛屿参数：凹凸度、坡度、朝向、铝和硅的含量，沙土指数和pH值。
 
 其中铝和硅的含量是白膏泥的主要组成元素。由于白膏泥防水性能好，是墓葬出没的指标。沙土指数反映了建墓的可能性，即如果沙土含量过多，土质不夯实，容易测漏。pH值，跟墓葬中的有机体“发酵”程度相关。形状指数、凹凸度、坡度和朝向是判断风水优劣的关键，因为圆山、朝南、土层厚及石头少的生境是墓葬出现的高发区。
 
@@ -53,35 +53,35 @@ AIC在一般情况下，可以表示为
 
 增加了自由参数提高了拟合的优良性，即AIC鼓励数据的优良性但是尽量避免出现过度拟合(overfitting)的情况，所以优先考虑的模型是AIC值最小的那一只。
 
-其中在样本小的情况下(n/k < 40)，AIC 转变成AICc(corrected AIC)，即：
+其中在小样本的情况下(n/k < 40)，AIC 转变成AICc (corrected AIC)，即：
 
 ![](http://sixf.org/files/images/2014/03/eq3.png)
 
-当n增加时，AICc收敛成AIC。所以AICc可以应用于任何样本大小的情况下(注: 这部分内容主要抄自[维基百科](http://zh.wikipedia.org/wiki/赤池信息量准则)，不过维基百科中的文献引用有个小错误，即参考书是 Burham & Anderson(2002)，而不是2004)
+当n增加时，AICc收敛成AIC。所以AICc可以应用于任何样本大小的情况下(注: 这部分内容主要抄自[维基百科](http://zh.wikipedia.org/wiki/赤池信息量准则)，不过维基百科的该页中文文献引用有个小错误，即参考书是 Burham & Anderson(2002)，而不是2004)
 
 如果数据有过度离散(overdispersion)的影响，则需要考虑Q版的AIC，即
 
 ![](http://sixf.org/files/images/2014/03/eq4.png)
 
-$\hat{c}$ 为方差膨胀系数(VIF)或者过度离散系数(overdispersion coefficient)。如果 $\hat{c}$ 大于1，则需要采用QAIC。当然，Q版的，也有QAICc，道理同上。一般可以参数进入模型前，只要保证参数的独立性，则可以避免过度离散的情况。
+$\hat{c}$ 为方差膨胀系数(VIF)或者过度离散系数(overdispersion coefficient)。如果 $\hat{c}$ 大于1，则需要采用QAIC。当然，Q版的，也有QAICc，道理同上。一般在参数进入模型前，只要保证参数的独立性，则可以避免过度离散的情况。
 
 ### 计算模型权重
 
 得到各个模型的AIC值后，按照AIC从小到大排列，然后每个模型的AIC值与最小的AIC值相减，得到ΔAIC。
 
-通过得到的ΔAIC，计算各个模型的模型权重，即Akaika weight(*w<sub>i</sub>*)。其中第 *i* 个模型的模型权重为：
+通过得到的ΔAIC，计算各个模型的模型权重，即Akaika weight(*w<sub>i</sub>* )。其中第 *i* 个模型的模型权重为：
 
 ![](http://sixf.org/files/images/2014/03/eq5.png)
 
-公式不复杂，而且R中有现成的命令计算*w<sub>i</sub>*。*w<sub>i</sub>*在0至1之间，并且所有模型权重之和为1。模型权重越大，表示该模型是真实模型的可能性就越大。比如第二个模型的*w<sub>2</sub>*为0.31，则表示这个模型为真实模型(best possible model)的可能性为31%。
+公式不复杂，而且R中有现成的命令计算*w<sub>i</sub>* 。*w<sub>i</sub>* 在0至1之间，并且所有模型权重之和为1。模型权重越大，表示该模型是真实模型的可能性就越大。比如第二个模型的*w<sub>2</sub>* 为0.31，则表示这个模型为真实模型(best possible model)的可能性为31%。
 
-通过模型权重还可以计算各个参数的重要值(importance)。方法很简单，比如参数1，则挑出含参数1的所有模型，然后把这些模型的权重相加，即使该参数的权重。各个参数的权重一比，就知道谁最重要了。
+通过模型权重还可以计算各个参数的重要值(importance)。方法很简单，比如参数1，则挑出含参数1的所有模型，然后把这些模型的权重相加，即是该参数的权重。各个参数的权重值一比，就知道哪个参数最重要了。
 
 ### 模型选择的不确定性和多模型推断
 
 其实现实一般不会这么完美的，上述所有结论都建立在ΔAIC>2的基础上，即第二个模型的AIC值比最小模型的AIC值差值大于2。如果小于2，则说明第一个模型跟第二个模型(或者连续前四五个模型)为真实模型的可能性差不多，无法决定优劣。咋么办？终极武器：模型平均(model averaging)。
 
-曾经ΔAIC>2是条金科玉律(Burnham & Anderson, 2002)，但是Anderson大神在2008版的书中似乎把ΔAIC>2给降级了(Andersion, 2008)，建议不要轻信这条规律，而是建议把所有模型统统进入模型进行平均，也就是不要随便剔除一些看似不可能模型，哪怕这些模型的权重都小得接近于零。如果ΔAIC>2，通过最优模型，带入实际岛屿参数，就可以计算出预测的鸟类种数或者存在墓葬的可能性。现在由于ΔAIC<2，第一个模型无法“代表”其他模型，于是所有模型都得参与进来。假设 *Y<sup>^</sup>* 值为预测值(鸟类种数或墓葬出现概率)，则平均预测值为：
+曾经ΔAIC>2是条金科玉律(Burnham & Anderson, 2002)，但是Anderson大神在2008版的书中似乎把ΔAIC>2给降级了(Andersion, 2008)，建议不要轻信这条规律，而是建议把所有模型统统进行模型平均，也就是不要随便剔除一些看似不可能模型，哪怕这些模型的权重都小得接近于零。如果ΔAIC>2，通过最优模型，代入实际岛屿参数测量值，就可以计算出预测的鸟类种数或者存在墓葬的可能性。现在由于ΔAIC<2，第一个模型无法“代表”其他模型，于是所有模型都得参与进来。假设 *Y<sup>^</sup>* 值为预测值(鸟类种数或墓葬出现概率)，则平均预测值为：
 
 ![](http://sixf.org/files/images/2014/03/eq6.png)
 
@@ -90,31 +90,31 @@ $\hat{c}$ 为方差膨胀系数(VIF)或者过度离散系数(overdispersion coef
 ![](http://sixf.org/files/images/2014/03/eq7.png)
 
 
-既然预测值*Y<sup>^</sup>*需要模型平均，参数估计值也得平均，道理跟估计预测值相似。假设参数*i*的参数估计为*θ<sub>i</sub>*，本来当ΔAIC>2时只要直接采用最小AIC模型的 *θ<sub>i</sub>* 值即可，现在则需要把含有参数 $i$ 的所有模型列出来，进行相似的模型平均：
+既然预测值*Y<sup>^</sup>*需要模型平均，参数估计值也得平均，道理跟估计预测值相似。假设参数*i*的参数估计为*θ<sub>i</sub>*，本来当ΔAIC>2时只要直接采用最小AIC模型的 *θ<sub>i</sub>* 值即可，现在则需要把含有参数 *i* 的所有模型列出来，进行模型平均：
 
 ![](http://sixf.org/files/images/2014/03/eq8.png)
 
-同理，计算参数估计的方差时，也得进行模型平均，得到非条件方差估计(unconditional variance estimate)，详见(Burnham & Anderson, 2002, p162):
+同理，计算参数估计的方差时，也得进行模型平均，得到非条件方差估计(unconditional variance estimate)，详见(Burnham & Anderson, 2002, p.162):
 
 ![](http://sixf.org/files/images/2014/03/eq9.png)
 
-Anderson大神似乎对这个公式也不是很满意，建议更新为Anderson(2008)第111页的公式，其实结果相差不多：
+Anderson大神似乎对这个公式也不是很满意，建议更新为Anderson (2008)第111页的公式，其实计算结果相差不多：
 
 ![](http://sixf.org/files/images/2014/03/eq10.png)
 
- 其中 $\hat{\bar{θ}}$ 是模型的平均参数估计，*w<sub>i</sub>*是模型权重，以及 *g<sub>i</sub>*表示第*i*个模型。简言之，非条件方差估计就是包括两部分：根号内的前部分是本身的取样方差，另外一部分是由于模型选择不确定导致的方差。所以，把后者考虑进去以后，最后的方差估计不会由于模型的不确定性而降低准确性。我怕表达不准，列出Anderson(2008)第111页的原文: an estimator of the variance of parameter estimater esimates that incorporates both sampling variance, given a model, and a variance component for model selection uncertainty. 所以，最后参数的置信区间为 
+ 其中 $\hat{\bar{θ}}$ 是模型的平均参数估计，*w<sub>i</sub>* 是模型权重，以及 *g<sub>i</sub>* 表示第*i* 个模型。简言之，非条件方差估计就是包括两部分：根号内的前部分是本身的取样方差，另外一部分是由于模型选择不确定导致的方差。所以，把后者考虑进去以后，最后的方差估计不会由于模型的不确定性而降低准确性。我怕表达有所不准，列出Anderson(2008)第111页的原文: an estimator of the variance of parameter estimater esimates that incorporates both sampling variance, given a model, and a variance component for model selection uncertainty. 所以，在样本量较大的前提下，最后参数的置信区间为 
 
 ![](http://sixf.org/files/images/2014/03/eq11.png)
 
 ### 实战演练
 
-演练开始之前，请确保已经安装下列软件包：`glmulti`, `MuMIn`, `bbmle`。网速给力的情况下，最简单的方法是直接在R语言操作界面输入
+演练开始之前，请确保已经安装下列软件包：`glmulti`, `MuMIn`, `bbmle`。网速给力的情况下，最简单的方法是直接在R语言操作界面中输入
 
 {% highlight r %}
 install.packages("glmulti")
 {% endhighlight %}
 
-否则，从R的镜像网站下载压缩包后再本地安装。
+否则，得从R的镜像网站下载压缩包后再本地安装。
 
 
 #### 演练一：千岛湖鸟类多样性的决定因素
@@ -131,7 +131,7 @@ library(glmulti)
 ```
 
 
-导入千岛湖鸟类和岛屿数据(注：这个数据是真实的，只是我把数据随机调换顺序了)
+导入千岛湖鸟类和岛屿数据(注：这个数据是真实的，只是我把数据的顺序随机调换了)
 
 
 {% highlight r %}
@@ -338,7 +338,7 @@ summary(bird.model)$icvalue
 ```
 
 
-发现第二个模型的ΔAICc为223.7-223.8=0.1。坑爹啊！如果此时ΔAICc>2，则模型选择到此结束，即最优模型为第一个模型。可是，现实比较残忍，继续模型平均，列出所有可能模型：
+发现第二个模型的ΔAICc为223.8-223.7=0.1。坑爹啊！如果此时ΔAICc>2，则模型选择到此结束，即最优模型为第一个模型。可是，现实比较残忍，继续模型平均，列出所有可能模型：
 
 
 {% highlight r %}
@@ -424,11 +424,11 @@ summary(lm.ave)
 
 结果中的第一部分，'Component models'，即列出了所有模型的自由度(df)，对数似然函数(logLik)，AICc值，ΔAICc值和模型权重。比如最优模型的模型权重为**0.29**，即为真实模型的可能性为29%(其实是非常低的，一般达到0.6-0.7就很不错了，当然，这里使用的数据是被我随机化过的，所以结果没有实际参考价值)
 
-其中的第4部分，'Full model-averaged coefficients'，即使平均参数估计， $\hat{\bar{θ}}$ 。
+其中的第4部分，'Full model-averaged coefficients'，即是平均参数估计， $\hat{\bar{θ}}$ 。
 
 第5部分，'Relative variable importance'，即是各个参数的重要值。最大为1，可见该例子中，面积是最重要的，次之是生境。至于隔离度和植物数量，则在模型中贡献不大。
 
-此时如果打算计算岛1预测的鸟类物种数，则可以如下进行模型平均：
+此时如果打算计算各岛的预鸟类物种数，则可以如下进行模型平均：
 
 
 {% highlight r %}
@@ -650,7 +650,7 @@ summary(tomb.model)
 ```
 
 
-结果一看，最优模型只包括形状指数，看来理论想像的数据也不错嘛，虽然烦人的ΔAICc依旧小于2，此处就不再进行模型平均了，因为 2^7=128 个可能模型，那个循环程序还没写好，所以就此为止。
+结果一看，最优模型只包括形状指数，看来理论想像的数据也不错嘛，虽然烦人的ΔAICc依旧小于2，此处就不再演示模型平均了，因为 2^7=128 个可能模型，那个循环程序还没写好，所以就此为止。
 
 ## 结果
 
@@ -690,7 +690,7 @@ cor.test(tilbird[, 1], tiltomb[, 1])
 
 ## 致谢
 
-谢谢看官的一路捧场，浏览完这块又长又臭的博文。谢谢实验室提供的平台和提供的支助，给于了我想像的空间，以及岛屿的数据。有关墓葬的生境数据，来自[古田山大样地](http://blog.sciencenet.cn/blog-267448-463699.html)，我想像着搬到千岛湖了，在此致谢。分析方法部分参考于<a href="https://gist.github.com/sixf/9488518">此</a>。本文的源代码及数据可以点击[此处](https://github.com/sixf/TIL-model-selection/archive/master.zip)下载。看官就是reviewer(评审员)，若有任何reviews，请在留言处指出，谢谢！
+谢谢看官的一路捧场，浏览完这块又长又臭的博文。谢谢实验室提供的平台和提供的支助，给于了我想像的空间，以及岛屿的数据。有关墓葬的生境数据，来自[古田山大样地](http://blog.sciencenet.cn/blog-267448-463699.html)，我想像着搬到千岛湖了，在此一并致谢。分析方法部分参考于<a href="https://gist.github.com/sixf/9488518">此</a>。本文的源代码及数据可以点击[此处](https://github.com/sixf/TIL-model-selection/archive/master.zip)下载。看官就是reviewer(评审员)，若有任何reviews，请尽请留言，谢谢！
 
 ## 参考文献
 
