@@ -8,22 +8,22 @@ comments: yes
 
 
 
-#### -- 分析千岛湖鸟类多样性与墓群出现率的决定性因素
+### -- 分析千岛湖鸟类多样性与墓群出现率的决定性因素
 
 [**斯幸峰**](http://sixf.org/cn)
 
 [三墩职业技术学校](http://www.zju.edu)[空想资本主义学院](http://www.cls.zju.edu.cn)理论空间学研究所, 杭州 310058, 中国浙江
 
-## 摘要
+# 摘要
 
 由于常规的逐步回归分析在使用过程中有诸多缺陷，而信息理论的赤池信息量准则(AIC)弥补了这一缺点。此文基于AIC的判定方法，利用模型选择和多模型推断(model selection and multimodel inference)探讨千岛湖岛屿鸟类多样性的决定因素。同时开展对千岛湖墓葬分布的可能性分析，为盗墓的理论研究打下翔实的基础。
 
-## 关键词
+# 关键词
 
 AIC、盗墓、多模型推断、模型选择、鸟类、千岛湖、逐步回归
 
 
-## 前言
+# 前言
 
 面对一系列可能的备选模型，如何评判模型的优劣？选用逐步回归分析(stepwise regression)还是信息理论(information theoretic analysis)？Whittingham等(2006)对2004年的*Ecology Letters*、*Journal of Applied Ecology*和*Animal Behaviors*三个杂志分析，共有65篇文章使用多元回归(multiple regression)，其中57%的研究使用了逐步回归的方法。虽然逐步回归依旧广泛使用，但是有许多缺陷，如：参数估计的误差(bias in parameter)，模型选择算法的不一致(inconsistencies among model selection algorithms)，多个假设检验的内在缺陷(inherent problem of multiple hypothesis testing)，以及最后结果只依赖单一的最优模型(inappropriate focus or reliance on a single best model)。至于具体的缺陷原理，此处不予细说，本文将采用信息理论简要介绍多模型推断的方法。
 
@@ -31,15 +31,15 @@ AIC、盗墓、多模型推断、模型选择、鸟类、千岛湖、逐步回�
 
 本文主要探讨的问题包括两部分：1) AIC是啥？莫非是美国国际大学(American International College)得缩写？2) 模型选择的操作步骤；3) 千岛湖岛屿上鸟类和墓葬分布的机理。
 
-## 材料与方法 
+# 材料与方法 
 
-### 研究地点与岛屿参数
+## 研究地点与岛屿参数
 
 按照面积和隔离度，利用分层随机抽样法(stratified random sampling)在千岛湖选取40个岛屿。自2002年开始实地考察并详细并测量了跟鸟类多样性相关的各种岛屿参数：面积、隔离度、 植被物种数、生境种类、周长、周长面积比、形状指数、海拔，并于昨晚想像了各种与盗墓可能相关的岛屿参数：凹凸度、坡度、朝向、铝和硅的含量，沙土指数和pH值。
 
 其中铝和硅的含量是白膏泥的主要组成元素。由于白膏泥防水性能好，是墓葬出没的指标。沙土指数反映了建墓的可能性，即如果沙土含量过多，土质不夯实，容易测漏。pH值，跟墓葬中的有机体“发酵”程度相关。形状指数、凹凸度、坡度和朝向是判断风水优劣的关键，因为圆山、朝南、土层厚及石头少的生境是墓葬出现的高发区。
 
-### AIC
+## AIC
 
 AIC(Akaika Information Criterion)即赤池信息量准则，是评估统计模型的复杂度和衡量统计模型拟合优良性的一种标准。最早由日本统计学家赤池弘次创立和发展，由此得名。
 
@@ -65,7 +65,7 @@ AIC在一般情况下，可以表示为
 
 $\hat{c}$ 为方差膨胀系数(VIF)或者过度离散系数(overdispersion coefficient)。如果 $\hat{c}$ 大于1，则需要采用QAIC。当然，Q版的，也有QAICc，道理同上。一般在参数进入模型前，只要保证参数的独立性，则可以避免过度离散的情况。
 
-### 计算模型权重
+## 计算模型权重
 
 得到各个模型的AIC值后，按照AIC从小到大排列，然后每个模型的AIC值与最小的AIC值相减，得到ΔAIC。
 
@@ -77,7 +77,7 @@ $\hat{c}$ 为方差膨胀系数(VIF)或者过度离散系数(overdispersion coef
 
 通过模型权重还可以计算各个参数的重要值(importance)。方法很简单，比如参数1，则挑出含参数1的所有模型，然后把这些模型的权重相加，即是该参数的权重。各个参数的权重值一比，就知道哪个参数最重要了。
 
-### 模型选择的不确定性和多模型推断
+## 模型选择的不确定性和多模型推断
 
 其实现实一般不会这么完美的，上述所有结论都建立在ΔAIC>2的基础上，即第二个模型的AIC值比最小模型的AIC值差值大于2。如果小于2，则说明第一个模型跟第二个模型(或者连续前四五个模型)为真实模型的可能性差不多，无法决定优劣。咋么办？终极武器：模型平均(model averaging)。
 
@@ -106,7 +106,7 @@ Anderson大神似乎对这个公式也不是很满意，建议更新为Anderson 
 
 ![](http://sixf.org/files/images/2014/03/eq11.png)
 
-### 实战演练
+## 实战演练
 
 演练开始之前，请确保已经安装下列软件包：`glmulti`, `MuMIn`, `bbmle`。网速给力的情况下，最简单的方法是直接在R语言操作界面中输入
 
@@ -117,7 +117,7 @@ install.packages("glmulti")
 否则，得从R的镜像网站下载压缩包后再本地安装。
 
 
-#### 演练一：千岛湖鸟类多样性的决定因素
+### 演练一：千岛湖鸟类多样性的决定因素
 
 导入 `glmulti`包
 
@@ -469,7 +469,7 @@ t(bird.pred)  #把矩阵换方向，给页面省点空间，跟分析无关
 
 还有一点是非条件方差估计，这个，有点麻烦，等以后再说。计算方法其实跟上述的 $\hat{\bar{Y}}$ 类似。
 
-#### 实战演练二: 千岛湖墓群的决定因素
+### 实战演练二: 千岛湖墓群的决定因素
 
 这个分析就跟上述方法相似了，按部就班：
 
@@ -652,11 +652,11 @@ summary(tomb.model)
 
 结果一看，最优模型只包括形状指数，看来理论想像的数据也不错嘛，虽然烦人的ΔAICc依旧小于2，此处就不再演示模型平均了，因为 2^7=128 个可能模型，那个循环程序还没写好，所以就此为止。
 
-## 结果
+# 结果
 
 千岛湖鸟类多样性主要取决于岛屿面积和生境多样性，而墓葬可能性取决于岛屿的形状指数。
 
-## 讨论
+# 讨论
 
 听说统计上有一个更牛的利器是[随机森林模型](http://blog.sciencenet.cn/blog-661364-615921.html)(random forest model)，可以无视参数是否独立，直接进入模型而且可以精确预测。哪天有兴趣琢磨琢磨。
 
@@ -688,11 +688,11 @@ cor.test(tilbird[, 1], tiltomb[, 1])
 
 结果是显著正相关(t = 3.2562, df = 38, p-value = 0.002378)。墓葬的出现，表示该岛风水还不错，所以最后证实本文的最初假设，即跟蜘蛛侠讨论时所做的预测：鸟类多样性与风水有显著的相关性。至于机理等科学问题的讨论，不是本篇论文能够解决的。请听下回分解。
 
-## 致谢
+# 致谢
 
 谢谢看官的一路捧场，浏览完这块又长又臭的博文。谢谢实验室提供的平台和提供的支助，给于了我想像的空间，以及岛屿的数据。有关墓葬的生境数据，来自[古田山大样地](http://blog.sciencenet.cn/blog-267448-463699.html)，我想像着搬到千岛湖了，在此一并致谢。分析方法部分参考于<a href="https://gist.github.com/sixf/9488518">此</a>。本文的源代码及数据可以点击[此处](https://github.com/sixf/TIL-model-selection/archive/master.zip)下载。看官就是reviewer(评审员)，若有任何reviews，请尽请留言，谢谢！
 
-## 参考文献
+# 参考文献
 
 1.	Anderson, David R. (2008) *Model based inference in the life sciences: a primer on evidence*. New York: Springer.
 2.	Burnham, Kenneth P., and David R. Anderson. (2002) *Model selection and multimodel inference: a practical information-theoretic approach*. Springer.
