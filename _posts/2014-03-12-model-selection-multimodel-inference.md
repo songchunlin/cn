@@ -696,6 +696,6 @@ cor.test(tilbird[, 1], tiltomb[, 1])
 
 1.	Anderson, David R. (2008) *Model based inference in the life sciences: a primer on evidence*. New York: Springer.
 2.	Burnham, Kenneth P., and David R. Anderson. (2002) *Model selection and multimodel inference: a practical information-theoretic approach*. Springer.
-2.	Symonds, Matthew RE, and Adnan Mouθalli. (2011) A brief guide to model selection, multimodel inference and model averaging in behavioural ecology using Akaike’s information criterion. *Behavioral Ecology and Sociobiology*, **65**: 13-21.
+2.	Symonds, Matthew RE, and Adnan Moussalli. (2011) A brief guide to model selection, multimodel inference and model averaging in behavioural ecology using Akaike’s information criterion. *Behavioral Ecology and Sociobiology*, **65**: 13-21.
 APA  
 3.	Whittingham, Mark J., et al. (2006) Why do we still use stepwise modelling in ecology and behaviour?. *Journal of animal ecology*, **75**: 1182-1189.
