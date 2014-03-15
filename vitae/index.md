@@ -164,19 +164,6 @@ MacArthur和Wilson的岛屿生物地理学理论的提出对片段化效应和�
 -   英语(流利)
 -   普通话(母语)
 -   野外急救能力：二级
--    R语言、微软系统Office和Photoshop
--   中等熟悉     LaTeX、苹果系统iWork、WordPress、EndNote和Google Earth
--   基本操作     Mathematica、PHP、MarkDown、CANOCO和WinBUGS
-
-
---------------
-
-# 语言及其他技能
-
-
--   英语(流利)
--   普通话(母语)
--   野外急救能力：二级
 -   全程马拉松：4小时51分钟
 
 ---
