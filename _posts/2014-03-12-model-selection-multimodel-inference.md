@@ -12,7 +12,7 @@ comments: yes
 
 [**斯幸峰**](http://sixf.org/cn)
 
-[三墩职业技术学校](http://www.zju.edu)[空想资本主义学院](http://www.cls.zju.edu.cn)理论空间学研究所, 杭州 310058, 中国浙江
+[三墩职业技术学校](http://www.zju.edu)[空想资本主义学院](http://www.cls.zju.edu.cn)理论想像学研究所, 杭州 310058, 中国浙江
 
 # 摘要
 
