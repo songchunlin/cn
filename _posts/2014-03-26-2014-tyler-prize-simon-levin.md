@@ -6,7 +6,7 @@ layout: post
 comments: yes
 ---
 
-泰勒基金会今日(太平洋时间3月25日)宣布2014年度[泰勒环境科学成就奖](http://tylerprize.usc.edu/index.html)(Tyler Prize for Environmental Achievenment)授予普林斯顿大学生物学George M. Moffett[讲座教授](http://sixf.org/cn/2014/02/academic-rank-professorship-uk-us/)Simon A. Levin博士，以表彰[Simon Levin教授](http://www.princeton.edu/~slevin/)在揭示物种和生态系统之间有关复杂性的[研究工作](http://tylerprize.usc.edu/press/pr2014.html)。
+泰勒基金会今日(美国太平洋时间3月25日)宣布2014年度[泰勒环境科学成就奖](http://tylerprize.usc.edu/index.html)授予普林斯顿大学生物学George M. Moffett[讲座教授](http://sixf.org/cn/2014/02/academic-rank-professorship-uk-us/)Simon A. Levin博士，以表彰[Simon Levin教授](http://www.princeton.edu/~slevin/)在揭示物种和生态系统之间有关复杂性的[研究工作](http://tylerprize.usc.edu/press/pr2014.html)。
 
 Levin教授曾任国际数学生物学会主席和美国生态学会主席，当选美国科学院、美国人文和科学院院士。主编巨著《生物多样性百科全书》，发表了近500篇论著。主要研究多样性的进化、自然系统中生物多样性机制的维持及其对于生态系统结构和机能的意义。其工作整合了经验研究和数学建模，重点强调了如何外推跨越空间、时间和生物复杂性的各个尺度。近年来还特别以复杂性思想对生态学进行研究[1]。
 
