@@ -16,9 +16,9 @@ Levin教授曾任国际数学生物学会主席和美国生态学会主席，当
 
 提到泰勒奖，这是啥玩意呢？原来泰勒环境成就奖(Tyler Prize for Environmental Achievement)由泰勒夫妇于1973年创立，是环境科学、能源、医学领域的国际性奖项。此奖项每年由南加州大学颁发，获奖者可获得20万美元现金奖励和金质奖章。泰勒奖被认为是国际环境科学的最高奖，世界科学界的最高奖之一[2]。如何鉴定一个奖是不是世界科学最高奖，以及所谓的某某领域“诺贝尔奖”？一个简便的法则是看看历年获奖者是谁？翻开账本，[许多大名](http://sixf.org/en/2014/03/big-names-in-ecology/)[赫然在列](http://en.wikipedia.org/wiki/Tyler_Prize_for_Environmental_Achievement)：Edward O. Wilson、Jane Goodall、Jared Diamond、Ehrlich夫妇以及Thomas Lovejoy等，包括本月初来华访问的杜克大学[Stuart Pimm教授](http://sixf.org/en/2014/03/once-upon-a-year-at-duke/)。的确，这些都是生态学或环境学领域神仙级别的人物，当然泰勒奖获奖者也包括华裔科学家“水稻之父”[张德慈院士](http://en.wikipedia.org/wiki/T._T._Chang)和首位本土获奖者[刘东生院士](http://www.cas.cn/ky/kjjl/gjzgkxjsj/2003n/lds/)。中科院“[爱因斯坦讲席教授](http://www.bic.cas.cn/zdxm/AYSTJXJS/200911/P020100810354187902484.doc)”计划执行管理办法曾经提到每年邀请1-10位世界顶级科学家来华学术访问，界定标准是诺贝尔奖、菲尔茨奖、沃尔夫数学奖、图灵奖、泰勒奖等获奖者或这些奖项的潜力股，可见所列这些奖项都真是跟诺贝尔奖齐名的。因此，泰勒奖也名至实归。奇怪的是，不知道为什么最近的文件中中科院又把包含这些奖项的这句话给删除了，难道是之前口号喊得太大了，请不到这些顶级科学家吗？
 
+---
 
+<small>参考资料：
 
-**参考文献：**
-
--	[1] Simon Levin. (2006) 脆弱的领地：复杂性与公有域. [上海科技教育出版社](http://www.sino-eh.com/sts/BookHTML/Book_319.shtml).
--	[2] 维基百科: [泰勒环境成就奖](http://zh.wikipedia.org/wiki/泰勒环境成就奖).
+1.	Simon Levin. (2006) 脆弱的领地：复杂性与公有域. [上海科技教育出版社](http://www.sino-eh.com/sts/BookHTML/Book_319.shtml).
+2.	维基百科: [泰勒环境成就奖](http://zh.wikipedia.org/wiki/泰勒环境成就奖).</small>
