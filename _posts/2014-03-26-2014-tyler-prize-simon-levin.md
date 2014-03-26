@@ -3,7 +3,7 @@ title: Simon Levin荣获2014年度泰勒环境科学奖
 tags: [大牛,泰勒奖,生态系统,物种,复杂性,生态学]
 categories: [学术]
 layout: post
-comments:yes
+comments: yes
 ---
 
 泰勒基金会今日(太平洋时间3月25日)宣布2014年度[泰勒环境科学成就奖](http://tylerprize.usc.edu/index.html)(Tyler Prize for Environmental Achievenment)授予普林斯顿大学生物学George M. Moffett[讲座教授](http://sixf.org/cn/2014/02/academic-rank-professorship-uk-us/)Simon A. Levin博士，以表彰[Simon Levin教授](http://www.princeton.edu/~slevin/)在揭示物种和生态系统之间有关复杂性的[研究工作](http://tylerprize.usc.edu/press/pr2014.html)。
