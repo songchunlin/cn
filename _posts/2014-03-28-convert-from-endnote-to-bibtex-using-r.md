@@ -6,7 +6,7 @@ layout: post
 comments: yes
 ---
 
-用Word写短小的论文，有天生的优势。可是对于长篇大论，既有章节又要编排目录的情况下，格式的问题会非常头疼。此时LaTeX的优势便逐渐显现出来(LaTeX和BibTeX都是免费软件)。正如下图所示(图片来源于[Marko Pinteric](http://www.pinteric.com/))，随着写作文档变大变复杂，若用Word来编写，真是令人几乎抓狂。
+用Word写小文档，有天生的优势。可是对于长篇大论，既有章节又要编排目录的情况下，格式的问题会非常头疼。此时LaTeX的优势便逐渐显现出来(LaTeX和BibTeX都是免费软件)。正如下图所示(图片来源于[Marko Pinteric](http://www.pinteric.com/))，随着写作文档变大变复杂，若用Word来编写，真是令人几乎抓狂。
 
 ![](http://sixf.org/files/images/2014/03/word-latex.gif)
 
