@@ -1,5 +1,5 @@
 ---
-title: EndNote转换成BibTex格式
+title: EndNote转换成BibTeX格式
 tags: [R,R语言,文献,标签,LaTeX]
 categories: [学习笔记,学术]
 layout: post
@@ -20,6 +20,6 @@ comments: yes
 	
 3.	解压缩[已下载](https://gist.github.com/sixf/9826050/download)的压缩包，其中有一个名为"endnote2bibtex.r"的R脚本(如果无法显示文件类型，请直接用纯文本编辑器打开再拷贝代码到R运行界面即可)。运行该代码，即可得到一个名为"newbib.bib"的bibtex文件，即已经分别在各个文献的`@article{`之后加上了文献标签。如压缩包中"newbib.txt"文件所示。
 
-其中，标签的格式是'James:2010'。如果是两位作者，则为'James-White:2010'。如果是三位及其以上作者，则为'James-etal:2010'。若刚好碰到文献的标签有重复，如某一作者在同一年不同杂志上发表了多篇论文，则用后缀a,b,c...来区分，即'James:2010a','James:2010b','James:2010c'。
+其中，标签的格式是"James:2010"。如果是两位作者，则为"James-White:2010"。如果是三位及其以上作者，则为"James-etal:2010"。若刚好碰到文献的标签有重复，如某一作者在同一年不同杂志上发表了多篇论文，则用后缀a,b,c来区分，即"James:2010a","James:2010b"和"James:2010c"。
 
 在转换文献前请确保每条文献的信息完整性。比如下载刚刊出的文献，年份和页码还没导入EndNote中，此时需要手动检查各条文献的信息，否则R代码运行时会报错。
