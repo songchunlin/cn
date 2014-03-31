@@ -7,9 +7,9 @@ title: 论文著作和学术报告
 
 ## 发表论文
 
--   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. Turnover of breeding bird communities on islands of an inundated lake. *under review*.
--   **Si, X.** *et al.* Partitioning beta diversity of bird communities on islands of an inundated lake. *preparing*.
+-   **Si, X.**, Pimm, S. L., Russell, G. J. & Ding, P. Turnover of breeding bird communities on islands of an inundated lake. *under revision*.
 -   Shen, G., Pimm, S. L., Feng, C., Ren, G., Liu, Y., Xu, W., Li, J., **Si, X.**, Su, H. & Xie, Z. Climate change challenges the static conservation strategy for the giant panda. *under review*.
+-   **Si, X.** *et al.* Partitioning beta diversity of bird communities on islands of an inundated lake. *preparing*.
 -   **Si, X.**, Kays, R. & Ding, P. (2014) How long is enough to detect terrestrial animals? Estimate the minimum trapping effort on camera traps. ***PeerJ***, *accepted*.
 -   **斯幸峰** & 丁平 (2011) 欧美陆地鸟类监测的历史、现状与我国的对策. **生物多样性**, 19: 303-310.    [pdf(241KB)](http://sixf.org/files/articles/Si-Ding-2011.pdf)
 
