@@ -8,7 +8,7 @@ comments: yes
 
 <small>**按：事情源于翻译美国的Chair Professor和英国的Reader这两个职称，却难以找到一个合适的中文名词来对应，于是趴了一些诸如维基百科等资料，发现各国的教授体系相当复杂，想进行一个完整的介绍，显得力不从心。所以这里我只介绍当今英国和美国的两大教授职称体系，而且范围仅限于未退休的教学科研职称，即排除类似国内研究员体系的职称。**</small>
 
-# 美国教授体系
+## 美国教授体系
 
 美国的教授体制，显著的特点就是终身教授制度(tenure)。一般能晋升为副教授，即意味着拿到了终身教职，也就意味着以后不会因学术考核而被学校解聘了。美国的教授职称，分为教学研究型和纯研究型职称。前者类似国内的教授体系，后者类似于研究员体系。美国教授的教学研究型职称，主要包括四个阶段：
 
@@ -26,7 +26,7 @@ comments: yes
 
 	至于“chair”这个字的具体含义，还可以分为两种：一是上述的讲座教授，二是指有学术职务的部门头头(chairs or heads of academic departments)。再如以杜克大学环境学院的[Dean Urban教授](http://fds.duke.edu/db/Nicholas/esp/faculty/deanu)为例，他是professor of landscape ecology，又是chair of the Nicholas School's Division of Environmental Sciences & Policy。所以，Dean Urban教授是普通正教授，他的chair是环境科学与政策系的头头，即类似系主任的性质，而不是讲座教授的意思。面对“讲座教授”这个翻译，跟国内的“讲座教授”提法相当不一样。比如浙江大学的光彪讲座教授，其实是邀请一些校外的大牛来浙大临时授课，完全不是美国教授体系中的讲座教授。那最终如何翻译“chair”呢？于是乎我想到了把”chair professor“以这种形式表达：讲座教授(chair professor)。后面加注英文原意，免得被误解。据悉，每个讲座教授都有一把椅子，椅子背后刻着该讲座教授的头像和教授本人的名字。看来，“chair”一字，含义多重啊！
 	
-# 英国教授体系
+## 英国教授体系
 
 英国的教授体制，目前主要由两种形式组成：一是英国古老大学的教授体制；二是英国的诸多大学也采用了美国的教授制度，比如华威大学(University of Warwick)和诺丁汉大学(University of Nottingham)。当前，澳大利亚和新西兰，还有大学依旧使用英国古老大学的教授体制，即包括：
 
@@ -38,7 +38,7 @@ comments: yes
 
 4.	教授(Professor)。英国古老大学的教授职位相当少，接近于美国的讲座教授。英国也有类似美国讲座教授的头衔，比如曾经牛顿和霍金拥有的剑桥大学卢卡斯讲座教授[Lucasian Chair of Mathematics](http://en.wikipedia.org/wiki/Lucasian_Professor_of_Mathematics)，这估计是神一样的职位了。
 
-# 英美中三国教授体系比较
+## 英美中三国教授体系比较
 
 通过上述介绍，大体上可以认为：英国的讲师教职接近于美国的助理教授，英国的资深讲师接近于美国的副教授，英国的准教授接近于美国的正教授，英国的教授接近于美国的讲座教授。但是这并不确定。比如，英国华威大学尝试教授体制与美国对接，以便人才引用。对于美国的助理教授，华威大学可以给予永久聘任的讲师职位，而终身职的华威大学讲师职位到了美国，则变成非终身职的助理教授。这之间有一定的差别。
 
@@ -52,6 +52,6 @@ comments: yes
 1. Michael I. Shamos: [Handbook of Academic Titles](http://euro.ecom.cmu.edu/titles/titlebook.htm)
 2. Wikipedia: [Professors in the United States](http://en.wikipedia.org/wiki/Professors_in_the_United_States)
 3. Wikipedia: [Academic ranks (United States)](http://en.wikipedia.org/wiki/Academic_rank_in_the_United_States)
-4. Wikipedia: [List of academic ranks](http://en.wikipedia.org/wiki/Academic_rank#United_Kingdom)
+4. Wikipedia: [List of academic ranks](http://en.wikipedia.org/wiki/Academic_rank##United_Kingdom)
 5. University of Oxford: [Academic posts at Oxford](http://www.admin.ox.ac.uk/personnel/staffinfo/academic/types/)
 4. 教育电子报: [英国大学教授分级制度简介](http://epaper.edu.tw/windows.aspx?windows_sn=11208)</small>

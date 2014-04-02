@@ -3,9 +3,9 @@ layout: page
 title: 论文著作和学术报告
 ---
 
-# 论文著作 <small>[**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en) </small>
+## 论文著作 <small>[**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en) </small>
 
-## 发表论文
+### 发表论文
 
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. Turnover of breeding bird communities on islands of an inundated lake. *under revision*.
 -   Guozhen Shen, Stuart L. Pimm, Chaoyang Feng, Guofang Ren, Yangping Liu, Wenting Xu, Junqing Li, **Xingfeng Si**, Hongxin Su & Zongqiang Xie. Climate change challenges the static conservation strategy for the giant panda. *under review*.
@@ -13,7 +13,7 @@ title: 论文著作和学术报告
 -   **Xingfeng Si**, Roland Kays & Ping Ding. How long is enough to detect terrestrial animals? Estimate the minimum trapping effort on camera traps. *under revision*.
 -   **斯幸峰** & 丁平. (2011) 欧美陆地鸟类监测的历史、现状与我国的对策. **生物多样性**, 19: 303-310.    [pdf(241KB)](http://sixf.org/files/articles/Si-Ding-2011.pdf)
 
-## 会议论文与摘要
+### 会议论文与摘要
 
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson's theory. Proceedings of the 26th International Ornithological Congress, 2014.08.18-24, pp. ××-××, Tokyo, Japan. (日本东京)
 -   **Si, X**. & Ping Ding. (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. Proceedings of the 6th EAFES International Congress, 2014.04.09-11, pp. ××-××, Haikou, China.
@@ -27,9 +27,9 @@ title: 论文著作和学术报告
 
 --------
 
-# 学术报告
+## 学术报告
 
-## 口头报告
+### 口头报告
 
 -   **Xingfeng Si** & Ping Ding. (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. The 6th EAFES International Congress, Haikou, China.
 -   **斯幸峰**, Stuart L. Pimm, Gareth J. Russell & 丁平. (2013) 陆桥岛屿生境中繁殖鸟类群落的动态平衡理论. 第十二届中国鸟类学会和中国鸟类学家研讨会暨第九届翠鸟论坛, 浙江杭州.
@@ -40,7 +40,7 @@ title: 论文著作和学术报告
 -   **斯幸峰**, 沈国春 & 丁平. (2009) 古田山24公顷样地内鸟类群落监测的初步结果. 第三届海峡两岸森林动态样区研讨会, 广东广州. 
 -   **斯幸峰** & 丁平. (2009) 古田山大样地内鸟类群落结构. 中国青年鸟类学家研讨会暨第五届翠鸟论坛, 黑龙江哈尔滨.
 
-## 墙报
+### 墙报
 
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson’s theory. The 26th International Ornithological Congress, Tokyo, Japan. (日本东京)
 -   **斯幸峰** & 丁平. (2012) 利用红外自动触发相机计算地栖动物的最小监测时长: 以古田山国家级自然保护区为例. 生命科学学院首次学生科技创新交流冷餐会, 浙江杭州.
