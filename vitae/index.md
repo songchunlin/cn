@@ -18,7 +18,7 @@ title: 简历 (斯幸峰)
 ## 教育背景 
 
 
--   2008-    	            **博士在读**，生态学，**浙江大学**  导师: [丁平教授](http://mypage.zju.edu.cn/personnelCard/pingding)
+-   2008-    	          **博士在读**，生态学，**浙江大学**  导师: [丁平教授](http://mypage.zju.edu.cn/personnelCard/pingding)
 -   2012-2013     **联培博士生**，生态学，美国**杜克(Duke)大学**  合作导师: [Stuart Pimm教授](http://fds.duke.edu/db/Nicholas/esp/faculty/spimm)
 -   2004-2008     **理学学士**，生物学，**浙江师范大学**  指导老师: [鲍毅新教授](http://ecology.zjnu.edu.cn/sts/baoyx/baoyxjiaoshigerenjianjie.htm)
 
