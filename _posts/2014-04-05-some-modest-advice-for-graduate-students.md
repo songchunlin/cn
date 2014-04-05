@@ -1,5 +1,5 @@
 ---
-title: 给研究生的一些忠告[上篇]
+title: 给研究生的一些忠告[未完]
 tags: [研究生生涯,课题,选题,心理障碍,读研]
 categories: [论文,科研]
 layout: post
@@ -8,7 +8,7 @@ comments: yes
 
 [Stephen C. Stearns](http://stearnslab.yale.edu) 著；[斯幸峰](http://sixf.org) 译
 
-<small>**按：该文译自Stephen C. Stearns教授的著名非学术论文[*Some Modest Advice for Graduate Students*](http://stearnslab.yale.edu/some-modest-advice-graduate-students)。Stearns教授是耶鲁大学生态学与进化生物学[讲座讲授](http://sixf.org/cn/2014/02/academic-rank-professorship-uk-us/)，开设有精彩的耶鲁大学公开课[《进化、生态和行为原理》](http://v.163.com/special/sp/principlesofevolutionecologyandbehavior.html)(部分课程已翻译成中文)。华盛顿大学生物学讲座教授[Raymond B. Huey](http://faculty.washington.edu/hueyrb/cv.php)甚至[坦言](http://faculty.washington.edu/hueyrb/prospective.php)这篇忠告跟他的另外一篇约稿[*On becoming a better scientist*](http://faculty.washington.edu/hueyrb/PDFAug2013/OnBetterScience2011.pdf)是他们所有论文中最广为人知的－虽然都不是学术论文。很早之前我曾浏览过此忠告，现在重新读之，又有新悟。赞叹之余，打算把该文翻译成中文。我参考了一些[前人](http://blog.renren.com/share/228591476/2669789705)的翻译，结合我的理解，在最近十天内断断续续把上篇翻译完毕。本想一口气翻译完，但感觉到有点耗时，故把该文硬生生地拆成上下篇。原文中Stearns教授用语颇为老练，给翻译带来一些难度。若看官发现译文有不妥之处，希望能留言告知。**</small>
+<small>**按：该文译自Stephen C. Stearns教授的著名非学术论文[*Some Modest Advice for Graduate Students*](http://stearnslab.yale.edu/some-modest-advice-graduate-students)。Stearns教授是耶鲁大学生态学与进化生物学[讲座讲授](http://sixf.org/cn/2014/02/academic-rank-professorship-uk-us/)，开设有精彩的耶鲁大学公开课[《进化、生态和行为原理》](http://v.163.com/special/sp/principlesofevolutionecologyandbehavior.html)(部分课程已翻译成中文)。华盛顿大学生物学讲座教授[Raymond B. Huey](http://faculty.washington.edu/hueyrb/cv.php)甚至[坦言](http://faculty.washington.edu/hueyrb/prospective.php)这篇忠告跟他的另外一篇约稿[*On becoming a better scientist*](http://faculty.washington.edu/hueyrb/PDFAug2013/OnBetterScience2011.pdf)是他们所有论文中最广为人知的－虽然都不是学术论文。很早之前我曾浏览过此忠告，现在重新读之，又有新悟。赞叹之余，打算把该文翻译成中文。我参考了一些[前人](http://blog.renren.com/share/228591476/2669789705)的翻译，结合我的理解，在最近十天内断断续续把上篇翻译完毕。本想一口气翻译完，但感觉到有点耗时，故把上半篇先拿出来露面。原文中Stearns教授用语颇为老练，给翻译带来一些难度。若看官发现译文有不妥之处，希望能留言告知。**</small>
 
 ## 一、永远做好最坏的打算
 
