@@ -8,7 +8,7 @@ comments: yes
 
 [Stephen C. Stearns](http://stearnslab.yale.edu) 著；[斯幸峰](http://sixf.org) 译
 
-<small>**按：该文译自Stephen C. Stearns教授的著名非学术论文[*Some Modest Advice for Graduate Students*](http://stearnslab.yale.edu/some-modest-advice-graduate-students)。Stearns教授是耶鲁大学生态学与进化生物学[讲座讲授](http://sixf.org/cn/2014/02/academic-rank-professorship-uk-us/)，开设有精彩的耶鲁大学公开课[《进化、生态和行为原理》](http://v.163.com/special/sp/principlesofevolutionecologyandbehavior.html)(部分课程已翻译成中文)。华盛顿大学生物学讲座教授[Raymond B. Huey](http://faculty.washington.edu/hueyrb/cv.php)甚至[坦言](http://faculty.washington.edu/hueyrb/prospective.php)这篇忠告跟他的另外一篇约稿[*On becoming a better scientist*](http://faculty.washington.edu/hueyrb/PDFAug2013/OnBetterScience2011.pdf)是他们所有论文中最广为人知的－虽然都不是学术论文。很早之前我曾浏览过此忠告，现在重新读之，又有新悟。赞叹之余，打算把该文翻译成中文。我参考了一些[前人](http://blog.renren.com/share/228591476/2669789705)的翻译，结合我的理解，从3月底开始断断续续翻译此文。本想一口气翻译完，但感觉到有点耗时，故把翻译完毕的章节先拿出来露面。原文中Stearns教授用语颇为老练，给翻译带来一些难度。若看官发现译文有不妥之处，希望能留言告知。**</small>
+<small>**按：该文译自Stephen C. Stearns教授的著名非学术论文[*Some Modest Advice for Graduate Students*](http://stearnslab.yale.edu/some-modest-advice-graduate-students)。Stearns教授是耶鲁大学生态学与进化生物学[讲座讲授](http://sixf.org/cn/2014/02/academic-rank-professorship-uk-us/)，开设有精彩的耶鲁大学公开课[《进化、生态和行为原理》](http://v.163.com/special/sp/principlesofevolutionecologyandbehavior.html)(部分课程已翻译成中文)。华盛顿大学生物学讲座教授[Raymond B. Huey](http://faculty.washington.edu/hueyrb/cv.php)甚至[坦言](http://faculty.washington.edu/hueyrb/prospective.php)这篇忠告跟他的另外一篇约稿[*On becoming a better scientist*](http://faculty.washington.edu/hueyrb/PDFAug2013/OnBetterScience2011.pdf)是他们所有论文中最广为人知的－虽然都不是学术论文。很早之前我曾浏览过此忠告，现在重新读之，又有新悟。赞叹之余，打算把该文翻译成中文。我参考了一些[前人](http://blog.renren.com/share/228591476/2669789705)的翻译，结合我的理解，从3月底开始断断续续翻译此文。本想一口气翻译完，但感觉到有点耗时，故把翻译完毕的章节先拿出来露面。原文中Stearns教授用语颇为老练，给翻译带来一些难度，但我也强烈建议看官把原文读上几遍。若看官发现译文有不妥之处，希望能留言告知。**</small>
 
 ## 一、永远做好最坏的打算
 
@@ -84,7 +84,7 @@ comments: yes
 
 千万不要在已有的但不确定的想法上说一大堆不靠谱的废话。直入主题，并验证一些重要环节中具有主要研究意义但未曾检验的假说，或者列出一个新研究的提纲[<small>**注：此乃点睛之笔，彪悍得五体投地。原文为'Never elaborate a baroque excrescence on top of existing but shaky ideas. Go right to the foundations and test the implicit but unexamined assumptions of an important body of work, or lay the foundations for a new research thrust'**</small>]。当然，这里还有其他类型的论文：
 
-1.	经典得论文包括模型的演绎推算。这些模型会相当新颖，并得到令人惊奇的预测，在此之后你得在对该假说不利的假设下，客观地验证并证实它。这是事半功倍的做法。
+1.	经典的论文包括模型的演绎推算。这些模型会相当新颖，并得到令人惊奇的预测，在此之后你得在对该假说不利的假设下，客观地验证并证实它。这是事半功倍的做法。
 
 2.	对现有的某个重要研究理论进行批评。同样，如果能够合理解释，你也能成为少数几个令人尊敬的赢家。
 
@@ -96,19 +96,19 @@ comments: yes
 
 ## 九、趁早发文章
 
-别骗自己了。你可能得进入这个发表论文的节奏当中，并暂时远离你所钟爱的动植物、所好奇的大自然及探索真理的热情，因为如果你没有发表的论文，你将找不到一份长期的工作。你需要在国际上受认可的同行评议期刊上连续发表论文。如果没有论文发表，你可以放弃科研这条路了。这听上去很残忍，但也有它的道理，而且这其实是一个很有趣的挑战和实现过程。科学是共享知识的。在科研结果无法有效地交流之前，其他它们并不存在。发表论文只是科研工作的一部分，直到文章发表，才意味着该研究工作的结束。你必须掌握撰写简洁扼要、精心组织的学术论文的技能。以下是几点有关发表论文的小窍门：
+别骗自己了。你可能得进入这个发表论文的节奏当中，并暂时远离你所钟爱的动植物、所好奇的大自然及探索真理的热情，因为如果你没有发表的论文，你将找不到一份长期的工作。你需要在国际上受认可的同行评议期刊上连续发表论文。如果没有论文发表，你可以放弃科研这条路了。这听上去很残忍，但也有它的道理，而且这其实是一个很有趣的挑战和实现过程。科学是共享知识的。在科研结果无法有效地交流之前，其他它们并不存在。发表论文只是科研工作的一部分，直到文章发表，才意味着该研究工作的结束。你必须掌握撰写简洁扼要、精心组织的学术论文的技能。以下是几点有关发表论文的提示：
 
 1.	跟一些更富论文撰写经验的人共同发表论文。跟当下有共同研究兴趣的教授套瓷，如果他愿意，他会给你的论文发表有所助益。作为回馈，给他署名为论文的主要合作者。他会对署名心存感激，并会给你的论文提供许多好的修改建议。
 
-2.	别期望你的第一篇论文就能举世震惊。许多杰出的科学家都是从很小的研究工作开始的。学术论文所报道的平均信息量可能比你想像的要少。先在一些不太出名的期刊上发表一到两篇完整的论文，再在之后把目标定向主流杂志[<small>**注：怒顶！对比国内的研究生培养，哎，仅剩一声叹息**</small>]。你将会迅速发现，不管杂志的名声如何，所有杂志编委都会竭尽全力来保证该杂志发表论文的质量－这也正是他们的职责！
+2.	别期望你的第一篇论文就能举世震惊。许多杰出的科学家都是从很小的研究工作开始的。学术论文所报道的平均信息量可能比你想像的要少。先在一些不太出名的期刊上发表一到两篇完整的论文，再在之后把目标定向主流杂志[<small>**注：怒顶！对比国内的研究生培养，哎，仅剩一声叹息**</small>]。你将会迅速发现，不管杂志的名声如何，所有杂志编委都会竭尽全力来保证所任杂志发表论文的质量－这也正是他们的职责！
 
 3.	如果你的研究计划已经足够完美，那么可以把它以评论性的综述论文来发表。如果论文发表了，你可能已经选择了合适的研究领域，并可以对此继续开展研究。
 
-4.	不要把你的博士论文写成专著(monograph)。可以把你的博士论文写成一系列可以发表的稿件，然后把它们尽早投出去，因此在答辩前，至少博士论文中的一到两章可以成为在刊或刊出的文章。
+4.	不要把你的博士论文写成专著(monograph)。可以把你的博士论文写成一系列可以发表的稿件，然后尽早把它们投出去，因此在答辩前，至少博士论文中的一到两章可以成为在刊或刊出的文章。
 
-5.	购买一本William Strunk和E. P. White合著的《Elements of Style》这本书。在你准备开始撰写你的第一篇论文之前，请仔细阅读此书，然后每隔三四年至少再阅读一遍。Robert Day的《How to Write a Scientific Paper》这本书也不错。
+5.	购买一本William Strunk和E. P. White合著的《Elements of Style》。在你准备开始撰写第一篇论文之前，请仔细阅读此书，然后每隔三四年至少再阅读一遍。Robert Day的《How to Write a Scientific Paper》这本书也不错。
 
-6.	在你投稿之前，让一个有时间对你论文的写作、想法和条理性能够提出修改意见的人修改。
+6.	在你投稿之前，让一个有时间能够对你论文的写作、想法和条理性提出修改意见的人修改。
 
 下篇章节预告：
 
@@ -116,11 +116,10 @@ comments: yes
 
 ## 一些重要的参考书
 
-1.	Day, R.A. 1983. How to write and publish a scientific paper. 2nd ed. iSi
-Press, Philadephia. 181 pp. wise and witty.
+1.	Day, R.A. 1983. How to write and publish a scientific paper. 2nd ed. iSi Press, Philadephia. 181 pp. *wise and witty*.
 
 2.	Smith, R.V. 1984. Graduate research - a guide for students in the
-sciences. iSi Press, Philadelphia. 182 pp. complete and practical.
+sciences. iSi Press, Philadelphia. 182 pp. *complete and practical*.
 
 3.	Strunk, W. Jr, and E.B. White.1979. The elements of style. 3rd Ed.
-Macmillan, New York. 92 pp. the paradigm of concision.
+Macmillan, New York. 92 pp. *the paradigm of concision*.
