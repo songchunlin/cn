@@ -152,8 +152,8 @@ MacArthur-Wilson的岛屿生物地理学理论的提出对片段化效应和物�
 ## 计算机能力与软件操作
 
 -   熟练掌握     R语言, 微软系统Office和Photoshop
--   中等熟悉     LaTeX, 苹果系统iWork, WordPress, EndNote和Google Earth
--   基本操作     Mathematica, PHP, MarkDown, CANOCO和WinBUGS
+-   中等熟悉     LaTeX, 苹果系统iWork, MarkDown, EndNote和Google Earth
+-   基本操作     Mathematica, PHP, WordPress, CANOCO和WinBUGS
 
 
 --------------
