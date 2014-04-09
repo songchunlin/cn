@@ -82,7 +82,7 @@ comments: yes
 
 ## 八、论文的类型
 
-千万不要在已有的但不确定的想法上说一大堆不靠谱的废话。直入主题，并验证一些重要环节中具有主要研究意义但未曾检验的假说，或者列出一个新研究的提纲[<small>**注：此乃点睛之笔，彪悍得五体投地。原文为'Never elaborate a baroque excrescence on top of existing but shaky ideas. Go right to the foundations and test the implicit but unexamined assumptions of an important body of work, or lay the foundations for a new research thrust'**</small>]。当然，这里还有其他类型的论文：
+千万不要在已有的但不确定的想法上说一大堆华而不实的废话。直入主题，并验证一些重要环节中具有主要研究意义但未曾检验的假说，或者列出一个新研究的提纲[<small>**注：此乃点睛之笔，彪悍得五体投地。原文为'Never elaborate a baroque excrescence on top of existing but shaky ideas. Go right to the foundations and test the implicit but unexamined assumptions of an important body of work, or lay the foundations for a new research thrust'**</small>]。当然，这里还有其他类型的论文：
 
 1.	经典的论文包括模型的演绎推算。这些模型会相当新颖，并得到令人惊奇的预测，在此之后你得在对该假说不利的假设下，客观地验证并证实它。这是事半功倍的做法。
 
