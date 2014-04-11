@@ -8,7 +8,7 @@ comments: yes
 
 [Stephen C. Stearns](http://stearnslab.yale.edu) 著；[斯幸峰](http://sixf.org) 译
 
-<small>**按：该文译自Stephen C. Stearns教授的著名非学术论文[*Some Modest Advice for Graduate Students*](http://stearnslab.yale.edu/some-modest-advice-graduate-students)。Stearns教授是耶鲁大学生态学与进化生物学[讲座讲授](http://sixf.org/cn/2014/02/academic-rank-professorship-uk-us/)，开设有精彩的耶鲁大学公开课[《进化、生态和行为原理》](http://v.163.com/special/sp/principlesofevolutionecologyandbehavior.html)(部分课程已翻译成中文)。华盛顿大学生物学讲座教授[Raymond B. Huey](http://faculty.washington.edu/hueyrb/cv.php)甚至[坦言](http://faculty.washington.edu/hueyrb/prospective.php)这篇忠告跟他的另外一篇约稿[*On becoming a better scientist*](http://faculty.washington.edu/hueyrb/PDFAug2013/OnBetterScience2011.pdf)是他们所有论文中最广为人知的－虽然都不是学术论文。很早之前我曾浏览过此忠告，现在重新读之，又有新悟。赞叹之余，打算把该文翻译成中文。我参考了一些[前人](http://blog.renren.com/share/228591476/2669789705)的翻译，结合我的理解，从3月底开始断断续续翻译此文。本想一口气翻译完，但感觉到有点耗时，故把翻译完毕的章节先拿出来露面。原文中Stearns教授用语颇为老练，给翻译带来一些难度，但我也强烈建议看官读读原文。若看官发现译文有不妥之处，希望能留言告知。补记于2014年4月11日海口美兰机场**</small>
+<small>**按：该文译自Stephen C. Stearns教授的著名非学术论文[*Some Modest Advice for Graduate Students*](http://stearnslab.yale.edu/some-modest-advice-graduate-students)。Stearns教授是耶鲁大学生态学与进化生物学[讲座讲授](http://sixf.org/cn/2014/02/academic-rank-professorship-uk-us/)，开设有精彩的耶鲁大学公开课[《进化、生态和行为原理》](http://v.163.com/special/sp/principlesofevolutionecologyandbehavior.html)(部分课程已翻译成中文)。华盛顿大学生物学讲座教授[Raymond B. Huey](http://faculty.washington.edu/hueyrb/cv.php)甚至[坦言](http://faculty.washington.edu/hueyrb/prospective.php)这篇忠告跟他的另外一篇约稿[*On becoming a better scientist*](http://faculty.washington.edu/hueyrb/PDFAug2013/OnBetterScience2011.pdf)是他们所有论文中最广为人知的－虽然都不是学术论文。很早之前我曾浏览过此忠告，现在重新读之，又有新悟。赞叹之余，打算把该文翻译成中文。我参考了一些[前人](http://blog.renren.com/share/228591476/2669789705)的翻译，结合我的理解，两周前开始断断续续翻译此文。原文中Stearns教授用语颇为老练，给翻译带来一些难度，但我也强烈建议看官读读原文。若看官发现译文有不妥之处，希望能留言告知。补记于2014年4月11日海口美兰机场**</small>
 
 ## 一、永远做好最坏的打算
 
@@ -100,7 +100,7 @@ comments: yes
 
 1.	跟一些更富论文撰写经验的人共同发表论文。跟当下有共同研究兴趣的教授套瓷，如果他愿意，他会给你的论文发表有所助益。作为回馈，给他署名为论文的主要合作者。他会对署名心存感激，并会给你的论文提供许多好的修改建议。
 
-2.	别期望你的第一篇论文就能举世震惊。许多杰出的科学家都是从很小的研究工作开始的。学术论文所报道的平均信息量可能比你想像的要少。先在一些不太出名的期刊上发表一到两篇完整的论文，再在之后把目标定向主流杂志[<small>**注：怒顶！对比国内的研究生培养，哎，仅剩一声叹息**</small>]。你将会迅速发现，不管杂志的名声如何，所有杂志编委都会竭尽全力来保证所任杂志发表论文的质量－这也正是他们的职责！
+2.	别期望你的第一篇论文就能举世震惊。许多杰出的科学家都是从很小的研究工作开始的。学术论文所报道的平均信息量可能比你想像的要少。先在一些不太出名的期刊上发表一到两篇完整的论文，再在之后把目标定向主流杂志。你将会迅速发现，不管杂志的名声如何，所有杂志编委都会竭尽全力来保证所任杂志发表论文的质量－这也正是他们的职责！
 
 3.	如果你的研究计划已经足够完美，那么可以把它以评论性的综述论文来发表。如果论文发表了，你可能已经选择了合适的研究领域，并可以对此继续开展研究。
 
@@ -130,7 +130,7 @@ comments: yes
 
 ## 致谢
 
-感谢[Frank Pitelka](http://senate.universityofcalifornia.edu/inmemoriam/frankaloispitelka.html)提供这次机会，和[Ray Huey]((http://faculty.washington.edu/hueyrb/cv.php))成为共谋者和合作者，为未来广大积极有志的研究生提供一些这里已经列出的建议。同时感谢[Peter Morin](http://www.rci.rutgers.edu/~pjmorin/)的建议，让我写完这篇忠告，并公之于众。
+感谢[Frank Pitelka](http://senate.universityofcalifornia.edu/inmemoriam/frankaloispitelka.html)提供这次机会，和[Ray Huey](http://faculty.washington.edu/hueyrb/cv.php)成为共谋者和合作者，为未来广大积极有志的研究生提供一些这里已经列出的建议。同时感谢[Peter Morin](http://www.rci.rutgers.edu/~pjmorin/)的建议，让我写完这篇忠告，并公之于众。
 
 ## 一些重要的参考书
 
