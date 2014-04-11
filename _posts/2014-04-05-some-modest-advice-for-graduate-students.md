@@ -1,6 +1,6 @@
 ---
-title: 给研究生的一些忠告[未完]
-tags: [研究生生涯,课题,选题,心理障碍,读研]
+title: 给研究生的一些忠告
+tags: [研究生生涯,课题,选题,心理障碍,读研,导师,硕士,博士,考研,教授,研究计划,实验设计]
 categories: [论文,科研]
 layout: post
 comments: yes
@@ -8,7 +8,7 @@ comments: yes
 
 [Stephen C. Stearns](http://stearnslab.yale.edu) 著；[斯幸峰](http://sixf.org) 译
 
-<small>**按：该文译自Stephen C. Stearns教授的著名非学术论文[*Some Modest Advice for Graduate Students*](http://stearnslab.yale.edu/some-modest-advice-graduate-students)。Stearns教授是耶鲁大学生态学与进化生物学[讲座讲授](http://sixf.org/cn/2014/02/academic-rank-professorship-uk-us/)，开设有精彩的耶鲁大学公开课[《进化、生态和行为原理》](http://v.163.com/special/sp/principlesofevolutionecologyandbehavior.html)(部分课程已翻译成中文)。华盛顿大学生物学讲座教授[Raymond B. Huey](http://faculty.washington.edu/hueyrb/cv.php)甚至[坦言](http://faculty.washington.edu/hueyrb/prospective.php)这篇忠告跟他的另外一篇约稿[*On becoming a better scientist*](http://faculty.washington.edu/hueyrb/PDFAug2013/OnBetterScience2011.pdf)是他们所有论文中最广为人知的－虽然都不是学术论文。很早之前我曾浏览过此忠告，现在重新读之，又有新悟。赞叹之余，打算把该文翻译成中文。我参考了一些[前人](http://blog.renren.com/share/228591476/2669789705)的翻译，结合我的理解，从3月底开始断断续续翻译此文。本想一口气翻译完，但感觉到有点耗时，故把翻译完毕的章节先拿出来露面。原文中Stearns教授用语颇为老练，给翻译带来一些难度，但我也强烈建议看官把原文读上几遍。若看官发现译文有不妥之处，希望能留言告知。**</small>
+<small>**按：该文译自Stephen C. Stearns教授的著名非学术论文[*Some Modest Advice for Graduate Students*](http://stearnslab.yale.edu/some-modest-advice-graduate-students)。Stearns教授是耶鲁大学生态学与进化生物学[讲座讲授](http://sixf.org/cn/2014/02/academic-rank-professorship-uk-us/)，开设有精彩的耶鲁大学公开课[《进化、生态和行为原理》](http://v.163.com/special/sp/principlesofevolutionecologyandbehavior.html)(部分课程已翻译成中文)。华盛顿大学生物学讲座教授[Raymond B. Huey](http://faculty.washington.edu/hueyrb/cv.php)甚至[坦言](http://faculty.washington.edu/hueyrb/prospective.php)这篇忠告跟他的另外一篇约稿[*On becoming a better scientist*](http://faculty.washington.edu/hueyrb/PDFAug2013/OnBetterScience2011.pdf)是他们所有论文中最广为人知的－虽然都不是学术论文。很早之前我曾浏览过此忠告，现在重新读之，又有新悟。赞叹之余，打算把该文翻译成中文。我参考了一些[前人](http://blog.renren.com/share/228591476/2669789705)的翻译，结合我的理解，从3月底开始断断续续翻译此文。本想一口气翻译完，但感觉到有点耗时，故把翻译完毕的章节先拿出来露面。原文中Stearns教授用语颇为老练，给翻译带来一些难度，但我也强烈建议看官读读原文。若看官发现译文有不妥之处，希望能留言告知。补记于2014年4月11日海口美兰机场**</small>
 
 ## 一、永远做好最坏的打算
 
@@ -110,16 +110,33 @@ comments: yes
 
 6.	在你投稿之前，让一个有时间能够对你论文的写作、想法和条理性提出修改意见的人修改。
 
-下篇章节预告：
+## 十、别小看硕士论文
 
-## 别小看硕士论文; 定期发表论文，但别太频繁
+不读硕士的唯一理由常常成为一个普遍的误区：我已经足够好了，没必要做类似硕士论文的事情。其实，完成硕士论文有许多好处：
+
+1.	读硕士，你有一个换学校的机会。你可以利用这一点拓宽你的研究背景。此外，在你当下的发展期，有关你对“一个重要问题由哪些部分组成”的想法可能会迅速转变。你会迅速了解更多学者所做的研究，以及他们各自开展研究的地点。如果你打算换学校，读硕士是最好的方式。你离开母校，母校的同行对你的表现也挺满意，并且他们给你提供了一份很给力的推荐信。此时，你已经满意地达到了攻读博士的要求。
+
+2.	你积累了许多科学研究中急需的经验，并且在比博士研究风险更小的环境下撰写论文。你可以逐渐挑战你自己。在研究中，你见识了解决一个科学问题的难易程度。经历过硕士阶段的人们常常会更加容易地完成博士论文的研究工作。
+
+3.	你有在硕士期间发表的论文。
+
+4.	你急啥呢？如果你过早地开始找工作，你可能还没有完全准备妥当。最好稍微晚点出手，先逐渐加强你的背景基础，然后再展现拥有更多和更广经验的你。
+
+## 十一、定期发表论文，但别太频繁
+
+发表论文的压力已经侵蚀了杂志的质量，并同时也侵蚀了作者的精神生活。发表几篇能够被广为阅读的高质量论文会比发表一些列迅速被人遗忘的小文章要好很多。你也得回到现实。你需要发表论文来获得博士后岗位，并发表更多的论文来获得一个教职，直至获得终身教职。但是，如果你能把你的研究工作持续 发表成连续的高质量论文，那么无论对于你个人，还是你所研究的学科，都是极好的事情。
+
+大多数人只发表少量能够引起重大影响的文章。大多数文章的被引用数会很少，甚至没有被引用。接近10％的文章受到了90%的引用。没有被引用的文章是时间和精力的浪费。追求高质量，而不是数量。这需要勇气和毅力，但是你不会因此后悔。如果你能够发表一至两篇精雕细琢有明显突破的好文章，并且每年被持续引用，那么表明你将会做得很出色，也表明你已经把时间花在刀刃上了。
+
+## 致谢
+
+感谢[Frank Pitelka](http://senate.universityofcalifornia.edu/inmemoriam/frankaloispitelka.html)提供这次机会，和[Ray Huey]((http://faculty.washington.edu/hueyrb/cv.php))成为共谋者和合作者，为未来广大积极有志的研究生提供一些这里已经列出的建议。同时感谢[Peter Morin](http://www.rci.rutgers.edu/~pjmorin/)的建议，让我写完这篇忠告，并公之于众。
 
 ## 一些重要的参考书
 
-1.	Day, R.A. 1983. How to write and publish a scientific paper. 2nd ed. iSi Press, Philadephia. 181 pp. *wise and witty*.
+1.	**Robert A. Day**. 1983. How to write and publish a scientific paper. 2nd ed. iSi Press, Philadephia. 181 pp. *wise and witty*.
 
-2.	Smith, R.V. 1984. Graduate research - a guide for students in the
+2.	**R.V. Smith**. 1984. Graduate research - a guide for students in the
 sciences. iSi Press, Philadelphia. 182 pp. *complete and practical*.
 
-3.	Strunk, W. Jr, and E.B. White.1979. The elements of style. 3rd Ed.
-Macmillan, New York. 92 pp. *the paradigm of concision*.
+3.	**William Strunk Jr.**, and **E.B. White**.1979. The elements of style. 3rd Ed. Macmillan, New York. 92 pp. *the paradigm of concision*.
