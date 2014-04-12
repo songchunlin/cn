@@ -16,7 +16,7 @@ title: 论文著作和学术报告
 ### 会议论文与摘要
 
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson's theory. Proceedings of the 26th International Ornithological Congress, 2014.08.18-24, pp. ××-××, Tokyo, Japan. (日本东京)
--   **Si, X**. & Ping Ding. (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. Proceedings of the 6th EAFES International Congress, 2014.04.09-11, pp. 187, Haikou, China.
+-   **Xingfeng Si** & Ping Ding. (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. Proceedings of the 6th EAFES International Congress, 2014.04.09-11, pp. 187, Haikou, China.
 -   **斯幸峰**, Stuart L. Pimm, Gareth J. Russell & 丁平. (2013) 陆桥岛屿生境中繁殖鸟类群落的周转率研究. 第十二届中国鸟类学会和中国鸟类学家研讨会暨第十届海峡两岸鸟类学术研讨会论文摘要集, 2013.11.23-24, pp. 13, 浙江杭州.
 -   **Xingfeng Si**. (2012) A case study of minimum trapping effort using camera traps in eastern China. Talks and Posters of the 13th Student Conference on Conservation Science, 2012.03.20-22, pp. 49, Cambridge, UK. (英国剑桥)
 -   **斯幸峰** & 丁平. (2011) 利用红外相机捕获技术确定地栖动物的最小监测时长:以古田山为例. 第七届全国野生动物生态与资源保护学术研讨会论文摘要集, 2011.10.28-31, pp. 132, 浙江金华. [Link](http://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZWRQ201110002152.htm)
