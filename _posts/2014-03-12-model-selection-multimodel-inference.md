@@ -29,7 +29,7 @@ AIC、盗墓、多模型推断、模型选择、鸟类、千岛湖、逐步回�
 
 [千岛湖](http://sixf.org/cn/pages/thousand-island-lake/)地处浙江西部，山清水秀，民风淳朴(此处省略一百字)。自1959年新安江大坝建成后，形成1078个岛屿(108米水位时)，乃名副其实的“千岛湖”，是一个得天独厚的路桥岛屿天然实验场所。[本研究团队](http://mypage.zju.edu.cn/personnelCard/pingding)自2002年开始千岛湖地区的鸟类调查，到目前已经逐渐拓展到蜘蛛、蜥蜴、青蛙、蛇、猴子、昆虫、兽类、蝴蝶以及植物等各项业务，欢迎广大生态爱好者和有志之士前来参观与洽谈。撰写本文的起因是早先跟本团队中的“蜘蛛侠”吴博士尝试探讨鸟类多样性与风水的关系，加上近日刚好看了一些有关模型选择和多模型推断(model selection and multimodel inference)的文献(xián)，采用“先进”的AIC(Akaike information criterion)技术，探讨该学术问题的可能性。
 
-本文主要探讨的问题包括两部分：1) AIC是啥？莫非是美国国际大学(American International College)得缩写？2) 模型选择的操作步骤；3) 千岛湖岛屿上鸟类和墓葬分布的机理。
+本文主要探讨的问题包括两部分：1) AIC是啥？莫非是美国国际大学(American International College)的缩写？2) 模型选择的操作步骤；3) 千岛湖岛屿上鸟类和墓葬分布的机理。
 
 ## 材料与方法 
 
@@ -695,7 +695,7 @@ cor.test(tilbird[, 1], tiltomb[, 1])
 ## 参考文献
 
 1.	Anderson, David R. (2008) *Model based inference in the life sciences: a primer on evidence*. New York: Springer.
-2.	Burnham, Kenneth P., and David R. Anderson. (2002) *Model selection and multimodel inference: a practical information-theoretic approach*. Springer.
-2.	Symonds, Matthew RE, and Adnan Moussalli. (2011) A brief guide to model selection, multimodel inference and model averaging in behavioural ecology using Akaike’s information criterion. *Behavioral Ecology and Sociobiology*, **65**: 13-21.
+2.	Burnham, Kenneth P. and David R. Anderson. (2002) *Model selection and multimodel inference: a practical information-theoretic approach*. Springer.
+2.	Symonds, Matthew RE and Adnan Moussalli. (2011) A brief guide to model selection, multimodel inference and model averaging in behavioural ecology using Akaike’s information criterion. *Behavioral Ecology and Sociobiology*, **65**: 13-21.
 APA  
-3.	Whittingham, Mark J., et al. (2006) Why do we still use stepwise modelling in ecology and behaviour?. *Journal of animal ecology*, **75**: 1182-1189.
+3.	Whittingham, Mark J. *et al.* (2006) Why do we still use stepwise modelling in ecology and behaviour?. *Journal of Animal Ecology*, **75**: 1182-1189.
