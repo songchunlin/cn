@@ -1,19 +1,19 @@
 ---
 layout: page
-title: 论文著作和学术报告
+title: 发表论文和学术报告
 ---
 
-## 论文著作 <small>[**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en) </small>
+## 发表论文 <small>[**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en) </small>
 
-### 发表论文
+### 同行评审 (Peer Reviewed)
 
 -   **Xingfeng Si**, Roland Kays & Ping Ding. (2014) How long is enough to detect terrestrial animals? Estimate the minimum trapping effort on camera traps. ***PeerJ***, *accepted*.
 -   **斯幸峰** & 丁平. (2011) 欧美陆地鸟类监测的历史、现状与我国的对策. **生物多样性**, 19: 303-310.    [pdf(241KB)](http://sixf.org/files/articles/Si-Ding-2011.pdf)
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. Turnover of breeding bird communities on islands of an inundated lake. *under revision*.
 -   Guozhen Shen, Stuart L. Pimm, Chaoyang Feng, Guofang Ren, Yangping Liu, Wenting Xu, Junqing Li, **Xingfeng Si**, Hongxin Su & Zongqiang Xie. Climate change challenges the static conservation strategy for the giant panda. *under review*.
--   **Xingfeng Si** *et al.* Partitioning beta diversity of bird communities on islands of an inundated lake. *preparing*.
+-   **Xingfeng Si** *et al.* Partitioning beta diversity of bird communities on islands of an inundated lake. *in preparation*.
 
-### 会议论文与摘要
+### 非同行评审 (Non-peer Reviewed)
 
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson's theory. Proceedings of the 26th International Ornithological Congress, 2014.08.18-24, pp. ××-××, Tokyo, Japan. (日本东京)
 -   **Xingfeng Si** & Ping Ding. (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. Proceedings of the 6th EAFES International Congress, 2014.04.09-11, pp. 187, Haikou, China.
