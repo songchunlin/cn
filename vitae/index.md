@@ -7,20 +7,22 @@ title: 简历 (斯幸峰)
 ## 基本信息
 
 
-- 电话: 0086(571)88206467
-- 邮件: [xingfengsi\[at\]gmail.com](mailto:xingfengsi@gmail.com) 
+- 电子邮箱: [xingfengsi\[at\]gmail.com](mailto:xingfengsi@gmail.com) 
 - 个人网站: [www.sixf.org](/home)
+- 办公电话: +86(571)8820-6467
+- 传真: +86(571)8820-6467
 - 联系地址: 浙江省杭州市西湖区浙江大学生命科学学院441A室
-- [个人简历(399KB)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
+- [个人简历(355KB)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
 
 -------
 
 ## 教育背景 
 
 
--   2008-    	          **博士在读**, 生态学, **浙江大学**  导师: [丁平教授](http://mypage.zju.edu.cn/personnelCard/pingding)
--   2012-2013     **联培博士生**, 生态学, 美国**杜克大学**  导师: [Stuart Pimm教授](http://fds.duke.edu/db/Nicholas/esp/faculty/spimm)
--   2004-2008     **理学学士**, 生物学, **浙江师范大学**  指导老师: [鲍毅新教授](http://ecology.zjnu.edu.cn/sts/baoyx/baoyxjiaoshigerenjianjie.htm)
+-   2010-    	          **博士在读**, 生态学, **浙江大学**  导师: [丁平](http://mypage.zju.edu.cn/personnelCard/pingding)
+-   2012-2013     **联培博士生**, 生态学, 美国**杜克大学**  导师: [Stuart L. Pimm](http://fds.duke.edu/db/Nicholas/esp/faculty/spimm)
+-   2008-2010     **硕博连读硕士阶段**, 动物学, **浙江大学**  导师: [丁平](http://mypage.zju.edu.cn/personnelCard/pingding)
+-   2004-2008     **理学学士**, 生物学, **浙江师范大学**  指导老师: [鲍毅新](http://ecology.zjnu.edu.cn/sts/baoyx/baoyxjiaoshigerenjianjie.htm)
 
 ------------
 
@@ -42,17 +44,9 @@ title: 简历 (斯幸峰)
 
 --------
 
-## 研究方向
+## 研究兴趣
 
-### 千岛湖繁殖鸟类群落的周转率研究
-
-MacArthur-Wilson的岛屿生物地理学理论的提出对片段化效应和物种共存机制的研究产生了重大的影响, 尤其针对一些被水包围的岛屿以及许多被沙漠等孤立的类似“岛屿生境”中的生物类群. 该理论认为各个岛屿的物种迁入率取决于岛屿的隔离度, 而局部灭绝率取决于岛屿的面积. 同时由于“目标效应”, 迁入率会随着面积的增大而增大, 以及“营救效应”的存在, 灭绝率在距离较近的岛屿会较低. 千岛湖独特的岛屿结构, 刚好是验证这些理论的良好的天然实验平台. 
-
-我正是利用千岛湖长期的鸟类群落数据来验证千岛湖鸟类群落的实际结果是否符合之前的理论预测, 而且到底是哪些因素分别决定着迁入率和灭绝率. 
-
-### 利用红外自动触发相机监测古田山地栖动物
-
-红外自动触发相机(Camera traps)对估计野生生物, 尤其针对一些难以发现或罕见的物种的种群密度提供了一种新的方法. 我研究古田山地区动物种群密度估计与监测率之间的关系, 并进一步探讨该关系是否受诸如物种的各自行为, 体长和生境利用习惯等因素影响, 然后我提出使用最小监测时长作为野生生物调查强度的一个指标. 
+保护生物学, 岛屿生物地理学, 动物生态学, 红外自动触发相机监测, 景观生态学, 鸟类学, 生境片段化, 生物多样性, 野生动物管理
 
 
 ------------
@@ -96,12 +90,12 @@ MacArthur-Wilson的岛屿生物地理学理论的提出对片段化效应和物�
 ## 专业课程培训
 
 
--   2013     复合种群承载能力分析 (Mathematica *version 9*).  Gareth Russell教授 (新泽西理工学院 NJIT), 2013.01.28-30, 美国北卡州德罕(Durham, NC USA)
--   2013     乌燕鸥 *Onychoprion fuscatus* 环志培训及其种群的生存能力分析.  Stuart Pimm教授 (杜克大学 Duke University), 2013.03.11-14, 美国佛罗里达州干龟岛(Dry Tortugas, FL USA) 
+-   2013     复合种群承载能力分析 (Mathematica *version 9*).  Gareth Russell (新泽西理工学院 NJIT), 2013.01.28-30, 美国北卡州德罕(Durham, NC USA)
+-   2013     乌燕鸥 *Onychoprion fuscatus* 环志培训及其种群的生存能力分析.  Stuart Pimm (杜克大学 Duke University), 2013.03.11-14, 美国佛罗里达州干龟岛(Dry Tortugas, FL USA) 
 -   2010     野外急救培训.  Lloyd Figgins (地球观察研究所 EarthWatch Institute), 2010.10.07-10, 浙江开化
--   2009     空间分析生物统计培训.  Pierre Legendre教授 (加拿大蒙特利尔大学  Université de Montréal), 2009.10.01-05, 北京
--   2009     线性回归培训.  Pierre Legendre教授 (加拿大蒙特利尔大学 Université de Montréal), 2009.09.10-15, 北京
--   2009     数理统计, R语言以及多远统计分析培训 – 5天课程.  赖江山博士    (中国科学院植物研究所),  张金龙博士 (中国科学院植物研究所), 陈堰平博士 (中国人民大学), 2009.09.05-09, 北京
+-   2009     空间分析生物统计培训.  Pierre Legendre (加拿大蒙特利尔大学  Université de Montréal), 2009.10.01-05, 北京
+-   2009     线性回归培训.  Pierre Legendre (加拿大蒙特利尔大学 Université de Montréal), 2009.09.10-15, 北京
+-   2009     数理统计, R语言以及多远统计分析培训 – 5天课程.  赖江山, 张金龙 (中国科学院植物研究所), 陈堰平 (中国人民大学), 2009.09.05-09, 北京
 
 
 --------------
@@ -175,4 +169,4 @@ MacArthur-Wilson的岛屿生物地理学理论的提出对片段化效应和物�
 
 ---
 
-### [个人简历(399KB)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
+### [个人简历(355KB)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
