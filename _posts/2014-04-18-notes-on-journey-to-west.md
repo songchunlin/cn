@@ -1,5 +1,5 @@
 ---
-title: 悟空为什么不能背着唐僧直接飞到西天呢？
+title: 悟空驼着唐僧能直接飞到西天吗？
 layout: post
 categories: [阅读]
 tags: [西游记,笔记]
