@@ -1,5 +1,5 @@
 ---
-title: Keep on Fighting!
+title: 千里之行，始于足下
 layout: page
 ---
 
