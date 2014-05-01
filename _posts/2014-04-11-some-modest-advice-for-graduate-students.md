@@ -191,3 +191,7 @@ of
 Learning》](http://stearnslab.yale.edu/designs-learning)后，再在[我的博客](http://sixf.org/cn/)上一并发布。
 
 本文翻译的早期参考了[郑春梅](http://blog.renren.com/share/228591476/2669789705)的部分译文，后期修改过程中采纳了[刘立](http://blog.sciencenet.cn/blog-71079-784298.html)对本译文的部分校对，在此表示感谢！
+
+**译文网页链接：**<small>[http://sixf.org/cn/2014/04/some-modest-advice-for-graduate-students/](http://sixf.org/cn/2014/04/some-modest-advice-for-graduate-students/)</small>
+
+**译文与原文pdf下载(722KB)：**<small>[http://sixf.org/files/others/ModestAdvice.pdf](http://sixf.org/files/others/ModestAdvice.pdf)</small>
