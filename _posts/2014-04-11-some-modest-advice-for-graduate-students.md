@@ -8,7 +8,7 @@ comments: yes
 
 [Stephen C. Stearns](http://stearnslab.yale.edu) 著；[斯幸峰](http://sixf.org) 译
 
-<small>**译者按：征得Stephen Stearns教授本人同意后，本文译自他的著名非学术论文[《Some Modest Advice for Graduate Students》](http://stearnslab.yale.edu/some-modest-advice-graduate-students)。Stephen Stearns是耶鲁大学生态学与进化生物学[](http://sixf.org/cn/2014/02/academic-rank-professorship-uk-us/)，开设有精彩的耶鲁大学公开课[《进化、生态和行为原理》](http://v.163.com/special/sp/principlesofevolutionecologyandbehavior.html)。Stearns教授[坦言](http://stearnslab.yale.edu/career)该忠告是他所有著作中被阅读次数最多，但被引用最少的论文。该译文自4月11日发布于我的[科学网](http://blog.sciencenet.cn/home.php?mod=space&uid=720485&do=blog&id=784084)博客后，两天内浏览次数过万。本译文和英文原文的pdf版本点击[此处(722KB)](http://sixf.org/files/others/ModestAdvice.pdf)下载。既译之，则校之。一校于2014年5月1日**</small>
+<small>**译者按：征得Stephen Stearns教授本人同意后，本文译自他的著名非学术论文[《Some Modest Advice for Graduate Students》](http://stearnslab.yale.edu/some-modest-advice-graduate-students)。Stephen Stearns是耶鲁大学生态学与进化生物学[讲座教授](http://sixf.org/cn/2014/02/academic-rank-professorship-uk-us/)，开设有精彩的耶鲁大学公开课[《进化、生态和行为原理》](http://v.163.com/special/sp/principlesofevolutionecologyandbehavior.html)。Stearns教授[坦言](http://stearnslab.yale.edu/career)该忠告是他所有著作中被阅读次数最多，但被引用最少的论文。该译文自4月11日发布于我的[科学网](http://blog.sciencenet.cn/home.php?mod=space&uid=720485&do=blog&id=784084)博客后，两天内浏览次数过万。本译文和英文原文的pdf版本点击[此处(722KB)](http://sixf.org/files/others/ModestAdvice.pdf)下载。既译之，则校之。一校于2014年5月1日**</small>
 
 ## 一、永远做好最坏的打算
 
