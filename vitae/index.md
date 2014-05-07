@@ -12,7 +12,7 @@ title: 简历 (斯幸峰)
 - 办公电话: +86(571)8820-6467
 - 传了个真: +86(571)8820-6468
 - 联系地址: 浙江省杭州市西湖区浙江大学生命科学学院441A室
-- [个人简历(355KB)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
+- [个人简历(313KB)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
 
 -------
 
@@ -103,11 +103,7 @@ title: 简历 (斯幸峰)
 
 ## 学术任职
 
--   2014-     国际生物地理学会(IBS)会员
--   2013-     国际保护生物学会(SCB)会员
--   2013-     浙江省生态学会会员
--   2009-     中国鸟类学会会员
--   2008-     浙江省动物学会会员
+-   会员     国际生物地理学会(IBS), 国际保护生物学会(SCB)会员, 中国鸟类学会会员, 浙江省生态学会会员, 浙江省动物学会会员
 
 --------
 
@@ -153,8 +149,7 @@ title: 简历 (斯幸峰)
 ## 计算机能力与软件操作
 
 -   熟练掌握     R语言, 微软系统Office和Photoshop
--   中等熟悉     LaTeX, 苹果系统iWork, MarkDown, EndNote和Google Earth
--   基本操作     Mathematica, PHP, WordPress, CANOCO和WinBUGS
+-   中等熟悉     LaTeX, 苹果系统iWork, Mathematica和WordPress
 
 
 --------------
@@ -169,4 +164,4 @@ title: 简历 (斯幸峰)
 
 ---
 
-### [个人简历(355KB)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
+### [个人简历(313KB)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
