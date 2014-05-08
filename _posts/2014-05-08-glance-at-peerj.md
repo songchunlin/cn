@@ -1,5 +1,5 @@
 ---
-title: PeerJ，下一个PLOS ONE？
+title: PeerJ：下一个PLOS ONE？
 layout: post
 categories: [学术,科研]
 tags: [开放获取,影响因子,期刊,生态,公开审稿,预印本,Open Access,Impact factor]
