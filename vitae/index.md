@@ -110,6 +110,7 @@ title: 简历 (斯幸峰)
 ## 参加学术会议及研讨会
 
 -	2014     The 26th International Ornithological Congress, Tokyo, Japan. (日本东京)
+-	2014     浙江省第三届动物学博士与教授论坛, 浙江丽水
 -	2014     The 6th EAFES International Congress, Haikou, China.
 -	2013     第十二届全国鸟类学术研讨会暨第十届海峡两岸鸟类学术研讨会, 浙江杭州
 -	2013     青年鸟类学家研讨会暨第九届翠鸟论坛, 浙江杭州

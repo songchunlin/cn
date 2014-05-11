@@ -16,6 +16,7 @@ title: 论文著作和学术报告
 ### 会议论文
 
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson's theory. Proceedings of the 26th International Ornithological Congress, 2014.08.18-24, pp. ××, Tokyo, Japan. (日本东京)
+-   **斯幸峰**, Stuart L. Pimm, Gareth J. Russell & 丁平. (2014) 陆桥岛屿生境中繁殖鸟类群落的周转率研究. 浙江省第三届动物学博士与教授论坛摘要集, 2014.05.10-11, pp. 34, 浙江丽水.
 -   **Xingfeng Si** & Ping Ding. (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. Proceedings of the 6th EAFES International Congress, 2014.04.09-11, pp. 187, Haikou, China.
 -   **斯幸峰** & 丁平. (2013) 陆桥岛屿生境中繁殖鸟类群落的动态平衡理论. 浙江省动物学会第十二届会员代表大会暨学术讨论会论文摘要集, 2013.11.23-24, pp. 29, 浙江宁波. [Link](http://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZJKX201311003044.htm)
 -   **斯幸峰**, Stuart L. Pimm, Gareth J. Russell & 丁平. (2013) 陆桥岛屿生境中繁殖鸟类群落的周转率研究. 第十二届中国鸟类学会和中国鸟类学家研讨会暨第十届海峡两岸鸟类学术研讨会论文摘要集, 2013.11.7-10, pp. 13, 浙江杭州. [Link](http://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZJKX201311002019.htm)
@@ -32,6 +33,7 @@ title: 论文著作和学术报告
 
 ### 口头报告
 
+-   **斯幸峰** & 丁平. (2014) 陆桥岛屿生境中繁殖鸟类群落的周转率研究. 浙江省第三届动物学博士与教授论坛, 浙江丽水.
 -   **Xingfeng Si** & Ping Ding. (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. The 6th EAFES International Congress, Haikou, China.
 -   **斯幸峰**, Stuart L. Pimm, Gareth J. Russell & 丁平. (2013) 陆桥岛屿生境中繁殖鸟类群落的动态平衡理论. 第十二届中国鸟类学会和中国鸟类学家研讨会暨第九届翠鸟论坛, 浙江杭州.
 -	**Xingfeng Si** (2012) Biodiversity research in the Thousand Island Lake region. The Pimm Group at Duke University, Durham, NC USA. (美国北卡州德罕)
