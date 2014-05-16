@@ -28,7 +28,7 @@ layout: page
 
 目前本站以Jekyll作为后台系统，托管于GitHub。2013年12月份开始捣腾建站，起始使用WordPress系统，两个月后[挪窝于此](http://sixf.org/cn/2013/12/first-blog-website-log/)。对比Jekyll系统，WordPress和MySQL组合稍显臃肿，每每更新和维护网站，都需要登录后台，着实比较麻烦。而Jekyll可以在离线时以纯文本形式写博客，待连网后直接推送到GitHub就大功告成了，多么麻利！
 
-作为一个刚接触建站不久的菜鸟，我秉着“拿来主义”遍寻既有的博客模版。忽见[Yihui](http://yihui.name)个人网站那简洁的主题，中英文分开的设计，正是我梦寐以求的，于是立马窃了过来。一不小心，我当了二道贩子，原来这主题是Yihui之前先从[Linghua Zhang](http://lhzhang.com/)和[Tao Zhang](http://ztpala.com/)“[那里偷偷扒过来的](http://yihui.name/cn/about)”，然后进行了微调。比如，浏览本站的日志文章时可以用键盘上的**左箭头**查看上一片文章，用**右键头**查看下一篇文章。不信？[试试就知道](http://sixf.org/cn/2014/02/csc-joint-phd-project-duke/)！最后，再次感谢三位前辈对该博客主题的贡献！
+作为一个刚接触建站不久的菜鸟，我秉着“拿来主义”遍寻既有的博客模版。忽见[Yihui](http://yihui.name)个人网站那简洁的主题，中英文分开的设计，正是我梦寐以求的，于是立马窃了过来。一不小心，我当了二道贩子，原来这主题是Yihui之前先从[Linghua Zhang](http://lhzhang.com/)和[Tao Zhang](http://ztpala.com/)“[那里偷偷扒过来的](http://yihui.name/cn/about)”，然后进行了微调。比如，浏览本站的日志文章时可以用键盘上的**左箭头**查看上一片文章，用**右键头**查看下一篇文章。不信？[试试就知道](http://sixf.org/cn/2014/04/some-modest-advice-for-graduate-students/)！最后，再次感谢三位前辈对该博客主题的贡献！
 
 ---
 
