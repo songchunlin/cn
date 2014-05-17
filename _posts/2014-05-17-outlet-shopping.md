@@ -1,7 +1,7 @@
 ---
 title: 追忆杜克之七：奥特莱斯
 layout: post
-categories: [生活]
+categories: [出国,生活]
 tags: [购物,血拼,服装,打折,coupon,outlet]
 comments: yes
 ---

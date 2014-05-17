@@ -2,7 +2,7 @@
 title: 追忆杜克之二：教会与iHouse
 layout: post
 tags: [美国,杜克,留学, Durham,Duke,教会]
-categories: [出国]
+categories: [出国,生活,学习]
 comments: yes
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 追忆杜克之四：买车与学车
 tags: [开车,KBB,美国驾照,cragslist,二手车,DMV,VIN,道奇]
-categories: [出国]
+categories: [出国,生活]
 layout: post
 comments: yes
 ---
