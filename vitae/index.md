@@ -90,8 +90,8 @@ title: 简历 (斯幸峰)
 ## 专业课程培训
 
 
--   2013     复合种群承载能力分析 (Mathematica *version 9*).  Gareth Russell (新泽西理工学院 NJIT), 2013.01.28-30, 美国北卡州德罕(Durham, NC USA)
--   2013     乌燕鸥 *Onychoprion fuscatus* 环志培训及其种群的生存能力分析.  Stuart Pimm (杜克大学 Duke University), 2013.03.11-14, 美国佛罗里达州干龟岛(Dry Tortugas, FL USA) 
+-   2013     复合种群承载能力分析 (Mathematica *version 9*).  Gareth Russell (新泽西理工学院 NJIT), 2013.01.28-30, 美国北卡州德罕(Durham, North Carolina, USA)
+-   2013     乌燕鸥 *Onychoprion fuscatus* 环志培训及其种群的生存能力分析.  Stuart Pimm (杜克大学 Duke University), 2013.03.11-14, 美国佛罗里达州干龟岛(Dry Tortugas, Florida, USA) 
 -   2010     野外急救培训.  Lloyd Figgins (地球观察研究所 EarthWatch Institute), 2010.10.07-10, 浙江开化
 -   2009     空间分析生物统计培训.  Pierre Legendre (加拿大蒙特利尔大学  Université de Montréal), 2009.10.01-05, 北京
 -   2009     线性回归培训.  Pierre Legendre (加拿大蒙特利尔大学 Université de Montréal), 2009.09.10-15, 北京
@@ -111,10 +111,10 @@ title: 简历 (斯幸峰)
 
 -	2014     The 26th International Ornithological Congress, Tokyo, Japan. (日本东京)
 -	2014     浙江省第三届动物学博士与教授论坛, 浙江丽水
--	2014     The 6th EAFES International Congress, Haikou, China.
+-	2014     The 6th EAFES International Congress, Haikou, China
 -	2013     第十二届全国鸟类学术研讨会暨第十届海峡两岸鸟类学术研讨会, 浙江杭州
 -	2013     青年鸟类学家研讨会暨第九届翠鸟论坛, 浙江杭州
--   2013     The 26th International Congress for Conservation Biology, Baltimore, MD USA. (美国马里兰州巴尔的摩)
+-   2013     The 26th International Congress for Conservation Biology, Baltimore, Maryland, USA. (美国马里兰州巴尔的摩)
 -   2012     生命科学学院首次学生科技创新交流冷餐会, 浙江杭州
 -   2012     The 13th Student Conference on Conservation Science, Cambridge, UK. (英国剑桥)
 -   2011     第七届全国野生动物生态与资源保护学术研讨会, 浙江金华

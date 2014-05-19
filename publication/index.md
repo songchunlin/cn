@@ -36,7 +36,7 @@ title: 论文著作和学术报告
 -   **斯幸峰** & 丁平. (2014) 陆桥岛屿生境中繁殖鸟类群落的周转率研究. 浙江省第三届动物学博士与教授论坛, 浙江丽水.
 -   **Xingfeng Si** & Ping Ding. (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. The 6th EAFES International Congress, Haikou, China.
 -   **斯幸峰**, Stuart L. Pimm, Gareth J. Russell & 丁平. (2013) 陆桥岛屿生境中繁殖鸟类群落的动态平衡理论. 第十二届中国鸟类学会和中国鸟类学家研讨会暨第九届翠鸟论坛, 浙江杭州.
--	**Xingfeng Si** (2012) Biodiversity research in the Thousand Island Lake region. The Pimm Group at Duke University, Durham, NC USA. (美国北卡州德罕)
+-	**Xingfeng Si** (2012) Biodiversity research in the Thousand Island Lake region. The Pimm Group at Duke University, Durham, North Carolina, USA. (美国北卡州德罕)
 -	**斯幸峰** & 丁平. (2011) 利用红外自动触发相机计算地栖动物的最小监测时长: 以古田山国家级自然保护区为例. 青年鸟类学家研讨会暨第七届翠鸟论坛, 甘肃兰州. 
 -	**Xingfeng Si** & Ping Ding. (2010) Monitoring ground activity birds using camera trapping in Gutianshan 24-ha plot. 第九届全国生物多样性保护与持续利用研讨会, 福建厦门. 
 -   **Xingfeng Si** & Ping Ding. (2010) Bird monitoring in Gutianshan 24-ha plot: using spot mapping and infrared cameras. The 2010 International Symposium on Biodiversity Monitoring, Nanjing, China.
