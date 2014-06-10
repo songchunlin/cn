@@ -6,7 +6,7 @@ layout: post
 comments: yes
 ---
 
-记得第一次意识到英文字体是2008年在写本科毕业论文时，指导老师强调毕业论文中所有英文需要用Times New Roman字体，而不是宋体。再是两年前，需要投稿英文论文，发现各个杂志对插图中的英文字体有诸多要求，其中最为常见和通用的字体是Helvatica或Arial。无奈，Windows系统中默认不装Helvatica字体，而是Windows版本的Arial，所以用[R语言](http://www.r-project.org)作图，选择Arial没问题。再到去年开始着手建立个人网站，方才意识到追求美观，世界上原来有如此众多的字体，也开始了解衬线体(serif)和非衬线体(non-serif)的区别，乃至到了最后看到某个网站漂亮的字体，心中又闹痒痒，于是把个人网站的字体翻来换去折腾无数遍。最近一站对字体纠结是英文简历的字体选择。当然，选择Times New Roman字体是放之四海而皆准的，可惜由于太常见了，反倒失去个体，所以准备考虑其他样式。有人建议换成非衬线体，比如Calibri。但后来感觉非衬线在正式的简历中又显得太不正式，于是又换成Palatino Linotype。不久，又感觉对Palatino字体不稳妥，似一块石子在心中一直搁着，直到有一天终于找到了Garamond字体，方才稳下折腾简历字体的心。所以，此时正当心意浓，把曾经折腾过的一些常用英文字体作一梳理。
+记得第一次意识到英文字体是2008年在写本科毕业论文时，指导老师强调毕业论文中所有英文需要用Times New Roman字体，而不是宋体。再是两年前，需要投稿英文论文，发现各个杂志对插图中的英文字体有诸多要求，其中最为常见和通用的字体是Helvetica或Arial。无奈，Windows系统中默认不装Helvetica字体，而是Windows版本的Arial，所以用[R语言](http://www.r-project.org)作图，选择Arial没问题。再到去年开始着手建立个人网站，方才意识到追求美观，世界上原来有如此众多的字体，也开始了解衬线体(serif)和非衬线体(non-serif)的区别，乃至到了最后看到某个网站漂亮的字体，心中又闹痒痒，于是把个人网站的字体翻来换去折腾无数遍。最近一站对字体纠结是英文简历的字体选择。当然，选择Times New Roman字体是放之四海而皆准的，可惜由于太常见了，反倒失去个体，所以准备考虑其他样式。有人建议换成非衬线体，比如Calibri。但后来感觉非衬线在正式的简历中又显得太不正式，于是又换成Palatino Linotype。不久，又感觉对Palatino字体不稳妥，似一块石子在心中一直搁着，直到有一天终于找到了Garamond字体，方才稳下折腾简历字体的心。所以，此时正当心意浓，把曾经折腾过的一些常用英文字体作一梳理。
 
 英文字体主要包括五类：衬线体(serif)、非衬线体(sans-serif)、等宽体(monospace)、梦幻体(fantasy)和书写体(cuisive)等，由于梦幻体应用并不普遍，此文不于考虑。而书写体时模仿手写的笔画，看上去比较卡通化，博得许多人喜爱，当然也[遭到更多人的抵制](http://zh.wikipedia.org/zh-cn/Comic_Sans)。衬线体是指字符笔画的末端有衬线的小细节，尤其放大大写字母时非常明显。非衬线体是指笔画末端没有任何细节，相较于衬线体，非衬线体的字形更加简单。等宽体是指每个字母宽度相等，只要使用于计算机或者编程书籍的代码排版中。
 
@@ -53,13 +53,13 @@ Palatino Linotype和Garamond属于旧衬线体。Palatino Linotype由德国设�
 
 ##非衬线体
 
-正式印刷品的正文，几乎很少会使用非衬线体，可能的原因是显得太不正式。不过，正式印刷品中的许多文章标题或章节题目，依旧随处可见地使用非衬线体。较之于衬线体，由于非衬线体的可读性比较高，使用最多的还是网站页面，以及移动媒体，比如苹果系列的Mac、iPhone和iPad，英文为Helvatica字体，中文为黑体。
+正式印刷品的正文，几乎很少会使用非衬线体，可能的原因是显得太不正式。不过，正式印刷品中的许多文章标题或章节题目，依旧随处可见地使用非衬线体。较之于衬线体，由于非衬线体的可读性比较高，使用最多的还是网站页面，以及移动媒体，比如苹果系列的Mac、iPhone和iPad，英文为Helvetica字体，中文为黑体。
 
-Helvatica是非衬线体当之无愧的王者，是目前世界上应用最广泛的字体之一。Helvatica字体由瑞士平面设计师Max Miedinger和Eduard Hoffmann于1957年设计。在此之前的印刷字体，不是古老的花式字体就是手写体，难以书写和辨识。二战之后由于工业化时代来临。为了适应快节奏生活和工业化生产的需要，Helvetica应运而生，其简洁、直接、醒目的特点，迅速风靡全球。苹果公司自诞生起，就选择Helvatica为默认字体。后来微软模仿Helvatica字体，推出极为相似的Arial字体。细微差别主要在小写a和大写G，对于其他字母，两者差别甚微。Helvatica字体几乎是学术论文写作中插图字体的首选，因此，以Helvatica字体作图，哪怕碰到转投其他杂志，几乎不用再次重新作图。对Helvatica感兴趣的看官，不妨一看纪念Helvatica字体50周年的记录片，网址为[http://www.helveticafilm.com](http://www.helveticafilm.com)。
+Helvetica是非衬线体当之无愧的王者，是目前世界上应用最广泛的字体之一。Helvetica字体由瑞士平面设计师Max Miedinger和Eduard Hoffmann于1957年设计。在此之前的印刷字体，不是古老的花式字体就是手写体，难以书写和辨识。二战之后由于工业化时代来临。为了适应快节奏生活和工业化生产的需要，Helvetica应运而生，其简洁、直接、醒目的特点，迅速风靡全球。苹果公司自诞生起，就选择Helvetica为默认字体。后来微软模仿Helvetica字体，推出极为相似的Arial字体。细微差别主要在小写a和大写G，对于其他字母，两者差别甚微。Helvetica字体几乎是学术论文写作中插图字体的首选，因此，以Helvetica字体作图，哪怕碰到转投其他杂志，几乎不用再次重新作图。对Helvetica感兴趣的看官，不妨一看纪念Helvetica字体50周年的记录片，网址为[http://www.helveticafilm.com](http://www.helveticafilm.com)。
 
 Lucida家族、Verdana、Tahoma等都是最为常见的网页屏显字体。Lucida Grande由设计师Charles Bigelow和Kris Holmes于1985年设计，是Mac OS UI的标准字体。比如打开苹果官方网站[www.apple.com](http://www.apple.com)，便是使用该字体，总体感觉较为活泼。Verdana于1996年推出，由于该字体在小字体时仍然有清晰的结构和高品质的辨识度，迅速成为许多领域的标准字型之一。Tahoma和Verdana师出同门，均由[Matthew Carter](http://www.ted.com/talks/matthew_carter_my_life_in_typefaces)设计，于1994年由微软推出。许多不喜欢Arial的人们会用Tahoma代替，比如由于Arial的大写i和小写l难以分辨等。Century Gothic于1991年亦由Monotype公司推出，对于生态学领域的看官，是不是对<a href='http://www.oikosjournal.org' style="font-family: 'Century Gothic';"> OIKOS </a>的字体很眼熟呢？
 
-我选择个人网站的字体过程，也是经历了十八弯。一开始，我便把字体锁定在非衬线体，于是Helvatica成了首选。Helvetica或Arial虽然是网页的通用字体，即不管是微软Windows系统还是苹果的Mac系统，都是可以正常显示，但是心中求新之念不死，折腾来折腾去，最后英文字体还是选择了Lucida Grande，中文则优选考虑冬青黑体(Hiragino Sans GB)，其次为微软雅黑字体。不过，如果看官所使用的电脑或者移动设备中均没有这些字体，或者因为操作系统或浏览器的原因，可能最后只能显示非衬线体--Arial，这也是很正常的，因为我把个人网站的字体设置成了以下形式：
+我选择个人网站的字体过程，也是经历了十八弯。一开始，我便把字体锁定在非衬线体，于是Helvetica成了首选。Helvetica或Arial虽然是网页的通用字体，即不管是微软Windows系统还是苹果的Mac系统，都是可以正常显示，但是心中求新之念不死，折腾来折腾去，最后英文字体还是选择了Lucida Grande，中文则优选考虑冬青黑体(Hiragino Sans GB)，其次为微软雅黑字体。不过，如果看官所使用的电脑或者移动设备中均没有这些字体，或者因为操作系统或浏览器的原因，可能最后只能显示非衬线体--Arial，这也是很正常的，因为我把个人网站的字体设置成了以下形式：
 
 `font-family: 'Lucida Grande', Tahoma, 'Hiragino Sans GB', 'Microsoft YaHei', Verdana, Arial, Sans-serif;`
 
