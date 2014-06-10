@@ -14,30 +14,30 @@ comments: yes
 
 -------
 英文字体   
-<div style="font-family: serif;">*AaGgKkYy* AaGgKkYy  &nbsp;&nbsp;  Serif (衬线) </div>
-<div style="font-family: Sans-serif;">*AaGgKkYy* AaGgKkYy   &nbsp;&nbsp; Sans-serif (非衬线) </div>
-<div style="font-family: monospace;">*AaGgKkYy* AaGgKkYy   &nbsp;&nbsp; Monospace (等宽) </div>
-<div style="font-family: cuisive, 'Comic Sans MS';">*AaGgKkYy* AaGgKkYy   &nbsp;&nbsp; cuisive (手写字体) </div>
+<div style="font-family: serif;"> AaGgKkYy  &nbsp;&nbsp;  Serif (衬线) </div>
+<div style="font-family: Sans-serif;"> AaGgKkYy   &nbsp;&nbsp; Sans-serif (非衬线) </div>
+<div style="font-family: monospace;"> AaGgKkYy   &nbsp;&nbsp; Monospace (等宽) </div>
+<div style="font-family: cuisive, 'Comic Sans MS';"> AaGgKkYy   &nbsp;&nbsp; cuisive (手写字体) </div>
 <br/>
 衬线类
-<div style="font-family: 'Times New Roman', serif;">*AaGgKkYy* AaGgKkYy   &nbsp;&nbsp; Times New Roman </div>
-<div style="font-family: Georgia, serif;">*AaGgKkYy* AaGgKkYy  &nbsp;&nbsp;  Georgia </div>
-<div style="font-family: 'Palatino Linotype', serif;">*AaGgKkYy* AaGgKkYy  &nbsp;&nbsp;  Palatino Linotype </div>
-<div style="font-family: Garamond, serif;">*AaGgKkYy* AaGgKkYy  &nbsp;&nbsp;  Garamond </div>
+<div style="font-family: 'Times New Roman', serif;"> AaGgKkYy   &nbsp;&nbsp; Times New Roman </div>
+<div style="font-family: Georgia, serif;"> AaGgKkYy  &nbsp;&nbsp;  Georgia </div>
+<div style="font-family: 'Palatino Linotype', serif;"> AaGgKkYy  &nbsp;&nbsp;  Palatino Linotype </div>
+<div style="font-family: Garamond, serif;"> AaGgKkYy  &nbsp;&nbsp;  Garamond </div>
 <br/>
 无衬线类
-<div style="font-family: Helvetica, sans-serif;">*AaGgKkYy* AaGgKkYy   &nbsp;&nbsp; Helvetica </div>
-<div style="font-family: Arial, sans-serif;">*AaGgKkYy* AaGgKkYy  &nbsp;&nbsp;  Arial </div>
-<div style="font-family: Calibri;">*AaGgKkYy* AaGgKkYy   &nbsp;&nbsp; Calibri </div>
-<div style="font-family: 'Lucida Grande', sans-serif;">*AaGgKkYy* AaGgKkYy   &nbsp;&nbsp; Lucida Grande </div>
-<div style="font-family: Verdana,sans-serif;">*AaGgKkYy* AaGgKkYy   &nbsp;&nbsp; Verdana </div>
-<div style="font-family: Tahoma, sans-serif;">*AaGgKkYy* AaGgKkYy   &nbsp;&nbsp; Tahoma </div> 
-<div style="font-family: 'Century Gothic';">*AaGgKkYy* AaGgKkYy   &nbsp;&nbsp; Century Gothic </div>
-<div style="font-family: 'Hiragino Sans GB';">*AaGgKkYy* AaGgKkYy   &nbsp;&nbsp; Hiragino Sans GB </div>
-<div style="font-family: 'Microsoft YaHei';">*AaGgKkYy* AaGgKkYy   &nbsp;&nbsp; Microsoft YaHei </div>
+<div style="font-family: Helvetica, sans-serif;"> AaGgKkYy   &nbsp;&nbsp; Helvetica </div>
+<div style="font-family: Arial, sans-serif;"> AaGgKkYy  &nbsp;&nbsp;  Arial </div>
+<div style="font-family: Calibri;"> AaGgKkYy   &nbsp;&nbsp; Calibri </div>
+<div style="font-family: 'Lucida Grande', sans-serif;"> AaGgKkYy   &nbsp;&nbsp; Lucida Grande </div>
+<div style="font-family: Verdana,sans-serif;"> AaGgKkYy   &nbsp;&nbsp; Verdana </div>
+<div style="font-family: Tahoma, sans-serif;"> AaGgKkYy   &nbsp;&nbsp; Tahoma </div>
+<div style="font-family: 'Century Gothic';"> AaGgKkYy   &nbsp;&nbsp; Century Gothic </div>
+<div style="font-family: 'Hiragino Sans GB';"> AaGgKkYy   &nbsp;&nbsp; Hiragino Sans GB </div>
+<div style="font-family: 'Microsoft YaHei';"> AaGgKkYy   &nbsp;&nbsp; Microsoft YaHei </div>
 <br/>
 等宽
-<div style="font-family: courier;">*AaGgKkYy* AaGgKkYy   &nbsp;&nbsp; Courier </div>
+<div style="font-family: courier;"> AaGgKkYy   &nbsp;&nbsp; Courier </div>
 
 -----------
 
