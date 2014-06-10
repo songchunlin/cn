@@ -49,7 +49,7 @@ Georigia是[Matthew Carter](http://www.ted.com/talks/matthew_carter_my_life_in_t
 
 Palatino Linotype和Garamond属于旧衬线体。Palatino Linotype由德国设计师Hermann Zapf按照体现意大利文艺复兴风格的字体设计，字体名字源于16世纪意大利书法家Giambattista Palatino，并于1948年由Linotype Foudry发布。Garamond是一类西文衬线字体的总称，在16世纪40年代开始流行，名字源于法国的铅字铸造师Claude Garamond。Garamond最初借鉴希腊字母字体，该字型有着流动性和一致性，其最富特征的是小写字母a的小钩和字母e的小孔。后来大部分被命名为Garamond的字体都是出自于另一位铅字铸造师Jean Jannon。
 
-对于个人简历的字体选择，毫无疑问，一开始我先是投向了Times New Roman的怀抱。后来想脱离标准字体的束缚，于是考虑了Georigia字体。可惜看着Georigia字体，感觉有较大的沉重感，于是转向了更为活泼的Palatino Linotype。Palatino Linotype也是诸多HR推荐的英文简历字体，端庄又不失个性，甚至因此成为诸多名校商学院学生首选的字体。可惜我的自我感觉好景不长，最后还是选择了Garamond的字体。Garamond字体虽然x字符高(x-height)比较小，但是总体阅读看着比较舒适，也是印刷业使用最为广泛的字体之一。另外一个原因让我选择Garamond字体，可能是由于生态学顶尖的[Ecology Letters杂志](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1461-0248)的正文也选用了Garamond字体(业界良心啊，如果以后我能在Ecology Letters上发一篇论文，哇哈哈，哎！)，使我有一见如故的感觉。
+对于个人简历的字体选择，毫无疑问，一开始我先是投向了Times New Roman的怀抱。后来想脱离标准字体的束缚，于是考虑了Georigia字体。可惜看着Georigia字体，感觉有较大的沉重感，于是转向了更为活泼的Palatino Linotype。Palatino Linotype也是诸多HR推荐的英文简历字体，端庄又不失个性，甚至因此成为诸多名校商学院学生首选的字体。可惜我的自我感觉好景不长，最后还是选择了Garamond的字体。Garamond字体虽然x字符高(x-height)比较小，但是总体阅读看着比较舒适，也是印刷业使用最为广泛的字体之一。另外一个原因让我选择Garamond字体，可能是由于生态学顶尖的[Ecology Letters杂志](http://onlinelibrary.wiley.com/journal/10.1111/\(ISSN\)1461-0248)的正文也选用了Garamond字体(业界良心啊，如果以后我能在Ecology Letters上发一篇论文，哇哈哈，哎！)，使我有一见如故的感觉。
 
 ##非衬线体
 
