@@ -12,7 +12,7 @@ title: 简历 (斯幸峰)
 - 办公电话: +86(571)8820-6467
 - 传了个真: +86(571)8820-6468
 - 联系地址: 浙江省杭州市西湖区浙江大学生命科学学院441A室
-- [个人简历(313KB)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
+- [个人简历(292KB)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
 
 -------
 
@@ -164,4 +164,4 @@ title: 简历 (斯幸峰)
 
 ---
 
-### [个人简历(313KB)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
+### [个人简历(292KB)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")

@@ -7,11 +7,15 @@ title: 论文著作和学术报告
 
 ### 期刊论文
 
+-   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. Turnover of breeding bird communities on islands of an inundated lake. ***Journal of Biogeography***, *in press*.
 -   **Xingfeng Si**, Roland Kays & Ping Ding. (2014) How long is enough to detect terrestrial animals? Estimate the minimum trapping effort on camera traps. ***PeerJ***, 2: e374. [pdf(1.8MB)](http://peerj.com/articles/374.pdf)
 -   **斯幸峰** & 丁平. (2011) 欧美陆地鸟类监测的历史、现状与我国的对策. **生物多样性**, 19: 303-310.    [pdf(241KB)](http://www.biodiversity-science.net/CN/article/downloadArticleFile.do?attachType=PDF&id=9518)
--   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. Turnover of breeding bird communities on islands of an inundated lake. *under revision*.
+
+### 在审在修或准备中的论文
+
 -   Guozhen Shen, Stuart L. Pimm, Chaoyang Feng, Guofang Ren, Yangping Liu, Wenting Xu, Junqing Li, **Xingfeng Si**, Hongxin Su & Zongqiang Xie. Climate change challenges the static conservation strategy for the giant panda. *under revision*.
--   **Xingfeng Si** *et al.* Partitioning beta diversity of bird communities on islands of an inundated lake. *in preparation*.
+-   **Xingfeng Si** *et al.* Partitioning beta diversity of bird communities on land-bridge islands challenges the conservation strategies in an inundated lake. *in preparation*.
+-   **Xingfeng Si** *et al.* Distributions of bird and lizard communities on land-bridge islands: decomposing taxonomic and functional beta diversity into their turnover and nestedness components. *in preparation*.
 
 ### 会议论文
 
@@ -26,6 +30,10 @@ title: 论文著作和学术报告
 -   **斯幸峰** & 丁平. (2010) 古田山24公顷大样地的鸟类监测：以标图法和相机拍摄法为例. 2010生物多样性监测论坛论文摘要集, 2010.06.20-22, pp. 96, 江苏南京.
 -   张蒙, 丁平, 王彦平, **斯幸峰**, 丁志锋 & 孙吉吉. (2009) 千岛湖地区大山雀对人工巢箱的利用及其影响因素. 浙江省动物学会第十一届会员代表大会暨学术讨论会, 2009.10.30-11.01, pp. 513, 浙江金华.
 -   张龙龙, 鲍毅新, 李欢欢, **斯幸峰** & 胡烁瑛. (2008) 金华北山秋季不同植被类型大型土壤动物功能群及食物网. 第八届全国生物多样性保护与持续利用研讨会论文集, 2008.10.17-19, pp. 257-267, 浙江金华.  [Link](http://d.wanfangdata.com.cn/Conference_7820627.aspx)
+
+### 科普文章及其他
+
+-   **斯幸峰** (2014) 如何查找最新文献? *中国研究生*, 2014(6): ×-×.
 
 --------
 
