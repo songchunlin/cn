@@ -27,7 +27,7 @@ AIC、盗墓、多模型推断、模型选择、鸟类、千岛湖、逐步回�
 
 面对一系列可能的备选模型，如何评判模型的优劣？选用逐步回归分析(stepwise regression)还是信息理论(information theoretic analysis)？Whittingham等(2006)对2004年的*Ecology Letters*、*Journal of Applied Ecology*和*Animal Behaviors*三个杂志分析，共有65篇文章使用多元回归(multiple regression)，其中57%的研究使用了逐步回归的方法。虽然逐步回归依旧广泛使用，但是有许多缺陷，如：参数估计的误差(bias in parameter)，模型选择算法的不一致(inconsistencies among model selection algorithms)，多个假设检验的内在缺陷(inherent problem of multiple hypothesis testing)，以及最后结果只依赖单一的最优模型(inappropriate focus or reliance on a single best model)。至于具体的缺陷原理，此处不予细说，本文将采用信息理论简要介绍多模型推断的方法。
 
-[千岛湖](http://sixf.org/cn/pages/thousand-island-lake/)地处浙江西部，山清水秀，民风淳朴(此处省略一百字)。自1959年新安江大坝建成后，形成1078个岛屿(108米水位时)，乃名副其实的“千岛湖”，是一个得天独厚的路桥岛屿天然实验场所。[本研究团队](http://mypage.zju.edu.cn/personnelCard/pingding)自2002年开始千岛湖地区的鸟类调查，到目前已经逐渐拓展到蜘蛛、蜥蜴、青蛙、蛇、猴子、昆虫、兽类、蝴蝶以及植物等各项业务，欢迎广大生态爱好者和有志之士前来参观与洽谈。撰写本文的起因是早先跟本团队中的“蜘蛛侠”吴博士尝试探讨鸟类多样性与风水的关系，加上近日刚好看了一些有关模型选择和多模型推断(model selection and multimodel inference)的文献(xián)，采用“先进”的AIC(Akaike information criterion)技术，探讨该学术问题的可能性。
+[千岛湖](http://sixf.org/cn/pages/thousand-island-lake/)地处浙江西部，山清水秀，民风淳朴(此处省略一百字)。自1959年新安江大坝建成后，形成1078个岛屿(108米水位时)，乃名副其实的“千岛湖”，是一个得天独厚的路桥岛屿天然实验场所。[本研究团队](http://mypage.zju.edu.cn/personnelCard/pingding)自2003年开始千岛湖地区的鸟类调查，到目前已经逐渐拓展到蜘蛛、蜥蜴、青蛙、蛇、猴子、昆虫、兽类、蝴蝶以及植物等各项业务，欢迎广大生态爱好者和有志之士前来参观与洽谈。撰写本文的起因是早先跟本团队中的“蜘蛛侠”吴博士尝试探讨鸟类多样性与风水的关系，加上近日刚好看了一些有关模型选择和多模型推断(model selection and multimodel inference)的文献(xián)，采用“先进”的AIC(Akaike information criterion)技术，探讨该学术问题的可能性。
 
 本文主要探讨的问题包括两部分：1) AIC是啥？莫非是美国国际大学(American International College)的缩写？2) 模型选择的操作步骤；3) 千岛湖岛屿上鸟类和墓葬分布的机理。
 
