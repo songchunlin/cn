@@ -8,7 +8,7 @@ comments: yes
 
 记得第一次意识到英文字体是2008年在写本科毕业论文时，指导老师强调毕业论文中所有英文需要用Times New Roman字体，而不是宋体。再是两年前，需要投稿英文论文，发现各个杂志对插图中的英文字体有诸多要求，其中最为常见和通用的字体是Helvetica或Arial。无奈，Windows系统中默认不装Helvetica字体，而是Windows版本的Arial，所以用[R语言](http://www.r-project.org)作图，选择Arial没问题。再到去年开始着手建立个人网站，方才意识到追求美观，世界上原来有如此众多的字体，也开始了解衬线体(serif)和非衬线体(non-serif)的区别，乃至到了最后看到某个网站漂亮的字体，心中又闹痒痒，于是把个人网站的字体翻来换去折腾无数遍。最近一站对字体纠结是英文简历的字体选择。当然，选择Times New Roman字体是放之四海而皆准的，可惜由于太常见了，反倒失去个性，所以准备考虑其他样式。有人建议换成非衬线体，比如Calibri。但后来感觉非衬线在正式的简历中又显得太不正式，于是又换成Palatino Linotype。不久，又感觉对Palatino字体不稳妥，似一块石子在心中一直搁着，直到有一天终于找到了Garamond字体，方才稳下折腾简历字体的心。所以，此时正当心意浓，把曾经折腾过的一些常用英文字体作一梳理。
 
-英文字体主要包括五类：衬线体(serif)、非衬线体(sans-serif)、等宽体(monospace)、梦幻体(fantasy)和书写体(cuisive)等，由于梦幻体应用并不普遍，此文不于考虑。而书写体是模仿手写的笔画，看上去比较卡通化，博得许多人喜爱，当然也[遭到更多人的抵制](http://zh.wikipedia.org/zh-cn/Comic_Sans)。衬线体是指字符笔画的末端有衬线的小细节，尤其放大大写字母时非常明显。非衬线体是指笔画末端没有任何细节，相较于衬线体，非衬线体的字形更加简单。等宽体是指每个字母宽度相等，多数只使用于计算机或者编程书籍的代码排版中。
+英文字体主要包括五类：衬线体(serif)、非衬线体(sans-serif)、等宽体(monospace)、梦幻体(fantasy)和书写体(cursive)等，由于梦幻体应用并不普遍，此文不于考虑。而书写体是模仿手写的笔画，看上去比较卡通化，博得许多人喜爱，当然也[遭到更多人的抵制](http://zh.wikipedia.org/zh-cn/Comic_Sans)。衬线体是指字符笔画的末端有衬线的小细节，尤其放大大写字母时非常明显。非衬线体是指笔画末端没有任何细节，相较于衬线体，非衬线体的字形更加简单。等宽体是指每个字母宽度相等，多数只使用于计算机或者编程书籍的代码排版中。
 
 首先一睹以下常见英文字体的样式。如果看官发现以下字体在浏览器中显示异常，可能的原因有二：一是你的电脑字体库中没有对应字体，二是浏览器的原因。所以，当如下字体出现异常时，请点击[这里<small>(http://sixf.org/files/images/2014/06/fonts.png)</small>](http://sixf.org/files/images/2014/06/fonts.png)下载这些字体的图片，以便先有个简要的印象。
 
@@ -17,7 +17,7 @@ comments: yes
 <div style="font-family: serif;"> AaGgKkYy  &nbsp;&nbsp;  Serif (衬线) </div>
 <div style="font-family: Sans-serif;"> AaGgKkYy   &nbsp;&nbsp; Sans-serif (非衬线) </div>
 <div style="font-family: monospace;"> AaGgKkYy   &nbsp;&nbsp; Monospace (等宽) </div>
-<div style="font-family: cuisive, 'Comic Sans MS';"> AaGgKkYy   &nbsp;&nbsp; cuisive (手写字体) </div>
+<div style="font-family: cursive;"> AaGgKkYy   &nbsp;&nbsp; cursive (手写字体) </div>
 <br/>
 衬线类
 <div style="font-family: 'Times New Roman', serif;"> AaGgKkYy   &nbsp;&nbsp; Times New Roman </div>
