@@ -8,7 +8,7 @@ title: 论文著作和学术报告
 ### 期刊论文
 
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on islands of an inundated lake. ***Journal of Biogeography***, *in press*.
--   **Xingfeng Si**, Roland Kays & Ping Ding. (2014) How long is enough to detect terrestrial animals? Estimate the minimum trapping effort on camera traps. ***PeerJ***, 2: e374. [pdf(1.8MB)](http://peerj.com/articles/374.pdf)
+-   **Xingfeng Si**, Roland Kays & Ping Ding. (2014) How long is enough to detect terrestrial animals? Estimating the minimum trapping effort on camera traps. ***PeerJ***, 2: e374. [pdf(1.8MB)](http://peerj.com/articles/374.pdf)
 -   **斯幸峰** & 丁平. (2011) 欧美陆地鸟类监测的历史、现状与我国的对策. **生物多样性**, 19: 303-310.    [pdf(241KB)](http://www.biodiversity-science.net/CN/article/downloadArticleFile.do?attachType=PDF&id=9518)
 
 ### 在审在修或准备中的论文
