@@ -115,7 +115,8 @@ title: 简历 (斯幸峰)
 -   2012     The 13th Student Conference on Conservation Science, Cambridge, UK. (英国剑桥)
 -   2011     Symposium for Theoretical Ecology and Biodiversity, Guangzhou, China
 -   2010     The 2010 International Forum on Biodiversity Monitoring, Nanjing, China
--	2014     浙江省第三届动物学博士与教授论坛, 浙江丽水
+-   2014     首届野生动物多样性红外相机监测培训研讨会, 北京
+-   2014     浙江省第三届动物学博士与教授论坛, 浙江丽水
 -   2012     生命科学学院首次学生科技创新交流冷餐会, 浙江杭州
 -   2011     第七届全国野生动物生态与资源保护学术研讨会, 浙江金华
 -   2009     浙江省动物学会第十一届代表大会, 浙江金华
