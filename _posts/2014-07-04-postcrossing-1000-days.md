@@ -10,7 +10,7 @@ comments: yes
 
 ![](http://sixf.org/files/images/2014/07/postcrossing1000Days.jpg)
 
-由于我国与其他国家的邮局寄送速度[比较慢](http://www.postcrossing.com/user/Xingfeng/stats)。从寄出一张明信片，到对方接收，然后同时随机一位Postcrosser给你寄送明信片，直到你收到该明信片，之间来回至少得两个月。虽然如今的都市生活节奏越来越快，较之于手写一张明信片，从邮局寄出直到收到他人的明信片，需要很长时间，但我心中反而享受这种“慢交流”。一个忙碌的下午，偶尔打开邮箱，豁然发现一片来自[千里之外的风景](http://www.postcrossing.com/user/Xingfeng/gallery)，能让人耳目一新。
+由于我国与其他国家的邮局寄送速度[比较慢](http://www.postcrossing.com/user/Xingfeng/stats)。从寄出一张明信片，到对方接收，然后同时随机一位Postcrosser给你寄送明信片，直到你收到该明信片，之间来回至少得两个月。虽然如今的都市生活节奏越来越快，较之于手写一张明信片，从邮局寄出直到收到他人的明信片，需要很长时间，但我心中反而享受这种“慢交流”。一个忙碌的下午，偶尔打开信箱，豁然发现一片来自[千里之外的风景](http://www.postcrossing.com/user/Xingfeng/gallery)，能让人耳目一新。
 
 **“慢一点呵，慢一点”**！
 
