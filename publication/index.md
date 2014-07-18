@@ -7,7 +7,7 @@ title: 论文著作和学术报告
 
 ### 期刊论文
 
--   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on islands of an inundated lake. ***Journal of Biogeography***, *in press*.
+-   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on islands of an inundated lake. ***Journal of Biogeography***, doi: 10.1111/jbi.12379.
 -   **Xingfeng Si**, Roland Kays & Ping Ding. (2014) How long is enough to detect terrestrial animals? Estimating the minimum trapping effort on camera traps. ***PeerJ***, 2: e374. [pdf(1.8MB)](http://peerj.com/articles/374.pdf)
 -   **斯幸峰** & 丁平. (2011) 欧美陆地鸟类监测的历史、现状与我国的对策. **生物多样性**, 19: 303-310.    [pdf(241KB)](http://www.biodiversity-science.net/CN/article/downloadArticleFile.do?attachType=PDF&id=9518)
 
@@ -44,6 +44,7 @@ title: 论文著作和学术报告
 -   **Xingfeng Si** & Ping Ding. (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. The 6th EAFES International Congress, Haikou, China.
 -	**Xingfeng Si** (2012) Biodiversity research in the Thousand Island Lake region. The Pimm Group at Duke University, Durham, North Carolina, USA. (美国北卡州德罕)
 -   **Xingfeng Si** & Ping Ding. (2010) Bird monitoring in Gutianshan 24-ha plot: using spot mapping and infrared cameras. The 2010 International Symposium on Biodiversity Monitoring, Nanjing, China.
+-   **斯幸峰**, Stuart L. Pimm, Gareth J. Russell & 丁平. (2014) 片段化生境中繁殖鸟类群落的周转率研究. 中国科学院植物研究所, 北京
 -   **斯幸峰** & 丁平. (2014) 陆桥岛屿生境中繁殖鸟类群落的周转率研究. 浙江省第三届动物学博士与教授论坛, 浙江丽水.
 -   **斯幸峰**, Stuart L. Pimm, Gareth J. Russell & 丁平. (2013) 陆桥岛屿生境中繁殖鸟类群落的动态平衡理论. 第十二届中国鸟类学会和中国鸟类学家研讨会暨第九届翠鸟论坛, 浙江杭州.
 -	**斯幸峰** & 丁平. (2011) 利用红外自动触发相机计算地栖动物的最小监测时长: 以古田山国家级自然保护区为例. 青年鸟类学家研讨会暨第七届翠鸟论坛, 甘肃兰州. 
@@ -55,4 +56,5 @@ title: 论文著作和学术报告
 
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson’s theory. The 26th International Ornithological Congress, Tokyo, Japan. (日本东京)
 -   **Xingfeng Si** & Ping Ding. (2012) How long is enough to monitor ground-dwelling animals? A case study of minimum trapping effort in Gutianshan National Nature Reserve, eastern China. The 13th Student Conference on Conservation Science, Cambridge, UK. (英国剑桥)
+-   **斯幸峰** & 丁平. (2014) 浙江古田山自然保护区野生动物红外相机监测. 首届野生动物多样性红外相机监测培训研讨会, 北京
 -   **斯幸峰** & 丁平. (2012) 利用红外自动触发相机计算地栖动物的最小监测时长: 以古田山国家级自然保护区为例. 生命科学学院首次学生科技创新交流冷餐会, 浙江杭州.
