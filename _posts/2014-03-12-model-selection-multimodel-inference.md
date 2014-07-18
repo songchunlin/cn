@@ -700,4 +700,4 @@ cor.test(tilbird[, 1], tiltomb[, 1])
 APA  
 3.	Whittingham, Mark J. *et al.* (2006) Why do we still use stepwise modelling in ecology and behaviour?. *Journal of Animal Ecology*, **75**: 1182-1189.
 
-**本文引用格式：** Si X., Pimm S.L., Russell G.J. & P. Ding. (2014) [Turnoer of breeding bird communities on islands in an inundated lake](http://sixf.org/cn/publication/). ***Journal of Biogeography***, doi: 10.1111/jbi.12379.
+**本文引用格式：** Si X., Pimm S.L., Russell G.J. & P. Ding. (2014) [Turnover of breeding bird communities on islands in an inundated lake](http://sixf.org/cn/publication/). ***Journal of Biogeography***, doi: 10.1111/jbi.12379.
