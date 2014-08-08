@@ -478,7 +478,7 @@ Biology*](http://www.cell.com/current-biology/home)、[*Trends in Ecology and Ev
 </tbody>
 </table>
 
-我确信我可能忽略了一些人所钟爱的部分期刊，但是我认为我的方法可以对你所感兴趣的任何子学科或期刊进行对比分析。让我感到高兴的是，现在[我们将没必要仅仅依赖于影响因子](http://conservationbytes.com/2013/11/18/hate-journal-impact-factors-try-google-rankings-instead/)来决定往哪个期刊投稿。
+我确信我可能忽略了一些人所钟爱的部分期刊，但是我认为我的方法可以对你所感兴趣的任何子学科或期刊进行对比分析。让我感到高兴的是，现在[我们将没必要仅仅依赖于影响因子](http://conservationbytes.com/2013/11/18/hate-journal-impact-factors-try-google-rankings-instead/)来决定往哪个期刊投稿了。
 
 <small>**译文原文链接：[http://sixf.org/cn/2014/08/google-scholar-journal-matrix-and.impact-factor](http://sixf.org/cn/2014/08/google-scholar-journal-matrix-and-impact-factor/)**
 
