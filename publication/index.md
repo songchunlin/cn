@@ -13,13 +13,12 @@ title: 论文著作和学术报告
 
 ### 在审在修或准备中的论文
 
+-   **Xingfeng Si**, Andres Baselga & Pindg Ding. Partitioning beta diversity reveals high turnover in nested assemblages of breeding birds on inundated land-bridge islands. *in preparation*.
 -   Guozhen Shen, Stuart L. Pimm, Chaoyang Feng, Guofang Ren, Yangping Liu, Wenting Xu, Junqing Li, **Xingfeng Si**, Hongxin Su & Zongqiang Xie. Climate change challenges the static conservation strategy for the giant panda. *under revision*.
--   **Xingfeng Si** *et al.* Theory meets practice: partitioning beta diversity of breeding bird communities on land-bridge islands challengs the conservation strategies. *in preparation*.
--   **Xingfeng Si** *et al.* Distributions of bird and lizard communities on land-bridge islands: decomposing taxonomic and functional beta diversity into their turnover and nestedness components. *in preparation*.
 
 ### 会议论文
 
--   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson's theory. Proceedings of the 26th International Ornithological Congress, 2014.08.18-24, pp. ××, Tokyo, Japan. (日本东京)
+-   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell & Ping Ding. (2014) Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson's theory. Proceedings of the 26th International Ornithological Congress, 2014.08.18-24, pp. 449, Tokyo, Japan. (日本东京)
 -   **Xingfeng Si** & Ping Ding. (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. Proceedings of the 6th EAFES International Congress, 2014.04.09-11, pp. 187, Haikou, China.
 -   **Xingfeng Si**. (2012) A case study of minimum trapping effort using camera traps in eastern China. Talks and Posters of the 13th Student Conference on Conservation Science, 2012.03.20-22, pp. 49, Cambridge, UK. (英国剑桥)
 -   **斯幸峰**, Stuart L. Pimm, Gareth J. Russell & 丁平. (2014) 陆桥岛屿生境中繁殖鸟类群落的周转率研究. 浙江省第三届动物学博士与教授论坛摘要集, 2014.05.10-11, pp. 34, 浙江丽水.
@@ -33,6 +32,8 @@ title: 论文著作和学术报告
 
 ### 科普文章及其他
 
+-   **斯幸峰**. (2014) 美国干龟群岛 — 乌燕鸥的家园. **大自然**, *在刊*.
+-   **斯幸峰**. (2014) CSC联陪申请的主要过程. **中国研究生**, *在刊*.
 -   **斯幸峰**. (2014) 如何查找最新文献. **中国研究生**, 2014(6): 32-33.
 
 --------
