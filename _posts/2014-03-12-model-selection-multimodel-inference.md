@@ -687,7 +687,7 @@ summary(lm.ave)
 ###
 ###Relative variable importance:
 ###      SI   aspect       Al     sand habitats   convex   plants 
-    0.98     0.27     0.27     0.26     0.24     0.23     0.22 
+###   0.98     0.27     0.27     0.26     0.24     0.23     0.22 
 ```
 
 ## 结果
