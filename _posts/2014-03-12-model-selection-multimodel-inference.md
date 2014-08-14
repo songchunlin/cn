@@ -361,7 +361,7 @@ lm16 <- lm(birdspp ~ 1, data = tilbird)
 {% endhighlight %}
 
 
-看着比较壮观，但是碰到十个参数，共 2^10=1024 个可能模型的时候就比较麻烦了。没事，可以再编个程序循环一下就行，此处暂时不提。
+看着比较壮观，但是碰到十个参数，共 2^10=1024 个可能模型的时候就比较麻烦了。没事，可以再编个程序循环一下就行，后文会再次提及此问题。
 
 16个可能模型一起平均，
 
@@ -650,7 +650,45 @@ summary(tomb.model)
 ```
 
 
-结果一看，最优模型只包括形状指数，看来理论想像的数据也不错嘛，虽然烦人的ΔAICc依旧小于2，此处就不再演示模型平均了，因为 2^7=128 个可能模型，那个循环程序还没写好，所以就此为止。
+结果一看，最优模型只包括形状指数，看来理论想像的数据也不错嘛，虽然烦人的ΔAICc依旧小于2，因此还得继续模型平均了。因为 2^7=128 个可能模型，手动输入运算则是比较折腾了，所以得写个循环程序让电脑来运算。
+
+{% highlight r %}
+tomb7=data[, c("plants", "habitats", "SI", "convex", "aspect", "Al", "sand","tomb")]
+npar=7
+modPar=c("plants", "habitats", "SI", "convex", "aspect", "Al", "sand","tomb")
+
+unit=c(1,0)
+parEst=rep(unit,each=2^(npar-1))
+for (i in 2:npar){
+  unit=c(i,0)
+  parEst.tmp=rep(rep(unit,each=2^(npar-i)),2^(i-1))
+  parEst=cbind(parEst,parEst.tmp)
+}
+parMat=cbind(parEst[,1:npar],1)
+dimnames(parMat)=list(1:(2^npar),modPar)
+
+allModel=list()
+for (i in 1:(dim(parMat)[1]-1)) {
+    tomb7.tmp=tomb7[,parMat[i,]!=0]
+    allModel[[i]]=glm(tomb~.,family = binomial("logit"),data=tomb7.tmp)
+}
+
+modelC=glm(tomb~1,family = binomial("logit"),data=tomb7)
+lm.ave <- model.avg(allModel,modelC)
+summary(lm.ave)
+{% endhighlight %}
+
+其中128个模型平均后的部分结果为：
+
+```
+### Full model-averaged coefficients (with shrinkage): 
+### (Intercept)          SI          Al        sand      aspect    habitats      convex      plants
+### -2.96791424  0.01986124 -0.09423029 -0.08413135  0.00217080 -0.04294219  0.00446755  0.00043138
+###
+###Relative variable importance:
+###      SI   aspect       Al     sand habitats   convex   plants 
+    0.98     0.27     0.27     0.26     0.24     0.23     0.22 
+```
 
 ## 结果
 
