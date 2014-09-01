@@ -158,4 +158,4 @@ title: 简历 (斯幸峰)
 
 ---
 
-### [个人简历 (PDF)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
+## [个人简历 (PDF)](http://sixf.org/files/others/cv_zh.pdf "下载完整简历")
