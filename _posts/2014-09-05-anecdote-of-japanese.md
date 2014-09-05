@@ -1,5 +1,5 @@
 ---
-title: 日语一瞥
+title: 日文趣事
 layout: post
 tags: [日语,北海道,歧义]
 categories: [生活]
