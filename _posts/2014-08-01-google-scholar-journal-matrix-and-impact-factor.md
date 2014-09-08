@@ -1,8 +1,8 @@
 ---
-title: 更为合理地排名2014年生态学和保护学期刊
+title: 2014年生态及保护学期刊的影响因子
 layout: post
 categories: [学术,译文]
-tags: [影响引子,impact factor,2014,Thomson-Reuters,ISI,Google Scholar Journal Metrics]
+tags: [影响因子,impact factor,2014,Thomson-Reuters,ISI,Google Scholar Journal Metrics]
 comments: yes
 ---
 
