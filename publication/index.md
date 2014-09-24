@@ -13,8 +13,10 @@ title: 论文著作和学术报告
 
 ### 在审在修或准备中的论文
 
--   **Xingfeng Si**, Andres Baselga & Pindg Ding. Partitioning beta diversity reveals high turnover in nested assemblages of breeding birds on inundated land-bridge islands. *in preparation*.
+-   **Xingfeng Si**, Andres Baselga & Ping Ding. Partitioning beta diversity reveals high turnover in nested assemblages of breeding birds on inundated land-bridge islands. *submitted*.
+-   **Xingfeng Si** & Ping Ding. Distributions of bird and lizard communities on land-bridge islands: decomposing taxonomic and functional beta diversity into their turnover and nestedness components. *in preparation*.
 -   Guozhen Shen, Stuart L. Pimm, Chaoyang Feng, Guofang Ren, Yangping Liu, Wenting Xu, Junqing Li, **Xingfeng Si**, Hongxin Su & Zongqiang Xie. Climate change challenges the static conservation strategy for the giant panda. *under revision*.
+-   徐爱春, **斯幸峰**, 王彦平 & 丁平. 千岛湖片段化栖息地红外触发相机对大型地栖哺乳动物监测的研究. *under revision*. 
 
 ### 会议论文
 

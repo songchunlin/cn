@@ -5,7 +5,7 @@ layout: page
 
 ## 我是谁
 
-鄙人[斯幸峰](/)，浙江义乌人氏。出身乡野，上得了山，下得了湖，爬得了树，游得了水。寒窗二十余载，历经小学、初中、高中、本科和研究生五个阶段，读书年限与距老家距离呈显著性正相关(r=0.84,t=3.06,df=4,p=0.038)。很惭愧，没有正式上过幼儿园，传闻入园不久由于不遵守相关法律法规而被老师遣送回家(此处因年代久远已不可考)，故上小学后读了两站一年级。二十年后，就读于[三墩职校](http://www.zju.edu.cn "浙江大学")，食性稍变，从专蛀书本到啃噬文献(xián)。目前，鄙人专职在[千岛湖](/cn/pages/thousand-island-lake/)搞鸟，兼职在[古田山](/cn/pages/gutianshan-reserve/)搞兽，正所谓禽兽通吃。
+鄙人[斯幸峰](/)，浙江义乌人氏。出身乡野，上得了山，下得了湖，爬得了树，游得了水。寒窗二十余载，历经小学、初中、高中、本科和研究生五个阶段，读书年限与距老家距离呈显著性正相关(r=0.84,t=3.06,df=4,p=0.038)。很惭愧，没有正式上过幼儿园，传闻入园不久由于不遵守相关法律法规而被老师遣送回家(此处因年代久远已不可考)，故上小学后读了两站一年级。二十年后，毕业于[三墩职校](http://www.zju.edu.cn "浙江大学")，食性稍变，从专蛀书本到啃噬文献(xián)。目前，鄙人乃一介博士后，专职在[千岛湖](/cn/pages/thousand-island-lake/)搞鸟，兼职在[古田山](/cn/pages/gutianshan-reserve/)搞兽，正所谓禽兽通吃。
 
 ---
 
@@ -34,5 +34,5 @@ layout: page
 
 ## 如何找到我
 
-平时大部分时间我都窝在实验室，趴在电脑前，所以[发邮件](mailto:sixingfeng@gmail.com)是最合适的联系方式。以前曾在[新浪微博](http://weibo.com/kiukii)和[校内网](http://www.renren.com/228658765)活跃过，目前在闲余时间会上[小木虫论坛](http://emuch.net/bbs/index.php?friend=1157743)逛逛，也常常去墙外的[FB](http://facebook.com/xingfengsi)看看风景。[ResearchGate](http://www.researchgate.net/profile/Xingfeng_Si/)这个网站不错，被誉为是研究人员的FB。另外一个被誉为程序员FB的是[GitHub](http://github.com/sixf/sixf.github.io)网站，本站便托管于此。好了，就此打住，否则再提FB，可真要“非死不可”了。
+平时大部分时间我都窝在实验室，趴在电脑前，所以[发邮件](mailto:sixingfeng@gmail.com)是最合适的联系方式。以前曾在[新浪微博](http://weibo.com/kiukii)和[校内网](http://www.renren.com/228658765)活跃过，目前在闲余时间会上[小木虫论坛](http://emuch.net/bbs/index.php?friend=1157743)逛逛，也常常去墙外的[FB](http://facebook.com/xingfengsi)看看风景，并时不时把部分[本站的博客](http://sixf.org/cn)发布于我的[科学网博客](http://blog.sciencenet.cn/u/seexf2012)。[ResearchGate](http://www.researchgate.net/profile/Xingfeng_Si/)这个网站不错，被誉为是研究人员的FB。另外一个被誉为程序员FB的是[GitHub](http://github.com/sixf/sixf.github.io)网站，本站便托管于此。好了，就此打住，否则再提FB，可真要“非死不可”了。
 
