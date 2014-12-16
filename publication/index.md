@@ -7,8 +7,8 @@ title: 论文著作
 
 -   **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell, Ping Ding. (2014) Turnover of breeding bird communities on islands in an inundated lake. ***Journal of Biogeography*** 41: 2283-2292. [PDF(371KB)](http://sixf.org/files/articles/Si-etal2014JB.pdf) | [SI(913KB)](http://sixf.org/files/articles/Si-etal2014JB-SI.pdf)
 -   **Xingfeng Si**, Roland Kays, Ping Ding. (2014) How long is enough to detect terrestrial animals? Estimating the minimum trapping effort on camera traps. ***PeerJ*** 2: e374. [PDF(1.8MB)](http://peerj.com/articles/374.pdf) | [Data(23KB)](http://sixf.org/files/articles/Si-etal2014-data.txt)
--   **斯幸峰**, 丁平. (2014) 古田山森林动态监测样地内鸟兽种群动态的红外相机监测. **生物多样性** 22: 819-822. 
--   徐爱春, **斯幸峰**, 王彦平, 丁平. (2014) 千岛湖片段化栖息地地栖哺乳动物的红外相机监测及最小 监测时长. **生物多样性** 22: 764-772. 
+-   **斯幸峰**, 丁平. (2014) 古田山森林动态监测样地内鸟兽种群动态的红外相机监测. **生物多样性** 22: 819-822.  [PDF(869KB)](http://www.biodiversity-science.net/CN/article/downloadArticleFile.do?attachType=PDF&id=9937)
+-   徐爱春, **斯幸峰**, 王彦平, 丁平. (2014) 千岛湖片段化栖息地地栖哺乳动物的红外相机监测及最小监测时长. **生物多样性** 22: 764-772.  [PDF(533KB)](http://www.biodiversity-science.net/CN/article/downloadArticleFile.do?attachType=PDF&id=9955)
 -   **斯幸峰**, 丁平. (2011) 欧美陆地鸟类监测的历史、现状与我国的对策. **生物多样性** 19: 303-310.    [PDF(241KB)](http://www.biodiversity-science.net/CN/article/downloadArticleFile.do?attachType=PDF&id=9518)
 
 ---
