@@ -19,7 +19,7 @@ title: 简历 (斯幸峰)
 
 ## 研究兴趣
 
-保护生物学、岛屿生物地理学、动物生态学、红外相机、鸟类学、生境片段化、生物多样性、滩涂围垦、野生动物管理
+保护生物学、岛屿生物地理学、动物生态学、红外相机、鸟类学、农田废弃与利用、生境片段化、生物多样性、滩涂围垦、野生动物管理
 
 -------
 
@@ -43,12 +43,13 @@ title: 简历 (斯幸峰)
 ## 奖励荣誉
 
 
--   2013     第九届翠鸟论坛金翠鸟奖, 中国鸟类学会
+-   2014     优秀墙报奖, 中国动物学会兽类学分会
+-   2013     第九届翠鸟论坛金翠鸟奖, 中国动物学会鸟类学分会
 -   2012     首次学生科技创新交流冷餐会学术作品优秀奖, 浙江大学生科院
 -   2011     2010-2011学年三好学生, 浙江大学
 -   2011     2010-2011学年一等奖学金荣誉, 浙江大学
--   2011     第七届翠鸟论坛金翠鸟奖, 中国鸟类学会
--   2009     第五届翠鸟论坛银翠鸟奖, 中国鸟类学会
+-   2011     第七届翠鸟论坛金翠鸟奖, 中国动物学会鸟类学分会
+-   2009     第五届翠鸟论坛银翠鸟奖, 中国动物学会鸟类学分会
 -   2008     十大杰出研究训练人物, 浙江师范大学
 -   2005     2004-2005学年优秀学生干部, 浙江师范大学
 -   2005     2004-2005学年优秀学生二等奖学金, 浙江师范大学
@@ -77,7 +78,7 @@ title: 简历 (斯幸峰)
 
 -----
 
-## [论文著作和学术报告](/cn/publication/ "点此查看我的论文报告")
+## [论文著作](/cn/publication/ "点此查看我的论文著作")
 
 -------
 
@@ -92,27 +93,22 @@ title: 简历 (斯幸峰)
 ## 专业课程培训
 
 
--   2013     复合种群承载能力分析 (Mathematica *version 9*).  Gareth Russell (新泽西理工学院 NJIT), 2013.01.28-30, 美国北卡州德罕(Durham, North Carolina, USA)
--   2013     乌燕鸥 *Onychoprion fuscatus* 环志培训及其种群的生存能力分析.  Stuart Pimm (杜克大学 Duke University), 2013.03.11-14, 美国佛罗里达州干龟岛(Dry Tortugas, Florida, USA) 
--   2010     野外急救培训.  Lloyd Figgins (地球观察研究所 EarthWatch Institute), 2010.10.07-10, 浙江开化
--   2009     空间分析生物统计培训.  Pierre Legendre (加拿大蒙特利尔大学  Université de Montréal), 2009.10.01-05, 北京
--   2009     线性回归培训.  Pierre Legendre (加拿大蒙特利尔大学 Université de Montréal), 2009.09.10-15, 北京
+-   2014     The 2nd International Training Course on Frontier in Animal Ecology and Conservation Biology. Organized by SCB-China, ISZS and IOZ CAS, 2014.11.22–12.01, Beijing, China
+-   2014     Functional and Phylogenetic Diversity. Nathan Swensson (Michigan State University), 2014.09.28– 29, Beijing, China
+-   2013     Metapopulation Capacity Analyses (Mathematica v9). Gareth Russell (New Jersey Institute of Technology), 2013.01.28–30, Durham, North Carolina, USA
+-   2013     Survival Rate Analyses and Banding Training of the Sooty Tern *Onychoprion fuscatus*. Stuart Pimm (Duke University), 2013.3.11–14, Dry Tortugas, Florida, USA
+-   2010     Wildness First Aid. Lloyd Figgins (EarthWatch Institute), 2010.10.07–10, Kaihua, China
+-   2009     Spatial Analysis Biostatistics. Pierre Legendre (Université de Montréal), 2009.10.01–05, Beijing, China
+-   2009     Linear Regression. Pierre Legendre (Université de Montréal), 2009.09.10–15, Beijing, China
 -   2009     数理统计, R语言以及多远统计分析培训 – 5天课程.  赖江山, 张金龙 (中国科学院植物研究所), 陈堰平 (中国人民大学), 2009.09.05-09, 北京
-
-
---------------
-
-
-## 学术任职
-
--   会员     国际生物地理学会(IBS), 国际保护生物学会(SCB), 中国鸟类学会, 浙江省生态学会, 浙江省动物学会
 
 --------
 
 ## 参加学术会议及研讨会
 
--	2014     The 26th International Ornithological Congress, Tokyo, Japan. (日本东京)
--	2014     The 6th EAFES International Congress, Haikou, China
+-   2015     Biennial Conference of the International Biogeography Society, Bayreuth, Germany. (德国拜罗伊特)
+-   2014     The 26th International Ornithological Congress, Tokyo, Japan. (日本东京)
+-   2014     The 6th EAFES International Congress, Haikou, China
 -   2013     The 26th International Congress for Conservation Biology, Baltimore, Maryland, USA. (美国马里兰州巴尔的摩)
 -   2012     The 13th Student Conference on Conservation Science, Cambridge, UK. (英国剑桥)
 -   2011     Symposium for Theoretical Ecology and Biodiversity, Guangzhou, China
@@ -120,13 +116,21 @@ title: 简历 (斯幸峰)
 -   2014     首届野生动物多样性红外相机监测培训研讨会, 北京
 -   2014     浙江省第三届动物学博士与教授论坛, 浙江丽水
 -   2012     生命科学学院首次学生科技创新交流冷餐会, 浙江杭州
--   2011     第七届全国野生动物生态与资源保护学术研讨会, 浙江金华
 -   2009     浙江省动物学会第十一届代表大会, 浙江金华
+-   中国动物学会全国会员代表大会暨学术讨论会: 2014(广州)
+-   全国野生动物生态与资源保护学术研讨会: 2011(金华), 2014(桂林)
 -   海峡两岸森林动态样区研讨会: 肇庆(2009), 厦门(2010).
 -   全国鸟类学术研讨会: 哈尔滨(2009), 兰州(2011), 杭州(2013).
 -   全国生物多样性保护与持续利用研讨会: 金华(2008), 厦门(2010).
 -   青年鸟类学家研讨会暨翠鸟论坛: 北京(2008), 哈尔滨(2009), 兰州(2011), 杭州(2013).
 
+
+--------------
+
+
+## 学术任职
+
+-   会员     国际生物地理学会(IBS), 国际保护生物学会(SCB), 国际动物科学学会(ISZS), 中国鸟类学会, 浙江省生态学会, 浙江省动物学会
 
 ----
 
@@ -156,7 +160,7 @@ title: 简历 (斯幸峰)
 
 -   英语 (流利), 普通话 (熟练), 吴语方言 (母语)
 -   野外急救能力: 二级
--   全程马拉松: 4小时51分钟
+-   全程马拉松: 4小时51分钟44秒
 
 ---
 
