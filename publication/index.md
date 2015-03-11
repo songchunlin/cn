@@ -21,8 +21,8 @@ title: 论文著作
 1. **Xingfeng Si**, Stuart L. Pimm, Gareth J. Russell, Ping Ding (2014) Turnover of breeding bird communities on land-bridge islands: testing MacArthur and Wilson's theory. Proceedings of the 26th International Ornithological Congress, 2014.08.18-24, pp. 449, Tokyo, Japan. (日本东京)
 1. **Xingfeng Si**, Ping Ding (2014) Species turnover of bird communities on land-bridge islands in Thousand Island Lake, eastern China. Proceedings of the 6th EAFES International Congress, 2014.04.09-11, pp. 187, Haikou, China. (海南海口)
 1. **Xingfeng Si** (2012) A case study of minimum trapping effort using camera traps in eastern China. Talks and Posters of the 13th Student Conference on Conservation Science, 2012.03.20-22, pp. 49, Cambridge, UK. (英国剑桥)
-1. **斯幸峰**, 丁平 (2014) 千岛湖繁殖鸟类群落的物种周转. 中国动物学会第十七届全国会员代表大会暨学术讨论会, 2014.11, 广东广州
-1. **斯幸峰**, 丁平 (2014) 红外相机监测中的最小监测时长. 第十届全国野生动物生态与资源保护学术研讨会, 2014.11, 广西桂林
+1. **斯幸峰**, 丁平 (2014) 千岛湖繁殖鸟类群落的物种周转. 中国动物学会第十七届全国会员代表大会暨学术讨论会, 2014.11.17-20, 广东广州
+1. **斯幸峰**, 丁平 (2014) 红外相机监测中的最小监测时长. 第十届全国野生动物生态与资源保护学术研讨会, 2014.11.13-16, 广西桂林
 1. **斯幸峰**, 丁平 (2014) 利用红外相机监测生物多样性. 浙江省第六届生物多样性保护与可持续发展研讨会, 2014.11, 浙江舟山
 1. **斯幸峰**, Stuart L. Pimm, Gareth J. Russell, 丁平 (2014) 陆桥岛屿生境中繁殖鸟类群落的周转率研究. 浙江省第三届动物学博士与教授论坛摘要集, 2014.05.10-11, pp. 34, 浙江丽水.
 1. **斯幸峰**, 丁平 (2013) 陆桥岛屿生境中繁殖鸟类群落的动态平衡理论. 浙江省动物学会第十二届会员代表大会暨学术讨论会论文摘要集, 2013.11.23-24, pp. 29, 浙江宁波. [Link](http://cpfd.cnki.com.cn/Article/CPFDTOTAL-ZJKX201311003044.htm)
