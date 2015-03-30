@@ -135,7 +135,7 @@ library(glmulti)
 
 
 {% highlight r %}
-tilbird <- read.table("tilbird.txt", h = T)  #找到 'tilbird.txt'文件并打开
+tilbird <- read.table("http://sixf.org/files/code/2014/tilbird.txt", h = T)  #找到 'tilbird.txt'文件并打开
 str(tilbird)  ##检查`til.bird`的数据结构
 {% endhighlight %}
 
@@ -428,6 +428,12 @@ summary(lm.ave)
 
 第5部分，'Relative variable importance'，即是各个参数的重要值。最大为1，可见该例子中，面积是最重要的，次之是生境。至于隔离度和植物数量，则在模型中贡献不大。
 
+`MuMIn`包里面其实有现成的命令`dredge`得到上述的部分结果，不信，试试输入以下一句命令：
+
+{% highlight r %}
+dredge(global.model)
+{% endhighlight %}
+
 此时如果打算计算各岛的预鸟类物种数，则可以如下进行模型平均：
 
 
@@ -475,7 +481,7 @@ t(bird.pred)  #把矩阵换方向，给页面省点空间，跟分析无关
 
 
 {% highlight r %}
-tiltomb <- read.table("tiltomb.txt", h = T)  #读取墓的虚拟数据 'tiltomb.txt'
+tiltomb <- read.table("http://sixf.org/files/code/2014/tiltomb.txt", h = T)  #读取墓的虚拟数据 'tiltomb.txt'
 cor.sig(tiltomb[, -1])
 {% endhighlight %}
 
@@ -690,6 +696,12 @@ summary(lm.ave)
 ###   0.98     0.27     0.27     0.26     0.24     0.23     0.22 
 ```
 
+再次放个大招吧，一次性列出模型平均后的结果：
+
+{% highlight r %}
+dredge(global.model.tomb)
+{% endhighlight %}
+
 ## 结果
 
 千岛湖鸟类多样性主要取决于岛屿面积和生境多样性，而墓葬可能性取决于岛屿的形状指数。
@@ -728,7 +740,7 @@ cor.test(tilbird[, 1], tiltomb[, 1])
 
 ## 致谢
 
-谢谢看官的一路捧场，浏览完这块又长又臭的博文。谢谢实验室提供的平台和提供的支助，给于了我想像的空间，以及岛屿的数据。有关墓葬的生境数据，来自[古田山大样地](http://blog.sciencenet.cn/blog-267448-463699.html)，我想像着搬到千岛湖了，在此一并致谢。分析方法部分参考于<a href="https://gist.github.com/sixf/9488518">此</a>。本文的源代码及数据可以点击[此处](https://github.com/sixf/TIL-model-selection/archive/master.zip)下载。看官就是reviewer(评审员)，若有任何reviews，请尽请留言，谢谢！
+谢谢看官的一路捧场，浏览完这块又长又臭的博文。谢谢实验室提供的平台和提供的支助，给于了我想像的空间，以及岛屿的数据。有关墓葬的生境数据，来自[古田山大样地](http://blog.sciencenet.cn/blog-267448-463699.html)，我想像着搬到千岛湖了，在此一并致谢。分析方法部分参考于<a href="https://gist.github.com/sixf/9488518">此</a>。本文的源代码及数据可以点击[此处(已更新)](http://sixf.org/files/code/2014/mumin.txt)或[此处(已过期)](https://github.com/sixf/TIL-model-selection/archive/master.zip)下载。看官就是reviewer(评审员)，若有任何reviews，请尽请留言，谢谢！
 
 ## 参考文献
 
