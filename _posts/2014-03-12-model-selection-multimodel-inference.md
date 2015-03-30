@@ -659,7 +659,7 @@ summary(tomb.model)
 结果一看，最优模型只包括形状指数，看来理论想像的数据也不错嘛，虽然烦人的ΔAICc依旧小于2，因此还得继续模型平均了。因为 2^7=128 个可能模型，手动输入运算则是比较折腾了，所以得写个循环程序让电脑来运算。
 
 {% highlight r %}
-tomb7=data[, c("plants", "habitats", "SI", "convex", "aspect", "Al", "sand","tomb")]
+tomb7=tiltomb[, c("plants", "habitats", "SI", "convex", "aspect", "Al", "sand","tomb")]
 npar=7
 modPar=c("plants", "habitats", "SI", "convex", "aspect", "Al", "sand","tomb")
 
@@ -696,7 +696,7 @@ summary(lm.ave)
 ###   0.98     0.27     0.27     0.26     0.24     0.23     0.22 
 ```
 
-再次放个大招吧，一次性列出模型平均后的结果：
+再次放个大招吧，一次性列出模型平均后的部分结果：
 
 {% highlight r %}
 dredge(global.model.tomb)
