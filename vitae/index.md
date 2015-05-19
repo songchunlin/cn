@@ -80,28 +80,6 @@ title: 简历 (斯幸峰)
 
 ## [论文著作](/cn/publication/ "点此查看我的论文著作")
 
--------
-
-## 教学经历
-
-
--   2009,10,12,14     助教，天目山本科生暑期动物实习, 浙江临安
-
---------
-
-
-## 专业课程培训
-
-
--   2014     The 2nd International Training Course on Frontier in Animal Ecology and Conservation Biology. Organized by SCB-China, ISZS and IOZ CAS, 2014.11.22–12.01, Beijing, China
--   2014     Functional and Phylogenetic Diversity. Nathan Swensson (Michigan State University), 2014.09.28– 29, Beijing, China
--   2013     Metapopulation Capacity Analyses (Mathematica v9). Gareth Russell (New Jersey Institute of Technology), 2013.01.28–30, Durham, North Carolina, USA
--   2013     Survival Rate Analyses and Banding Training of the Sooty Tern *Onychoprion fuscatus*. Stuart Pimm (Duke University), 2013.3.11–14, Dry Tortugas, Florida, USA
--   2010     Wildness First Aid. Lloyd Figgins (EarthWatch Institute), 2010.10.07–10, Kaihua, China
--   2009     Spatial Analysis Biostatistics. Pierre Legendre (Université de Montréal), 2009.10.01–05, Beijing, China
--   2009     Linear Regression. Pierre Legendre (Université de Montréal), 2009.09.10–15, Beijing, China
--   2009     数理统计, R语言以及多远统计分析培训 – 5天课程.  赖江山, 张金龙 (中国科学院植物研究所), 陈堰平 (中国人民大学), 2009.09.05-09, 北京
-
 --------
 
 ## 参加学术会议及研讨会
@@ -123,44 +101,6 @@ title: 简历 (斯幸峰)
 -   全国鸟类学术研讨会: 哈尔滨(2009), 兰州(2011), 杭州(2013).
 -   全国生物多样性保护与持续利用研讨会: 金华(2008), 厦门(2010).
 -   青年鸟类学家研讨会暨翠鸟论坛: 北京(2008), 哈尔滨(2009), 兰州(2011), 杭州(2013).
-
-
---------------
-
-
-## 学术任职
-
--   会员     国际生物地理学会(IBS), 国际保护生物学会(SCB), 国际动物科学学会(ISZS), 中国鸟类学会, 浙江省生态学会, 浙江省动物学会
-
-----
-
-
-## 社会活动
-
--   2013     会议组织. 协助承办青年鸟类学家研讨会暨第九届翠鸟论坛, 浙江杭州
--   2013     志愿者. 乌燕鸥 (*Onychoprion fuscatus*) 环志, 美国佛罗里达州干龟群岛
--   2011     特邀嘉宾. 初阳论坛之“扬求学之路, 导梦想之航”, 浙江金华
--   2011     特邀报告. 演讲题目: 拆掉思维里的墙. 亭中高考百日誓师大会, 浙江义乌
--   2008     北京奥运会火炬护跑手. 北京奥组委火炬接力中心, 浙江绍兴
--   2006     办公室副主任. 浙江师范大学初阳学院学生会, 浙江金华
--   2004     毕业生代表. 演讲, 义亭中学2004届毕业典礼, 浙江义乌
-
-----
-
-## 计算机能力与软件操作
-
--   统计编程     R, Mathematica, WinBUGS
--   其他软件     LaTeX, Adobe Photoshop, MS Office, EndNote, OS X iWork
-
-
---------------
-
-## 语言及其他技能
-
-
--   英语 (流利), 普通话 (熟练), 吴语方言 (母语)
--   野外急救能力: 二级
--   全程马拉松: 4小时51分钟44秒
 
 ---
 
