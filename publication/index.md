@@ -19,7 +19,8 @@ title: 论文著作
 
 ## 科普文章及其他
 
-1. **Xingfeng Si** (2015) Young scientists need collaboration. ***Zenodo***, [doi: 10.5281/zenodo.22313](https://zenodo.org/record/22313).
+1. **Xingfeng Si** (2015) Young scientists need collaboration. ***Journal of Brief Ideas***, [doi: 10.5281/zenodo.22313](https://zenodo.org/record/22313).
+1. **斯幸峰** (2015) 另眼相看古田山: 红外相机拍到的野生动物. **大自然**, 排版中.
 1. **斯幸峰** (2014) 片段化生境中繁殖鸟类群落的物种周转和beta多样性. 博士学位论文, 浙江大学, 杭州. [PDF(2.5M)](http://sixf.org/files/articles/Si2014.pdf)
 1. **斯幸峰** (2014) 美国干龟群岛 — 乌燕鸥的家园. **大自然** 2014(6): 76–81.
 1. **斯幸峰** (2014) CSC联陪申请的主要过程. **中国研究生** 2014(9): 58–59.
