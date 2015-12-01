@@ -5,7 +5,7 @@ title: 论文著作
 
 ## 期刊论文     <small>[**Google Scholar**](http://scholar.google.com/citations?user=wI1qfPsAAAAJ&hl=en)     [**ResearchGate**](https://www.researchgate.net/profile/Xingfeng_Si)</small>
 
-1. **Xingfeng Si**, Andrés Baselga, Fabien Leprieur, Xiao Song, Ping Ding. (2016) Selective extinction drives taxonomic and functional alpha and beta diversities in island bird assemblages. ***Journal of Animal Ecology***, *accepted*.
+1. **Xingfeng Si**, Andrés Baselga, Fabien Leprieur, Xiao Song, Ping Ding. (2016) Selective extinction drives taxonomic and functional alpha and beta diversities in island bird assemblages. ***Journal of Animal Ecology***, doi: 10.1111/1365-2656.12478.
 1. Maxwell C. Wilson, Xiao-Yong Chen, Richard T. Corlett, Raphael K. Didham, Ping Ding, Robert D. Holt, Marcel Holyoak, Guang Hu, Alice C. Hughes, Lin Jiang, William F. Laurance, Jiajia Liu, Stuart L. Pimm, Scott K. Robinson, Sabrina E. Russo, **Xingfeng Si**, David S. Wilcove, Jianguo Wu, Mingjian Yu. (2016) Habitat fragmentation and biodiversity conservation: key findings and future challenges. ***Landscape Ecology***, doi: 10.1007/s10980-015-0312-3.
 1. **Xingfeng Si**, Andrés Baselga, Ping Ding. (2015) Revealing beta-diversity patterns of breeding bird and lizard communities on inundated land-bridge islands by separating the turnover and nestedness components. ***PLoS ONE*** 10: e0127692.
 1. Guozhen Shen, Stuart L. Pimm, Chaoyang Feng, Guofang Ren, Yanping Liu, Wenting Xu, Junqing Li, **Xingfeng Si**, Zongqiang Xie. (2015) Climate change challenges the current conservation strategy for the giant panda. ***Biological Conservation*** 190: 43-50.
