@@ -64,7 +64,7 @@ title: 简历 (斯幸峰)
 
 ## 学术服务
 
--   期刊审稿人: Austral Ecology, Ecography
+-   期刊审稿人: Austral Ecology, Ecography, Integrative Zoology
 
 ---
 
