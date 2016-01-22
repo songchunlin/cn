@@ -457,19 +457,19 @@ pred.mat[, 14] <- predict(lm14)
 pred.mat[, 15] <- predict(lm15)
 pred.mat[, 16] <- predict(lm16)
 ##输出40个岛屿的平均预测值，即上述的 hat-bar(Y)
-bird.pred <- pred.mat %*% summary(lm.ave)$summary$Weight
-t(bird.pred)  #把矩阵换方向，给页面省点空间，跟分析无关
+bird.pred <- pred.mat %*% summary(lm.ave)$msTable$weight[c(4,14,3,2,7,16,10,13,1,8,5,6,9,15,12,11)]
+round(t(bird.pred),2) #把矩阵换方向，给页面省点空间，跟分析无关
 {% endhighlight %}
 
 ```
-###      isl1  isl2  isl3  isl4  isl5 isl6  isl7  isl8  isl9 isl10 isl11
-###[1,] 37.64 29.45 26.74 26.21 26.15 24.7 24.62 30.58 26.76 25.43 25.56
-###     isl12 isl13 isl14 isl15 isl16 isl17 isl18 isl19 isl20 isl21 isl22
-###[1,] 25.51 24.19 24.07 25.48 24.31 26.46 25.51 24.43 26.67 26.58 25.67
-###     isl23 isl24 isl25 isl26 isl27 isl28 isl29 isl30 isl31 isl32 isl33
-###[1,] 24.18 23.78 25.49 24.75 23.87 26.52  27.5 23.02 26.37 24.45 24.08
-###     isl34 isl35 isl36 isl37 isl38 isl39 isl40
-###[1,] 26.61 26.38 26.48 25.21 25.34 28.94 25.29
+###      isl1  isl2  isl3  isl4  isl5  isl6  isl7  isl8  isl9 isl10
+###[1,] 44.76 30.01 26.82 25.98 25.85 24.97 24.87 29.67 26.19 25.46
+###     isl11 isl12 isl13 isl14 isl15 isl16 isl17 isl18 isl19 isl20
+###[1,] 25.11 25.06 24.81 23.79 25.03 24.41    26 25.03 24.92  26.6
+###     isl21 isl22 isl23 isl24 isl25 isl26 isl27 isl28 isl29 isl30
+###[1,] 25.63 25.12 24.32  24.1 25.02 24.62 24.15 26.52 27.03 23.69
+###     isl31 isl32 isl33 isl34 isl35 isl36 isl37 isl38 isl39 isl40
+###[1,] 25.59  24.5 24.27 26.11 25.51  26.5 24.88 24.95 28.28 24.91
 ```
 
 
