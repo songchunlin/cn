@@ -1,16 +1,10 @@
+---
 title: 你别无所逃
-link: http://songchunlin.net/the-maze-runner/
-author: sclyeah
-description: 
-post_id: 1621
-created: 2014/11/02 18:39:53
-created_gmt: 2014/11/02 10:39:53
-comment_status: closed
-post_name: the-maze-runner
-status: publish
-post_type: post
-
-# 你别无所逃
+layout: post
+categories: [电影与书]
+tags: [电影]
+comments: yes
+---
 
 下午看了电影《移动迷宫》。我不喜欢这部电影的中译名，英文 The Maze Runner，在我看来直接译为「迷宫行者」是最好的，「移动迷宫」给人的感觉是电影的主角不是那群逃出迷宫的年轻人而在于迷宫本身。除去这点，电影本身是非常值得一看的，可以打8分。
 
