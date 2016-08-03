@@ -28,7 +28,7 @@ a{
   text-decoration:none;
 }
 
-a:.hvr-underline-reveal {
+a:hover.hvr-underline-reveal {
   display: inline-block;
   vertical-align: middle;
   -webkit-transform: translateZ(0);
