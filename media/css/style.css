@@ -179,14 +179,14 @@ nav a:hover{
 h1{
 font-family: Georgia, Kaiti;
   -webkit-font-smoothing:antialiased;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 700;
   line-height: 1.5;
   margin-bottom: 14px;
   margin-bottom: 1rem;
   border-width: 0;
   border-style: none;
-  color: #186dee;
+  color: #222222;
 }
 
 h2{
