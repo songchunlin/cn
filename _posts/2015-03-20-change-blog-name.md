@@ -1,3 +1,4 @@
+---
 title: 改名字了
 layout: post
 categories: [歪理邪说]

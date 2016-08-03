@@ -1,16 +1,10 @@
+---
 title: 当我们谈论爱情时我们谈些什么
-link: http://songchunlin.net/what-we-talk-about-when-we-talk-about-love/
-author: sclyeah
-description: 
-post_id: 1695
-created: 2015/02/15 14:45:55
-created_gmt: 2015/02/15 06:45:55
-comment_status: open
-post_name: what-we-talk-about-when-we-talk-about-love
-status: publish
-post_type: post
-
-# 当我们谈论爱情时我们谈些什么
+layout: post
+categories: [歪理邪说]
+tags: [爱情]
+comments: yes
+---
 
 ——写在2015年情人节
 
