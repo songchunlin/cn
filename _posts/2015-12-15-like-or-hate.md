@@ -1,16 +1,11 @@
+---
 title: 粉和黑
-link: http://songchunlin.net/like-or-hate/
-author: sclyeah
-description: 
-post_id: 1947
-created: 2015/12/15 19:32:21
-created_gmt: 2015/12/15 11:32:21
-comment_status: open
-post_name: like-or-hate
-status: publish
-post_type: post
+layout: post
+categories: [歪理邪说]
+tags: [粉丝文化]
+comments: yes
+---
 
-# 粉和黑
 
 现在如果有人说我是某某粉或某某黑，我肯定会跟他急。这里的某某可能是一家公司，可能是一个人，也可能是一样事物。为什么呢？因为如今的我对于这个地球上存在的任何人、事、物，我既不粉，也不黑。至于地球外的，不在讨论范围。
 
