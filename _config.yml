@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: http://blog.songchunlin.net
+url: songchunlin.github.io/cn/
 author: 宋春林
 pygments: true
 
