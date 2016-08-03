@@ -1,14 +1,10 @@
+---
 title: 高原生活
-link: http://songchunlin.net/life-in-fenghuo-mountain/
-author: sclyeah
-description: 
-post_id: 2160
-created: 2016/06/05 11:58:04
-created_gmt: 2016/06/05 03:58:04
-comment_status: open
-post_name: life-in-fenghuo-mountain
-status: publish
-post_type: post
+layout: post
+categories: [学术,译文]
+tags: [影响因子,impact factor,2014,Thomson-Reuters,ISI,Google Scholar Journal Metrics]
+comments: yes
+---
 
 # 高原生活
 
