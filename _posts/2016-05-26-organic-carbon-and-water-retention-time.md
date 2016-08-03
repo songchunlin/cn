@@ -1,16 +1,10 @@
+---
 title: 有机碳分解与水力停留时间
-link: http://songchunlin.net/organic-carbon-and-water-retention-time/
-author: sclyeah
-description: 
-post_id: 2149
-created: 2016/05/26 17:12:46
-created_gmt: 2016/05/26 09:12:46
-comment_status: open
-post_name: organic-carbon-and-water-retention-time
-status: publish
-post_type: post
-
-# 有机碳分解与水力停留时间
+layout: post
+categories: [学术科研]
+tags: [有机碳,Nature]
+comments: yes
+---
 
 昨天闲逛 Nature 网站的时候发现了一篇有意思的文章：[Organic carbon decomposition rates controlled by water retention time across inland waters](http://www.nature.com/ngeo/journal/vaop/ncurrent/full/ngeo2720.html)。这篇文章的主要结论是水体有机碳分解的速率与水力停留时间（water retention time）成反比，陆地水体有机碳的半衰期（2.5 ± 4.7年）比土壤和海洋中的有机碳要短。看到这篇文章我很兴奋，这个研究对我的博士论文目前正在做的工作有很大的启发，值得仔细研读。
 
