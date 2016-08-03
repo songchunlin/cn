@@ -29,7 +29,7 @@ a{
 }
 
 a:hover{
-  color:#8E44AD;
+  color:#17202A;
   text-decoration:underline;
 }
 
@@ -166,9 +166,9 @@ nav a{
 }
 
 nav a:hover{
-  background-color:#8E44AD;
+  background-color:#000000;
   text-decoration:none;
-  color:#f9f9f9;
+  color:#17202A;
   -webkit-opacity: 0.30;
   -moz-opacity: 0.30;
   opacity: 0.30;
