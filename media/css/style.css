@@ -147,7 +147,7 @@ td {
 header{
   padding:.5em 0;
   font-size:1.3em;
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid #ffffff;
 }
 
 nav{
@@ -157,7 +157,6 @@ nav{
   float:left; margin-left:-12em;
   width:9em;
   text-align:center;
-  border-right: 1px solid #e5e5e5;
 }
 
 nav a{
