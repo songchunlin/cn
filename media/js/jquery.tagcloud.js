@@ -70,7 +70,7 @@
       return ref;
     });
     return toHex(rgb);
-  }*/
+  }
 
   function compareWeights(a, b)
   {
@@ -78,3 +78,4 @@
   }
 
 })(jQuery);
+*/
