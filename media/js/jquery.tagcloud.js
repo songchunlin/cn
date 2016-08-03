@@ -61,7 +61,7 @@
     rgb = jQuery.map(toRGB(color.start), function(n, i) {
       ref = Math.round(n + (increment[i] * weighting));
       if (ref > 255) {
-        ref = 0;
+        ref = 255;
       } else {
         if (ref < 0) {
           ref = 0;
