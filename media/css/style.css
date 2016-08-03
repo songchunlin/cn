@@ -10,7 +10,7 @@
 body{
   font-size: 14px;
   font-size: 1rem;
-  line-height:2;
+  line-height:1.5;
   font-family:normal, 'Avenir Next', Avenir,'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', 微软雅黑,  sans-serif;
   text-rendering: optimizeLegibility;
   color: #202020;
@@ -98,7 +98,7 @@ td {
 
 .content{
   font-size:16px;
-  line-height:24px;
+  line-height:1.5;
 }
 
 .content h1{
