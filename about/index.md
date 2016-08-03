@@ -1,5 +1,5 @@
 ---
-title: 关于本站
+title: 关于
 layout: page
 ---
 
@@ -22,6 +22,7 @@ var urodz= new Date("11/13/2013"); var now = new Date(); var ile = now.getTime()
 
 如果觉得我的文章对您有用，可以用手机支付宝支付我任意金额（支付宝账户为 sclyeah@gmail.com）。
 
+---
 
 ## 关于版权
 
