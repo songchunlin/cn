@@ -31,6 +31,11 @@ a{
 a:hover{
   color:#8E44AD;
   text-decoration:none;
+-webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
 }
 
 hr{
@@ -172,11 +177,13 @@ nav a:hover{
   -webkit-opacity: 0.30;
   -moz-opacity: 0.30;
   opacity: 0.30;
-  -webkit-transition: opacity 3s linear;
-  -moz-transition: opacity 3s linear;
-  -ms-transition: opacity 3s linear;
-  -o-transition: opacity 3s linear;
-  transition: opacity 3s linear;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
 }
 
 .post{
