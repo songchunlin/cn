@@ -24,13 +24,13 @@ line-height:1.5;
 }
 
 a{
-  color:#08c;
+  color:#303030;
   text-decoration:none;
 }
 
 a:hover{
-  color:#f00;
-  text-decoration:underline;
+  color:#8E44AD;
+  text-decoration:none;
 }
 
 hr{
@@ -166,7 +166,7 @@ nav a{
 }
 
 nav a:hover{
-  background-color:#138D75;
+  background-color:#8E44AD;
   text-decoration:none;
   color:#f9f9f9;
   -webkit-opacity: 0.30;
