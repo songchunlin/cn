@@ -3,36 +3,30 @@ title: 关于本站
 layout: page
 ---
 
-## 我是谁
+## 关于我
 
-鄙人[斯幸峰](/)，浙江义乌人氏。出身乡野，上得了山，下得了湖，爬得了树，游得了水。寒窗二十余载，历经小学、初中、高中、本科和研究生五个阶段，读书年限与距老家距离呈显著性正相关(r=0.84,t=3.06,df=4,p=0.038)。很惭愧，没有正式上过幼儿园，传闻入园不久由于不遵守相关法律法规而被老师遣送回家(此处因年代久远已不可考)，故上小学后读了两站一年级。二十年后，毕业于[三墩职校](http://www.zju.edu.cn "浙江大学")，食性稍变，从专蛀书本到啃噬文献(xián)。目前，鄙人乃一介博士后，专职在[千岛湖](/cn/pages/thousand-island-lake/)搞鸟，兼职在[古田山](/cn/pages/gutianshan-reserve/)搞兽，正所谓禽兽通吃。
+本人[宋春林](http://songchunlin.net "Chunlin Song")，本科毕业于[茶馆大学](http://www.scu.edu.cn/)水文与水资源工程专业，目前为中科院成都某研究所博士研究生，自然地理学专业，生态水文学方向。喜欢折腾，自我驱动，乐于解决问题，open-minded。正在努力成为合格的科研工作者。我的其他网络据点还有：[微博](http://weibo.com/songchunlin)、[饭否](http://fanfou.com/scuscl)、[知乎](http://www.zhihu.com/people/songcl)、[豆瓣](http://www.douban.com/people/iamscl/)、[ResearchGate](https://www.researchgate.net/profile/Song_Chunlin/)。
 
----
-
-## 个人兴趣
-
-
-喜欢看书，看得很杂，至今“五大名著”都还没完完全全通读。《儒林外史》打算最近再看一遍。看看能不能活学活用，或许会很有意思，所以平时得多督促自己注意收集素材，幸好当今这种素材并不少。
-
-有空会打打乒乓球。其实会玩的球类运动倒不少，可惜没有一项拿的出手，正中了“百艺精不如一艺精”的魔咒，更可叹的是现在每一艺都渐趋荒废了。有同感的是那辆放在窗台上积灰的山地车，曾打算把它卖了，可是心中还有一个骑行川藏南线的梦，所以说不准哪天还要再次为我服役。之前本着更加健康、强壮和聪明的目标，坚持长跑好多年。比较诡异的是，第二次跑完[全程马拉松](http://sixf.org/files/images/2014/09/marathon.jpg)只比第一次快**3秒**，这种进步速度可真对不起观众啊。总而言之，以上的各种体育运动，让我的膝盖承受了不少的负担。所以，如今为了膝盖比较健康，渐趋荒废好像是合理的。
+联系方式：[scl＃songchunlin.net](mailto:scl@songchunlin.net)
 
 ---
 
-## 我为什么要写博客
+## 关于本博客
 
-既然个人兴趣不包括写作，那么争取从写博客开始养成写作的习惯吧，确信这又将是一场长期的战斗。虽然坚持写笔记式日记已经将近十五个年头，但写博客我是一个实打实的新手。日记可以写一些可能永远不会有人再看第二遍的闲言碎语，因为那只是记录了一个人在某时某刻的一些心情及发生的事件。而一篇博客需要有特定的主题，并要求能深入表述一定的观点，让人读后若有所得。这跟学术论文的写作套路殊途同归，因此权当自己在个人网站里先照猫画虎，通过点点滴滴积累，希冀有一日终可以至千里吧。
+
+[本博客](http://songchunlin.net/)诞生于2013年11月13日，至今已存活<strong><script>// <![CDATA[
+var urodz= new Date("11/13/2013"); var now = new Date(); var ile = now.getTime() - urodz.getTime(); var dni = Math.floor(ile / (1000 * 60 * 60 * 24)); document.write(+dni)
+// ]]></script></strong>天，曾用名「北河故事」。博客基于Jekyll 和 GitHub Pages，使用 DNSPod 进行域名解析，七牛云作为图床，目前采用 [Xingfeng Si](http://sixf.org/) 和 [Yihui Xie](http://yihui.name/) 博客微调后的主题。
+
+本博客为我的个人独立博客，内容主要是我个人生活、一些评论和专业学习相关的东西；所有观点仅代表我个人，与我所在学校、研究所无关。博客欢迎参观，但不保证保留和回复您的留言。
+
+如果觉得我的文章对您有用，可以用手机支付宝支付我任意金额（支付宝账户为 sclyeah@gmail.com）。
+
+
+## 关于版权
+
+本博客内容如无特别说明均属本人原创，采用[知识共享「署名 3.0 中国大陆」许可协议](http://creativecommons.org/licenses/by/3.0/cn/)授权。意思是，在没有特别说明的情况下，您可以自由转载我的博文，仅需注明原文作者[宋春林](http://songchunlin.net)和原文链接地址。
 
 ---
 
-## 本站架构
-
-目前本站以Jekyll作为后台系统，托管于GitHub。2013年12月份开始捣腾建站，起始使用WordPress系统，两个月后[挪窝于此](http://sixf.org/cn/2013/12/first-blog-website-log/)。对比Jekyll系统，WordPress和MySQL组合稍显臃肿，每每更新和维护网站，都需要登录后台，着实比较麻烦。而Jekyll可以在离线时以纯文本形式写博客，待连网后直接推送到GitHub就大功告成了，多么麻利！
-
-作为一个刚接触建站不久的菜鸟，我秉着“拿来主义”遍寻既有的博客模版。忽见[Yihui](http://yihui.name)个人网站那简洁的主题，中英文分开的设计，正是我梦寐以求的，于是立马窃了过来。一不小心，我当了二道贩子，原来这主题是Yihui之前先从[Linghua Zhang](http://lhzhang.com/)和[Tao Zhang](http://ztpala.com/)“[那里偷偷扒过来的](http://yihui.name/cn/about)”，然后进行了微调。比如，浏览本站的日志文章时可以用键盘上的**左箭头**查看上一片文章，用**右键头**查看下一篇文章。不信？[试试就知道](http://sixf.org/cn/2014/04/some-modest-advice-for-graduate-students/)！最后，再次感谢三位前辈对该博客主题的贡献！
-
----
-
-## 如何找到我
-
-平时大部分时间我都窝在实验室，趴在电脑前，所以[发邮件](mailto:sixingfeng@gmail.com)是最合适的联系方式。以前曾在[新浪微博](http://weibo.com/kiukii)和[校内网](http://www.renren.com/228658765)活跃过，目前在闲余时间会上[小木虫论坛](http://emuch.net/bbs/index.php?friend=1157743)逛逛，也常常去墙外的[FB](http://facebook.com/xingfengsi)看看风景，并时不时把部分[本站的博客](http://sixf.org/cn)发布于我的[科学网博客](http://blog.sciencenet.cn/u/seexf2012)。[ResearchGate](http://www.researchgate.net/profile/Xingfeng_Si/)这个网站不错，被誉为是研究人员的FB。另外一个被誉为程序员FB的是[GitHub](http://github.com/sixf/sixf.github.io)网站，本站便托管于此。好了，就此打住，否则再提FB，可真要“非死不可”了。
 
