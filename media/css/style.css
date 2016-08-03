@@ -161,7 +161,7 @@ nav{
 
 nav a{
   display:block;
-  padding:.7em 1em;
+  padding:.15em .15em;
   color:#000000;
 }
 
@@ -169,14 +169,14 @@ nav a:hover{
   background-color:#138D75;
   text-decoration:none;
   color:#f9f9f9;
-  	    -webkit-opacity: 0.30;
-	    -moz-opacity: 0.30;
-	    opacity: 0.30;
-	    -webkit-transition: opacity 3s linear;
-	    -moz-transition: opacity 3s linear;
-	    -ms-transition: opacity 3s linear;
-	    -o-transition: opacity 3s linear;
-	    transition: opacity 3s linear;
+  -webkit-opacity: 0.30;
+  -moz-opacity: 0.30;
+  opacity: 0.30;
+  -webkit-transition: opacity 3s linear;
+  -moz-transition: opacity 3s linear;
+  -ms-transition: opacity 3s linear;
+  -o-transition: opacity 3s linear;
+  transition: opacity 3s linear;
 }
 
 .post{
