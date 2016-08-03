@@ -194,7 +194,7 @@ h2{
 font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', sans-serif;
   font-weight: normal;
   font-size: 1.4rem;
-  line-height: 1.846153846;
+  line-height: 40px;
   color: #303030;
   border-width: 0;
   border-style: none;
@@ -216,7 +216,7 @@ h4{
 }
 
 pre,code{
-  font-family:Menlo,"Andale Mono",Consolas,"Courier New",Monaco,monospace;
+  font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', sans-serif;
   font-size:13px;
 }
 
