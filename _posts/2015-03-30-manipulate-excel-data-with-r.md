@@ -12,20 +12,21 @@ comments: yes
 数据来自[全国水雨情信息网](http://xxfb.hydroinfo.gov.cn/)，这个网站有全国各大站点的水情和雨情数据，每天更新。我的数据是几千行全国河流重点水文站的水情数据，但是我需要的只是其中的几十行，格式均为 xlsx。xlsx 这个包可以很好地解决我的问题。思路是把文件读进 R，设定筛选条件筛选需要的数据，再把数据导出生成新数据文件。这样极大地提高了整理数据的效率。 
 
 方法如下：
-{% highlight r %}
-f = function() {
-     for(i in 1:3){
-        plot(rnorm(100))
-        lines(rnorm(100))
-     }
-}
-png()
-f()
-dev.off()
-{% endhighlight %}
 
 {% highlight r %} 
-install.packages(xlsx) # xlsx 包用来读取 Excel 2007及以上版本的数据，xlsx 包可能需要 JAVA 支持，按照提示安装即可。 library(xlsx) #加载 xlsx 包 dat <\- read.xlsx("2015-3-9.xlsx", sheetName="Sheet1", header = FALSE) # 这一条假设数据已经在 word directory 了，如果没有，设置工作空间 newdat1 <\- dat[which(dat$X1=="长江 "&dat$X3=="通天河 "), ] newdat2 <\- dat[which(dat$X1=="长江 "&dat$X3=="金沙江 "), ] newdat3 <\- dat[which(dat$X1=="长江 "&dat$X3=="长江 "&dat$X2!="湖北 "&dat$X2!="湖南 "&dat$X2!="安徽 "&dat$X2!="江西 "&dat$X2!="江苏 "), ] newdat4 <\- dat[which(dat$X1=="长江 "&dat$X3=="雅砻江 "), ] newdat5 <\- dat[which(dat$X1=="长江 "&dat$X3=="大渡河 "), ] newdat6 <\- dat[which(dat$X1=="长江 "&dat$X3=="岷江 "), ] newdat7 <\- dat[which(dat$X1=="长江 "&dat$X3=="嘉陵江 "), ] # 以上七行是根据条件读取需要的行数据，&为且，==为等于，!=为不等于 newdat <\- rbind(newdat1, newdat2, newdat3, newdat4, newdat5, newdat6, newdat7) # 合并前面读取的数据 write.csv(newdat, file="2015-3-9.csv", fileEncoding="gbk") # 将合并后的数据写为新的数据文件，fileEncoding="gbk"是为了防止出现中文乱码 
+install.packages(xlsx) 
+library(xlsx)  
+dat <- read.xlsx("2015-3-9.xlsx", sheetName="Sheet1", header = FALSE) 
+newdat1 <- dat[which(dat$X1=="长江 "&dat$X3=="通天河 "), ]
+newdat2 <- dat[which(dat$X1=="长江 "&dat$X3=="金沙江 "), ]
+newdat3 <- dat[which(dat$X1=="长江 "&dat$X3=="长江 " & dat$X2!="湖北 " & dat$X2!="湖南 " & dat$X2!="安徽 " & dat$X2!="江西 "&dat$X2!="江苏 "),]
+newdat4 <- dat[which(dat$X1=="长江 "&dat$X3=="雅砻江 "), ]
+newdat5 <- dat[which(dat$X1=="长江 "&dat$X3=="大渡河 "), ] 
+newdat6 <- dat[which(dat$X1=="长江 "&dat$X3=="岷江 "), ] 
+newdat7 <- dat[which(dat$X1=="长江 "&dat$X3=="嘉陵江 "), ] 
+newdat <- rbind(newdat1, newdat2, newdat3, newdat4, newdat5, newdat6, newdat7) 
+write.csv(newdat, file="2015-3-9.csv", fileEncoding="gbk") 
+
 {% endhighlight %}
 
 参考资料：Kabacoff, Robert. **_R in Action_**. Manning Publications Co., 2011.
