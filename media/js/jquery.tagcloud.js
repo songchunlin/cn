@@ -1,4 +1,4 @@
-(function($) {
+/*(function($) {
 
   $.fn.tagcloud = function(options) {
     var opts = $.extend({}, $.fn.tagcloud.defaults, options);
@@ -70,7 +70,7 @@
       return ref;
     });
     return toHex(rgb);
-  }
+  }*/
 
   function compareWeights(a, b)
   {
