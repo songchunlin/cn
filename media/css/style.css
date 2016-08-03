@@ -1,9 +1,9 @@
 /*------------------------------------
 *
-* @author Chunlin Song
-* @link http://sixf.org
+* @author Chunlin Song (original version by Xingfeng Si and Yihui Xie)
+* @link http://songchunlin.net
 * @contributor linghua.zhang@me.com
-* @update 2014-04-03
+* @update 2016-08-03
 * 
 * --------------------------------- */
 
@@ -193,8 +193,7 @@ font-family: Georgia, Kaiti;
 h2{
 font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', sans-serif;
   font-weight: normal;
-  font-size: 15px;
-  font-size: 1.071428571rem;
+  font-size: 1.4rem;
   line-height: 1.846153846;
   color: #303030;
   border-width: 0;
