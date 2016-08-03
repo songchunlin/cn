@@ -1,8 +1,9 @@
 ---
 title: 善良和聪明
 layout: post
-categories: [学术]
+categories: [歪理邪说]
 tags: [聪明, 善良]
+comments: yes
 ---
 
 无疑都很重要，但是哪个更重要？ 
