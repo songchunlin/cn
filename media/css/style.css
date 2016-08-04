@@ -164,6 +164,8 @@ text-align:center;
 .nav>li>a {
 display:block;
 background-color:#eee;
+
+    text-align: center;
 }
 
 .nav>li>a:hover {
