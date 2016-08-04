@@ -1,16 +1,10 @@
+---
 title: 我查找文献的一点心得
-link: http://songchunlin.net/my-experience-of-looking-for-papers/
-author: sclyeah
-description: 
-post_id: 81
-created: 2013/10/19 13:42:18
-created_gmt: 2013/10/19 05:42:18
-comment_status: open
-post_name: my-experience-of-looking-for-papers
-status: publish
-post_type: post
-
-# 我查找文献的一点心得
+layout: post
+categories: [学无止境]
+tags: [文献,研究生]
+comments: yes
+---
 
 研究生入学一个多月，通过本科及这段时间向老师所学和自己的实践，在查找文献上算是有一些心得吧，在这里与大家分享。
 

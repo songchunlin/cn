@@ -2,7 +2,7 @@
 title: 怎样读文献
 layout: post
 categories: [学术科研]
-tags: [研究生,文献]
+tags: [研究生,文献,译文]
 comments: yes
 ---
 

@@ -1,24 +1,20 @@
+---
 title: R学习资源汇总
-link: http://songchunlin.net/r-resources/
-author: sclyeah
-description: 
-post_id: 462
-created: 2014/01/10 17:09:32
-created_gmt: 2014/01/10 09:09:32
-comment_status: open
-post_name: r-resources
-status: publish
-post_type: post
-
-# R学习资源汇总
+layout: post
+categories: [学无止境]
+tags: [R,统计学,Coursera]
+comments: yes
+---
 
 SAS是我这学期接触的第一个统计学软件，主要是因为选的两门统计学课程都以SAS作为教学软件，不得不学。但说实话SAS没有给我留下好的印象。首先这软件很难找到正版，它只租不卖，价钱特别贵而且租用期一过就要续费。其次，软件太大，我费了好大力气才找到9.2破解版，体积接近3个G，然后花了1个多小时才安装上。最后，SAS作为应用分析领域全球第一的软件，界面却非常之丑。之前课题组一个老师就强烈推荐我学习R，我也准备把R作为以后统计分析的工具。最近又到了选课的时间，看到李欣海老师的《生物统计学》课程介绍里面已经把R作为教学软件了，心里一阵高兴，终于可以系统的学习R了。李老师在课程介绍里对比了SAS和R： 
 
 > R是使用最多的统计软件，是主流大学统计系的核心工具；在工业界（主要是药学等领域）SAS依旧是排行第一的统计工具，然而在学术界，R已经后来居上，成为排行首位的统计软件；最近几年来，生物学领域的重要研究成果几乎都是用R做统计分析的；个人感觉上，R易用而高效，编程效率比SAS快10倍；R的许多软件包可以非常方便地处理一些生物学问题；R免费、开源，前景不可限量。
 
-SAS能做的事情，R基本上都能做。而且因为R是开源软件，全世界的人都可以为R开发相关的软件包，这些软件包极大地丰富了R的功能。我用demo函数看了R画的图，比SAS的图漂亮。最重要的是，R是免费的，不存在用盗版的问题。我现在看个电子书都要先去Kindle书店看看有没有正版，有正版就买正版看。要是用盗版软件做科研数据分析，总感觉不舒服。 R是我自己想学的，所以我等不了下学期了，这个寒假就开始学。最近上网发现了好多学习资源，整理在这里。一方面给自己备忘，一方面方便和我一样想学R的人。 
+SAS能做的事情，R基本上都能做。而且因为R是开源软件，全世界的人都可以为R开发相关的软件包，这些软件包极大地丰富了R的功能。我用demo函数看了R画的图，比SAS的图漂亮。最重要的是，R是免费的，不存在用盗版的问题。我现在看个电子书都要先去Kindle书店看看有没有正版，有正版就买正版看。要是用盗版软件做科研数据分析，总感觉不舒服。 
 
-# MOOCs
+R是我自己想学的，所以我等不了下学期了，这个寒假就开始学。最近上网发现了好多学习资源，整理在这里。一方面给自己备忘，一方面方便和我一样想学R的人。 
+
+## MOOCs
 
 MOOC即大型开放式网络课程（massive open online courses）。这类课程和以前的大学公开课不一样。以前的公开课仅仅是放一些教学视频在网上，而MOOC不仅有视频、课件，还有作业、考试以及学习论坛。MOOC的课程都是世界名校提供，开课和学习时间相对固定，完成课程学习并考试合格可以得到一个认证证书。这里推荐两门[Coursera](https://www.coursera.org/)上的两门统计学课程： 
 
@@ -26,7 +22,7 @@ MOOC即大型开放式网络课程（massive open online courses）。这类课�
   * [Computing for Data Analysis](https://www.coursera.org/course/compdata)，由约翰霍普金斯大学的Roger D. Peng讲授。这门课相对比较难，用R做统计分析，是该大学生物统计学专业研究生一年级的专业课，现在已经开课，想拿证书还来得及。
 上面两门课我都开始学了，课程完全免费，Computing for Data Analysis交49美元认证费就可以在课程结束、考试合格后拿到证书。我感觉用这种方式学习R是最有效的，有老师讲授，有实践操作，有作业和考试，还可以在论坛互动。希望通过寒假系统的学习掌握R的基本操作。 
 
-# 书
+## 书
 
 多方了解，这几本书对于R的入门学习应该是非常有用的： 
 
@@ -37,7 +33,7 @@ MOOC即大型开放式网络课程（massive open online courses）。这类课�
   * [《R Reference Card》](http://cran.r-project.org/doc/contrib/Short-refcard.pdf)，非常简短的小册子，总结了20类常见的R使用代码
 要是读完这些书还不过瘾，[这里](http://www.r-project.org/doc/bib/R-books.html)还有很多R相关的书。 
 
-# 网站和博客
+## 网站和博客
 
   * [R官方网站](http://www.r-project.org/)，这里可以下载各个版本的R软件和R软件包，还有[R入门简介](http://cran.r-project.org/doc/manuals/R-intro.html)、[R-FAQ](http://cran.r-project.org/doc/manuals/R-FAQ.html)、[R数据导入\导出](http://cran.r-project.org/doc/manuals/R-data.html)、[R语言定义](http://cran.r-project.org/doc/manuals/R-lang.html)、[写R扩展程序](http://cran.r-project.org/doc/manuals/R-exts.html)等非常有用的文档
   * [统计之都](http://cos.name/)，学习统计学和R的中文社区
