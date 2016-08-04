@@ -152,10 +152,13 @@ header{
 
 
 .nav {
+font-family:sans-serif;
+font-size:1em;
+text-transform:uppercase;
 margin-left:0;
 margin-bottom:20px;
 list-style:none;
-text-align:center;
+text-align:right;
 }
 
 .nav>li>a {
