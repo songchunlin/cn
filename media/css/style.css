@@ -322,14 +322,7 @@ embed,object,iframe{
 }
 
 ul {
-  list-style: none;
+  list-style: inherit;
 }
 
-ul.horizontal {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
 
