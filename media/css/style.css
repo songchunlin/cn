@@ -90,10 +90,10 @@ td {
 }
 
 #container{
-  width:700px;
+  width:720px;
   margin:2em auto;
   display:block;
-  padding:0 2em;
+  padding:0 0em;
 }
 
 .content{
