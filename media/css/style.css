@@ -214,6 +214,39 @@ text-align: center;
   display: inline-block;
 }
 
+/* Navigation */
+.site-content nav {
+  clear: both;
+  line-height: 2;
+  overflow: hidden;
+}
+#nav-above {
+  padding: 24px 0;
+        padding: 1.714285714rem 0;
+}
+#nav-above {
+  display: none;
+}
+.paged #nav-above {
+  display: block;
+}
+.nav-previous,
+.previous-image {
+  float: left;
+  width: 50%;
+}
+.nav-next,
+.next-image {
+  float: right;
+  text-align: right;
+  width: 50%;
+}
+.nav-single + .comments-area,
+#comment-nav-above {
+  margin: 48px 0;
+  margin: 3.428571429rem 0;
+}
+
 .pills {
 zoom:1px;
 }
