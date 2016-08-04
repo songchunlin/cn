@@ -18,7 +18,7 @@ layout: page
 var urodz= new Date("11/13/2013"); var now = new Date(); var ile = now.getTime() - urodz.getTime(); var dni = Math.floor(ile / (1000 * 60 * 60 * 24)); document.write(+dni)
 // ]]></script></strong>天，曾用名「北河故事」。博客基于Jekyll 和 GitHub Pages，使用 DNSPod 进行域名解析，七牛云作为图床，目前采用 [Xingfeng Si](http://sixf.org/) 和 [Yihui Xie](http://yihui.name/) 博客微调后的主题。
 
-本博客为我的个人独立博客，内容主要是我个人生活、一些评论和专业学习相关的东西；所有观点仅代表我个人，与我所在学校、研究所无关；很久以前的博文可能不能代表我现在的想法，毕竟人会成长；欢迎参观，但不保证保留和回复留言。
+本博客为我的个人独立博客，内容主要是我个人生活、一些评论和专业学习相关的东西；所有观点仅代表我个人，与我所在学校、研究所无关；很久以前的博文可能并不代表我现在的想法，毕竟人会成长；欢迎参观，但不保证保留和回复留言。
 
 如果觉得我的文章对您有用，可以用手机支付宝支付我任意金额（支付宝账户为 sclyeah@gmail.com）。
 
