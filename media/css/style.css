@@ -220,19 +220,39 @@ line-height:30px;
   padding:.5em 0em;
 }
 
-h1{
-font-family: Georgia, Kaiti;
-  -webkit-font-smoothing:antialiased;
-  font-size: 2.5rem;
-  font-weight: 700;
-  line-height: 1.5;
-  margin-bottom: 14px;
-  margin-bottom: 1rem;
-  margin-top: 1rem;
-  border-width: 0;
-  border-style: none;
-  color: #222222;
-}
+	h1 {
+	    font-family: Georgia, Kaiti;
+        -webkit-font-smoothing:antialiased;
+        font-size: 2.5rem;
+        font-weight: 700;
+        line-height: 1.5;
+        margin-bottom: 14px;
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+        border-width: 0;
+        border-style: none;
+        color: #222222;
+	    -webkit-opacity: 0.30;
+	    -moz-opacity: 0.30;
+	    opacity: 0.30;
+	    -webkit-transition: opacity 3s linear;
+	    -moz-transition: opacity 3s linear;
+	    -ms-transition: opacity 3s linear;
+	    -o-transition: opacity 3s linear;
+	    transition: opacity 3s linear;
+	}
+
+	h1:hover {
+	    text-decoration:none
+	    -webkit-opacity: 1;
+	    -moz-opacity: 1;
+	    opacity: 1;
+	    -webkit-transition: all 2s ease;
+	    -moz-transition: all 2s ease;
+	    -ms-transition: all 2s ease;
+	    -o-transition: all 2s ease;
+	    transition: all 2s ease;
+	}
 
 h2{
 font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', sans-serif;
@@ -260,7 +280,7 @@ h4{
   color:#333;
 }
 
-/* author credits */
+/* Author credits */
 	h5 {
 	    font-size: 14px;
 	    font-weight: normal;
