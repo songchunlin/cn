@@ -49,7 +49,7 @@ li{
 
 ol,ul{  
   margin-left: 2em;
-  text-indent: -2em;
+  text-indent: -0em;
   list-style-position: inside;
 }
 
