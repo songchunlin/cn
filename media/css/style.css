@@ -208,7 +208,7 @@ text-align: center;
   display: none;
 }
 .paged #nav-above {
-  display: block;
+  display: inline;
 }
 .nav-previous,
 .previous-image {
