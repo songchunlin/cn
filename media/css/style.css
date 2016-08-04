@@ -276,7 +276,7 @@ h4{
 	    transition: opacity 3s linear;
 	}
 
-	h7:hover {
+	h5:hover {
 	    -webkit-opacity: 1;
 	    -moz-opacity: 1;
 	    opacity: 1;
@@ -286,7 +286,7 @@ h4{
 	    -o-transition: all 2s ease;
 	    transition: all 2s ease;
 	}
-	h7 strong {
+	h5 strong {
 	    color: #56a49f;
 	    font-weight: bold;
 	}
@@ -295,15 +295,6 @@ h4{
 	    padding: 3px;
 	}
 	img a { border: 0 }
-	p {
-	    line-height: 1.45em;
-	    margin: .7em 0 0 0;
-	    font-family:normal, 'Avenir Next', Avenir,'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', 微软雅黑, sans-serif;
-	    font-size: 14px;
-	    font-size: 1rem;
-	    color: #202020;
-	    -webkit-font-smoothing: antialiased;
-	}
 	
 
 pre,code{
