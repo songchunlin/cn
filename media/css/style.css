@@ -191,6 +191,19 @@ border-radius:5px;
 padding:8px 12px;
 }
 
+.pills:before,.pills:after,.pager:before,.pager:after {
+display:table;
+content:"";
+}
+
+.pills:after,.pager:after {
+clear:both;
+}
+
+.pills>li,.pager .previous a,.pull-left {
+float:left;
+}
+
 .post{
   padding:.5em 0em;
 }
