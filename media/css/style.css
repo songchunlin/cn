@@ -156,6 +156,7 @@ font-size:1em;
 text-transform:uppercase;
 margin-left:0;
 margin-bottom:20px;
+margin-top:30px;
 list-style:none;
 text-align:center;
 }
@@ -167,7 +168,7 @@ background-color:#fff;
 }
 
 .nav>li>a:hover {
-background-color:#17202A;
+background-color:#707070;
   text-decoration:none;
   color:#ffffff;
   -webkit-opacity: 0.30;
