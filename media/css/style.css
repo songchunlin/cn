@@ -45,6 +45,8 @@ p{
 
 li{
   padding:.2em 0;
+  display:inline;
+
 }
 
 ol,ul{  
@@ -208,7 +210,7 @@ text-align: center;
   display: none;
 }
 .paged #nav-above {
-  display: inline;
+  display: block;
 }
 .nav-previous,
 .previous-image {
