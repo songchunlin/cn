@@ -29,7 +29,7 @@ a{
 }
 
 a:hover{
-  color:#17202A;
+  color:#17202a;
   text-decoration:underline;
 }
 
@@ -168,7 +168,7 @@ background-color:#fff;
 }
 
 .nav>li>a:hover {
-background-color:#707070;
+background-color:#17202a;
   text-decoration:none;
   color:#ffffff;
   -webkit-opacity: 0.30;
