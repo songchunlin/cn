@@ -1,3 +1,4 @@
+---
 title: 用 R 做方差分析(ANOVA)
 layout: post
 categories: [学无止境]
