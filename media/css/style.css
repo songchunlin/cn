@@ -220,9 +220,10 @@ line-height:30px;
   padding:.5em 0em;
 }
 
-	h1 {
-	    font-family: Georgia, Kaiti;
+h1 {
+	 font-family: Georgia, Kaiti;
         -webkit-font-smoothing:antialiased;
+        color: #222222;
         font-size: 2.5rem;
         font-weight: 700;
         line-height: 1.5;
@@ -231,7 +232,7 @@ line-height:30px;
         margin-top: 1rem;
         border-width: 0;
         border-style: none;
-        color: #222222;
+        
 	    -webkit-opacity: 0.30;
 	    -moz-opacity: 0.30;
 	    opacity: 0.30;
@@ -242,7 +243,8 @@ line-height:30px;
 	    transition: opacity 3s linear;
 	}
 
-	h1:hover {
+h1:hover {
+	    color:#17202a;
 	    text-decoration:none
 	    -webkit-opacity: 1;
 	    -moz-opacity: 1;
