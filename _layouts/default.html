@@ -15,15 +15,16 @@
     <div id="container">
       <div id="main" role="main">
         <header>
-        <h1>{{ page.title }}</h1>
+        <h1><a class="" href="{{ site.url }}/">北河故事</a></h1>  
+        <h2>{{ page.title }}</h1>
         </header>
         <nav>
-        <span><a title="博客主页" class="" href="{{ site.url }}/">主页</a></span>
-        <span><a title="关于我" class="" href="{{ site.url }}/about/">关于</a></span>
-        <span><a title="个人简历" class="" href="{{ site.url }}/vitae/">简历</a></span>
-        <span><a title="文章分类" class="" href="{{ site.url }}/categories/">分类</a></span>
-        <span><a title="各种链接" class="" href="{{ site.url }}/links/">链接</a></span>
-        <span><a title="RSS 订阅" class="" href="{{ site.url }}/feed/">订阅</a></span>
+        <li><a title="博客主页" class="" href="{{ site.url }}/">主页</a></li>
+        <li><a title="关于我" class="" href="{{ site.url }}/about/">关于</a></li>
+        <li><a title="个人简历" class="" href="{{ site.url }}/vitae/">简历</a></li>
+        <li><a title="文章分类" class="" href="{{ site.url }}/categories/">分类</a></li>
+        <li><a title="各种链接" class="" href="{{ site.url }}/links/">链接</a></li>
+        <li><a title="RSS 订阅" class="" href="{{ site.url }}/feed/">订阅</a></li>
         </nav>
         <article class="content">
         {{ content }}
