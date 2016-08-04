@@ -206,9 +206,9 @@ content:"";
 clear:both;
 }
 
-.pills>li,.pager .previous a,.pull-left {
-float:center;
-}
+/*.pills>li,.pager .previous a,.pull-left {
+float:right;
+}*/
 
 li,dt,dd {
 line-height:30px;
