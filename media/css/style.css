@@ -205,7 +205,7 @@ clear:both;
 }
 
 .pills>li,.pager .previous a,.pull-left {
-float:center;
+float:left;
 }
 
 li,dt,dd {
