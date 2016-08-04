@@ -223,11 +223,12 @@ line-height:30px;
 h1{
 font-family: Georgia, Kaiti;
   -webkit-font-smoothing:antialiased;
-  font-size: 2rem;
+  font-size: 3rem;
   font-weight: 700;
   line-height: 1.5;
   margin-bottom: 14px;
   margin-bottom: 1rem;
+  margin-top: 1rem;
   border-width: 0;
   border-style: none;
   color: #222222;
