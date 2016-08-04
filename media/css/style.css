@@ -182,6 +182,38 @@ background-color:#17202A;
   transition: opacity 3s linear;
 }
 
+/* Navigation Menu */
+.main-navigation {
+  margin-top: 14px;
+  margin-top: 1rem;
+text-align: center; 
+}
+.main-navigation li {
+  margin-top: 14px;
+  margin-top: 1rem;
+  font-size: 14px;
+  font-size: 1rem;
+  line-height: 1.42857143;
+
+}
+.main-navigation a {
+  color: #5e5e5e;
+
+}
+.main-navigation a:hover {
+  color: #51aded;
+
+}
+.main-navigation ul.nav-menu,
+.main-navigation div.nav-menu > ul {
+  display: none;
+
+}
+.main-navigation ul.nav-menu.toggled-on,
+.menu-toggle {
+  display: inline-block;
+}
+
 .pills {
 zoom:1px;
 }
