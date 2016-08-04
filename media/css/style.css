@@ -188,8 +188,8 @@ margin-top:2px;
 margin-bottom:2px;
 -webkit-border-radius:5px;
 -moz-border-radius:5px;
-border-radius:40px;
-padding:10px 40px;
+border-radius:5px;
+padding:10px 30px;
 }
 
 .pills:before,.pills:after,.pager:before,.pager:after {
