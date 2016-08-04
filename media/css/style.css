@@ -207,7 +207,7 @@ clear:both;
 }
 
 .pills>li,.pager .previous a,.pull-left {
-float:left;
+float:center;
 }
 
 li,dt,dd {
@@ -318,20 +318,4 @@ embed,object,iframe{
   line-height:1.6;
 }
 
-/* Clearing floats */
-.clear:after,
-.wrapper:after,
-.format-status .entry-header:after {
-  clear: both;
-text-align: center
-}
-.clear:before,
-.clear:after,
-.wrapper:before,
-.wrapper:after,
-.format-status .entry-header:before,
-.format-status .entry-header:after {
-  display: table;
-  content: "";
-text-align:center
-}
+
