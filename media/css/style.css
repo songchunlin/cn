@@ -204,6 +204,10 @@ clear:both;
 float:left;
 }
 
+li,dt,dd {
+line-height:30px;
+}
+
 .post{
   padding:.5em 0em;
 }
