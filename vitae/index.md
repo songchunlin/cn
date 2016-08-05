@@ -4,4 +4,4 @@ layout: page
 ---
 
 
-[Chunlin Song‘s CV](/files/others/songchunlin_cv.pdf)
+## [Download Full CV (PDF)](http://songchunlin.net/files/others/songchunlin_cv.pdf)
