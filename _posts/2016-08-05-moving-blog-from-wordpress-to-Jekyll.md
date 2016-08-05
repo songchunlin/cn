@@ -1,12 +1,12 @@
 ---
-title: 将博客从 WordPress 迁移到 Jekyll
+title: 把博客从 WordPress 迁移到 Jekyll
 layout: post
 categories: [器物杂谈]
 tags: [博客,写作,Jekyll,GitHub]
 comments: yes
 ---
 
-很久以前就想把博客从臃肿的 WordPress 迁移到轻量的 Jekyll，但是一直没有做这件事。一方面空间还没有到期，另一方面研究了几次 Jekyll 的文档都感觉非常困惑。这两天忙里偷闲，终于把博客迁移到基于 Jekyll 了。
+很久以前就想把博客从臃肿的 WordPress 迁移到轻量的 Jekyll，但是一直没有做这件事。一方面空间还没有到期，另一方面研究了几次 Jekyll 的文档都感觉非常困惑。这两天忙里偷闲折腾了一下，终于把博客迁移到基于 Jekyll 了。
 
 Jekyll 的好处是非常多的。首先，基于 GitHub Pages 的 Jekyll 博客有 1G 空间，作为个人博客足够了，而这一切都是免费的，对比之下，我之前使用的衡天主机 300M 的空间一年要 120 元；其次，稳定可靠。博客文件托管在 GitHub 的 repositories 里，比那些空间提供商可靠可靠。之前的 WordPress 博客一个月总会有那么一两次收到博客无法访问的邮件。为了保险起见，我直接把放博客文件的 repositories 克隆到本地的 iCloud Drive 文件夹里，这样在本地的修改同时就备份到 iCloud 了，不用担心文件丢失。再次，管理方便。Jekyll 支持 Markdown，我写博客的时候直接用 Macdown 在本地完成，然后用 GitHub 客户端 commit 上去就可以更新博文。同样的方法也可以用来更新 CSS 文件修改博客主题。最后，足够自由。所有的代码都是自己的，想改成什么样就改成什么样。
 
