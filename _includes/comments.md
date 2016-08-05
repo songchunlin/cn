@@ -10,7 +10,6 @@ var duoshuoQuery = {short_name:"songchunlin2016"};
 		(document.getElementsByTagName('head')[0] 
 		 || document.getElementsByTagName('body')[0]).appendChild(ds);
 	})();
-	</script>
-                                    
+	</script>                          
 </section>
     
