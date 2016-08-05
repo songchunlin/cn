@@ -1,7 +1,7 @@
 ---
 title: 我查找文献的一点心得
 layout: post
-categories: [学无止境]
+categories: [学术科研]
 tags: [文献,研究生]
 comments: yes
 ---

@@ -1,7 +1,7 @@
 ---
 title: 文献的管理和命名
 layout: post
-categories: [学无止境]
+categories: [学术科研]
 tags: [文献,生态学]
 comments: yes
 ---

@@ -1,7 +1,7 @@
 ---
 title: 没读几本书也要谈读书
 layout: post
-categories: [电影和书]
+categories: [歪理邪说]
 tags: [阅读]
 comments: yes
 ---

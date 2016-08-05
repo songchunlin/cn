@@ -1,8 +1,8 @@
 ---
 title: 《枕草子》读书笔记
 layout: post
-categories: [电影和书]
-tags: [阅读]
+categories: [电影与书]
+tags: [阅读,文学]
 comments: yes
 ---
 

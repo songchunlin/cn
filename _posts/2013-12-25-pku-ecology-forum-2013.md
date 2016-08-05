@@ -1,7 +1,7 @@
 ---
 title: 北大生态论坛
 layout: post
-categories: [学无止境]
+categories: [学术科研]
 tags: [生态学,讲座]
 comments: yes
 ---

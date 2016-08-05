@@ -1,7 +1,7 @@
 ---
 title: 站在这光明的世界
 layout: post
-categories: [电影和书]
+categories: [电影与书]
 tags: [成长,阅读]
 comments: yes
 ---
