@@ -1,7 +1,7 @@
 ---
 title: 提高 WordPress 博客访问速度
 layout: post
-categories: [歪理邪说]
+categories: [器物杂谈]
 tags: [博客, WordPress]
 comments: yes
 ---
