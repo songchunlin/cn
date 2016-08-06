@@ -1,6 +1,6 @@
 markdown: kramdown
 permalink: /:year/:month/:title/
-url: https://songchunlin.github.io/cn
+url: http://songchunlin.net/cn
 author: 宋春林
 pygments: true
 
