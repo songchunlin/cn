@@ -1,4 +1,4 @@
-(function($) {
+/*(function($) {
 
   $.fn.tagcloud = function(options) {
     var opts = $.extend({}, $.fn.tagcloud.defaults, options);
@@ -19,7 +19,7 @@
       colorIncr = colorIncrement (opts.color, range);
     }
     return this.each(function() {
-      weighting = highest - $(this).attr("rel");
+      weighting = $(this).attr("rel") - lowest;
       if (opts.size) {
         $(this).css({"font-size": opts.size.start + (weighting * fontIncr) + opts.size.unit});
       }
