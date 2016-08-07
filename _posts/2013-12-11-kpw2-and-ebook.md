@@ -1,5 +1,5 @@
 ---
-title: 入手All-New Kindle Paperwhite，兼谈电子书
+title: 入手 All-New Kindle Paperwhite，兼谈电子书
 layout: post
 categories: [器物杂谈]
 tags: [kindle,阅读]

@@ -1,5 +1,5 @@
 ---
-title: 我所知道的Tom
+title: 我所知道的 Tom
 layout: post
 categories: [个人生活]
 tags: [研究生,UCAS]
