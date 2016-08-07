@@ -347,3 +347,4 @@ ul {
   list-style: inherit;
 }
 
+code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit; color: inherit}
