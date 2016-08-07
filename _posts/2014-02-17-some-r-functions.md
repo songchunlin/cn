@@ -1,5 +1,5 @@
 ---
-title: 一些R函数
+title: 一些 R 函数
 layout: post
 categories: [学无止境]
 tags: [R,统计学]
