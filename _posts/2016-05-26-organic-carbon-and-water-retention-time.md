@@ -12,7 +12,11 @@ comments: yes
 
 作者研究的尺度是全球尺度，绝大部分数据来自于各种文献，一共搜集了315条关于有机碳分解和相应的水力停留时间的数据。既包括室内实验的数据，也有野外观测的数据。通过简单的最小二乘法相关分析，作者得出了有机碳分解与水体保留时间的统计模型：
 
-log k = −0.45 (±0.08) log WRT −0.96 (±0.03) (r2 = 0.41; p < 0.001; n = 315)
+\[logk = -4.5 (\pm 0.08) log WRT − 0.96 (\pm 0.03) (r^{2} = 0.41; p < 0.001; n = 315)\]
+
+\frac{\delta E_{x}}{\delta t} = \frac{\delta f(z-ct)}{\delta t} = f^{\prime}(z - ct)\Big(\frac{\delta(z-ct)}{\delta t}\Big) = -c*f^{\prime}(z - ct)
+
+\frac{\delta^2 E_{x}}{\delta t^2} = \frac{\delta}{\delta t} \Big(\frac{\delta Ex}{\delta t}\Big)= f^{\prime\prime}(z - ct)\Big(\frac{\delta(z-ct)}{\delta t}\Big) = c^2*f^{\prime\prime}(z - ct)
 
 式中 k 为有机碳分解速率（文章中有具体定义，搜集的文献中未给出时利用碳平衡数据计算出来并用一个与温度有关的 Arrhenius 函数校正），WRT 为水力停留时间。这个模型表明水力停留时间越长，有机碳分解速率越低。
 
