@@ -3,4 +3,4 @@ permalink: /:year/:month/:title/
 url: http://songchunlin.net/cn
 author: 宋春林
 pygments: true
-
+highlighter: rouge
