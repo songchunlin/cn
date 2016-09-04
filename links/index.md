@@ -7,7 +7,6 @@ layout: page
 
 - [Πάντα ῥεῖ](http://www.andrewsun.net/panta_rhei/){:target="_blank"}：流变学
 - [土木坛子](https://tumutanzi.com/){:target="_blank"}：水泥科学
-- [饶毅](http://blog.sciencenet.cn/home.php?mod=space&uid=2237){:target="_blank"}：生命科学
 - [博士牌民工](http://www.yue366.com/){:target="_blank"}：道路工程与建筑材料
 - [洋流范儿](http://yangliufr.com/){:target="_blank"}：环境生态学
 - [谢益辉](http://yihui.name/){:target="_blank"}：R Developer
@@ -18,3 +17,4 @@ layout: page
 - [Definiter's Blog](http://definiter.net/){:target="_blank"}：计算机？
 - [角落里](http://yonghui.me/){:target="_blank"}：生物学
 - [Lisa Ding](http://dinglisa.com/){:target="_blank"}：计算机？
+- [熊阿姨](http://www.auntbear.com/){:target="_blank"}：中文、传播
