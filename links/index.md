@@ -16,5 +16,5 @@ layout: page
 - [木遥的窗子](http://blog.farmostwood.net/){:target="_blank"}：数学
 - [Definiter's Blog](http://definiter.net/){:target="_blank"}：计算机？
 - [角落里](http://yonghui.me/){:target="_blank"}：生物学
-- [Lisa Ding](http://dinglisa.com/){:target="_blank"}：计算机？
+- [Lisa Ding](http://dinglisa.com/){:target="_blank"}：管理信息系统
 - [熊阿姨](http://www.auntbear.com/){:target="_blank"}：中文、传播
