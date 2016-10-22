@@ -29,8 +29,8 @@ text-decoration:none;
 }
 
 a:hover {
-color:#17202A;
-text-decoration:none;
+color:#000000;
+text-decoration:blink;
 }
 
 p a {
