@@ -37,27 +37,6 @@ p a {
 border-bottom:1px solid #dedede;
 }
 
-a:focus {
-color:#4e4e4e;
-text-decoration:none;
-outline:5px auto 0;
-outline-offset:-2px;
-}
-
-a:hover,a:active {
-  color:#17202A;
-  text-decoration:none;
-  color:#ffffff;
-  background-color:#dedede;
-  -webkit-opacity: 0.30;
-  -moz-opacity: 0.30;
-  opacity: 0.30;
-  -webkit-transition: opacity 3s linear;
-  -moz-transition: opacity 3s linear;
-  -ms-transition: opacity 3s linear;
-  -o-transition: opacity 3s linear;
-  transition: opacity 3s linear;
-}
 
 hr{
   margin:.7em 0;
