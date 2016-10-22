@@ -23,14 +23,18 @@ body{
   outline:none;
 }
 
-a{
-  color:#4e4e4e;
-  text-decoration:none;
+a {
+color:#4e4e4e;
+text-decoration:none;
 }
 
-a:hover{
-  color:#17202a;
-  text-decoration:underline;
+a:hover {
+color:#17202A;
+text-decoration:none;
+}
+
+p a {
+border-bottom:1px solid #dedede;
 }
 
 hr{
