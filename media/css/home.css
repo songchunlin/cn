@@ -60,17 +60,17 @@ margin:0;
 }
 
 a {
-color:#08c;
+color:#4e4e4e;
 text-decoration:none;
 }
 
 a:hover {
-color:#ff0000;
+color:#17202A;
 text-decoration:none;
 }
 
 p a {
-border-bottom:1px dashed #bbb;
+border-bottom:1px solid #dedede;
 }
 
 .container {
