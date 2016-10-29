@@ -2,7 +2,7 @@
 title: Parallels Desktop 10 评测
 layout: post
 categories: [器物杂谈]
-tags: [Mac,虚拟机]
+tags: [Mac,虚拟机,PD10]
 comments: yes
 ---
 

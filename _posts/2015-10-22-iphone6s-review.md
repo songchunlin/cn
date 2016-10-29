@@ -2,7 +2,7 @@
 title: iPhone 6s 体验
 layout: post
 categories: [器物杂谈]
-tags: [手机,iPhone,数码科技]
+tags: [手机,iPhone,Apple,数码科技]
 comments: yes
 ---
 

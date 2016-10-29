@@ -2,7 +2,7 @@
 title: 从 Windows 到 Mac OS X
 layout: post
 categories: [器物杂谈]
-tags: [Mac,PC]
+tags: [Mac,PC,Apple]
 comments: yes
 ---
 
