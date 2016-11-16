@@ -11,7 +11,7 @@ body{
   font-size: 14px;
   font-size: 1rem;
   line-height:1.5;
-  font-family:normal, 'Avenir Next', Avenir,'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', 微软雅黑,  sans-serif;
+  font-family:normal, 'Avenir Next', Avenir,'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 微软雅黑,  sans-serif;
   text-rendering: optimizeLegibility;
   color: #1e1e1e;
 }
@@ -262,7 +262,7 @@ h1:hover {
 	}
 
 h2{
-font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', sans-serif;
+font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', sans-serif;
   font-weight: normal;
   font-size: 1.4rem;
   line-height: 40px;
@@ -273,7 +273,7 @@ font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantin
 }
 
 h3{
-  font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', sans-serif;
+  font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', sans-serif;
   font-size:1.2em;
   line-height:40px;
   font-style:italic;
@@ -281,7 +281,7 @@ h3{
 }
 
 h4{
-  font-family:normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', sans-serif;
+  font-family:normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', sans-serif;
   font-size:1em;
   line-height:30px;
   color:#333;
@@ -293,7 +293,7 @@ h4{
 	    font-weight: normal;
 	    line-height: 1.3em;
 	    color: #202020;
-	    font-family:normal, 'Avenir Next', Avenir,'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', sans-serif;
+	    font-family:normal, 'Avenir Next', Avenir,'Helvetica Neue', Helvetica, 'Hiragino Sans GB', sans-serif;
 	    margin: 1em 0 .5em 0;
 	    letter-spacing: .1em;
 	    margin-bottom: 1em;
@@ -330,7 +330,7 @@ h4{
 	
 
 pre,code{
-  font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Lantinghei SC', 'Hiragino Sans GB', sans-serif;
+  font-family: normal, 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', sans-serif;
   font-size:13px;
 }
 
