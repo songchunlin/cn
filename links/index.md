@@ -5,11 +5,11 @@ layout: page
 ---
 
 
-- [Πάντα ῥεῖ](http://www.andrewsun.net/panta_rhei/){:target="_blank"}：流变学
+- [万物皆流](http://www.andrewsun.net/panta_rhei/){:target="_blank"}：流变学
 - [土木坛子](https://tumutanzi.com/){:target="_blank"}：水泥科学
 - [博士牌民工](http://www.yue366.com/){:target="_blank"}：道路工程与建筑材料
 - [洋流范儿](http://yangliufr.com/){:target="_blank"}：环境生态学
-- [谢益辉](http://yihui.name/){:target="_blank"}：R Developer
+- [谢益辉](http://yihui.name/){:target="_blank"}：统计学
 - [Hadley Wickham](http://hadley.nz/){:target="_blank"}：R Developer
 - [斯幸峰](http://sixf.org/){:target="_blank"}：动物学、生态学
 - [大鹏湾](http://dapengde.com/){:target="_blank"}：地理生态学
