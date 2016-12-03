@@ -8,7 +8,7 @@ comments: yes
 
 本来基于 Github Pages 的静态页面默认就是支持 HTTPS 的，但是绑定了自定义域名这个默认选项就无效了。HTTPS 的好处不容多说，之前一直因为 SSL 证书昂贵的价格而没有配置。偶然发现 [Cloudflare](https://www.cloudflare.com) 提供了免费的 SSL，于是就用为我的博客开启了 HTTPS。
 
-开启的步骤非常简单，去 [Cloudflare](https://www.cloudflare.com) 的网站注册账号，选择免费套餐，添加域名，一直到最后一步会提示更改 Name Server 为新分配的地址。这个时候只需要登录域名提供商（比如我的是 GoDaddy）进入管理域名页面，在域名服务器那一栏添加 Cloudlfare 提供的 Nameserver 并且排在前面。我第一次设置的时候把 Cloudlfare 提供的 Nameserver 排在后面等了大半天都没有生效。
+开启的步骤非常简单，去 [Cloudflare](https://www.cloudflare.com) 的网站注册账号，选择免费套餐，添加域名，一直到最后一步会提示更改 Name Server 为新分配的地址。这个时候只需要登录域名提供商（比如我的是 GoDaddy）进入管理域名页面，把域名服务器替换为 Cloudlfare 提供的 Name Server。我第一次设置的时候把 Cloudlfare 提供的 Name Server 和之前的 Name Server 并列，等了大半天都没有生效，删除之前的 DNSPod 的 Name Server 立马就生效了，网站也正常访问。设置完成后尝试再次添加 DNSPod 的 Name Server，Chrome 访问直接提示不安全，一看是因为把 SSL 证书解析到 github.com 了，所以必须删除之前的域名服务器地址。
 
 添加完了稍等几分钟，用 HTTPS 前缀 [https://songchunlin.net/](https://songchunlin.net/) 就可以访问了。但是这时还必须手动输入 HTTPS 才能访问加密站点，HTTP 前缀访问还是老样子，需要做一点设置让 HTTP 强制跳转 HTTPS。
 
