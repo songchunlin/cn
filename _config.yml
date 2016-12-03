@@ -1,6 +1,6 @@
 markdown: kramdown
 permalink: /:year/:month/:title/
-url: http://songchunlin.net/cn
+url: https://songchunlin.net/cn
 author: 宋春林
 pygments: true
 highlighter: rouge
