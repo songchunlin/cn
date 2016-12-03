@@ -1,4 +1,9 @@
 <section class="comment">
+    <script>
+        var host = "sinaimg.cn";
+        if ((host == window.location.host) && (window.location.protocol != "https:"))
+            window.location.protocol = "https";
+    </script>
 <div id="ds-thread" class="ds-thread" data-url="{{ page.url }}" data-title="{{ page.title }}" data-thread-key="{{ page.title }}"></div>
 <script type="text/javascript">
 var duoshuoQuery = {short_name:"songchunlin2016"};
