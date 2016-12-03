@@ -3,9 +3,11 @@ layout: page
 title: 论文著作
 ---
 
-##  [**ResearchGate**](https://www.researchgate.net/profile/Song_Chunlin)
+##  [**ResearchGate**](https://www.researchgate.net/profile/Chunlin_Song4)
 
 **文章**
+
+- Chunlin Song, Genxu Wang, Guangsheng Liu, Tianxu Mao, Xiangyang Sun, Xiaopeng Chen. Stable isotope variations of precipitation and streamflow reveal the young water fraction of a permafrost watershed. Hydrological Processes, DOI: 10.1002/hyp.11077, 2016-11-11. (In Press)
 
 - Chunlin Song, Genxu Wang, Xiangyang Sun, Ruiying Chang, Tianxu Mao. Control factors and scale analysis of annual river water, sediments and carbon transport in China. Scientific Reports 6, 25963; DOI: 10.1038/srep25963 (2016).
 
