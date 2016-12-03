@@ -2,16 +2,19 @@
 layout: default
 ---
 
-<section class="post">
-{{ content }}
-</section>
-{% if page.comments %}
-<div id="disqus_thread"></div>
+<head>
       <script type="text/javascript">
         var host = "songchunlin.net";
         if ((host == window.location.host) && (window.location.protocol != "https:"))
             window.location.protocol = "https";
     </script>
+</head>
+<section class="post">
+{{ content }}
+</section>
+{% if page.comments %}
+<div id="disqus_thread"></div>
+
 <script>
 
 /**
