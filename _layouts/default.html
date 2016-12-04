@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="/cn/media/css/highlight.css">
     <script type="text/javascript" src="/cn/media/js/jquery-1.7.1.min.js"></script>
   </head>
+
   <body>
     <div id="container">
       <div id="main" role="main">
@@ -30,6 +31,10 @@
 
         <article class="content">
         {{ content }}
+        {% for js in page.js %}<script src="{{site.baseurl}}{{ js }}" type="text/javascript" charset="utf-8"></script>
+        {% endfor %}
+        {% for js in site.js %}<script src="{{site.baseurl}}{{ js }}" type="text/javascript" charset="utf-8"></script>
+        {% endfor %}
         </article>
       </div>
     </div>
@@ -43,8 +48,12 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
     </script>
+
+ 
+
     </body>
-    <footer>
+
+<footer>
             <p><small><center>
               <a href="http://songchunlin.net" title="宋春林的主页" target="_blank">主页</a> :: 
               <a href="http://www.zhihu.com/people/songcl" title="宋春林的知乎" target="_blank">知乎</a> :: 
