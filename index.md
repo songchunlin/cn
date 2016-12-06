@@ -12,9 +12,25 @@ layout: page
         {% endif %}
         {{ post.content }}
         <section class="meta">
-        <p id="tip-info">{{ post.date | date:"%Y-%m-%d" }}</p>
+          <a>发表于</a><p id="tip-info">{{ post.date | date:"%Y-%m-%d" }}</p>
+    {% if page.categories %}
+<span class="categories">
+  分类
+  {% for cat in page.categories %}
+  <a href="{{ site.url }}/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
+  {% endfor %}
+</span>
+{% endif %}
+{% if page.tags %}
+<span class="tags">
+  标签 
+  {% for tag in page.tags %}
+  <a href="{{ site.url }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>&nbsp;
+  {% endfor %}
+</span>
+{% endif %}
+</section>
     {% endfor %}
-    </section>
     
     <p>
    <h2> <a href="{{ site.url }}/archive">全部文章 &raquo;</a></h2>
