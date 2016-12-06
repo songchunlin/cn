@@ -28,17 +28,7 @@ layout: page
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<script>
-  (function() {
-    var cx = '006295899379521077361:fqwkenusxo4';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
+<gcse:searchbox-only></gcse:searchbox-only>
 <gcse:searchbox-only></gcse:searchbox-only>
 </div>
 
