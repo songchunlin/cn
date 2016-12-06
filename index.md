@@ -4,7 +4,7 @@ layout: page
 ---
 
 <div id="toc">
-    {% for post in site.posts limit: 3 %}
+    {% for post in site.posts limit: 1 %}
 
         <h2>
         <a title="{{ post.title }}" href="cn/{{ post.url }}" >{{ post.title }}</a> 
