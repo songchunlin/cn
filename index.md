@@ -16,16 +16,5 @@ layout: page
 </section>
     {% endfor %}
 <p><h2> <a href="{{ site.url }}/archive" title="全部文章列表">全部文章 &raquo;</a></h2></p>
-<script>
-  (function() {
-    var cx = '006295899379521077361:fqwkenusxo4';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:search><script type="text/javascript" src="http://songchunlin.net/files/code/googlecse.css"></gcse:search>
+
 </div>
