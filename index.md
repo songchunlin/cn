@@ -12,9 +12,8 @@ layout: page
         {% endif %}
         <p id="tip-info">{{ post.date | date:"%B %e, %Y" }}</p>
         {{ post.content }}
-    {% endfor %}
-
-<span class="author">
+        
+        <span class="author">
   <a>发表于</a>
 </span>
 <span class="time">
@@ -39,11 +38,9 @@ layout: page
   {% endfor %}
 </span>
 {% endif %}
-</section>
-{% if page.comments %}
-{% include comments.md %}                                  
-{% endif %}
 
+    {% endfor %}
+    
     <p>
     <a href="{{ site.url }}/archive">更多文章 </a>
     </p>
