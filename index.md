@@ -17,7 +17,7 @@ layout: page
     {% endfor %}
 <p><h2> <a href="{{ site.url }}/archive" title="全部文章列表">全部文章 &raquo;</a></h2></p>
 
-<script src="http://songchunlin.net/files/code/googlecse.css">
+<script>
   (function() {
     var cx = '006295899379521077361:fqwkenusxo4';
     var gcse = document.createElement('script');
@@ -28,7 +28,5 @@ layout: page
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:search></gcse:search>
-
+<gcse:search><script src="http://songchunlin.net/files/code/googlecse.css"></script></gcse:search>
 </div>
-
