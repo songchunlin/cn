@@ -15,9 +15,6 @@ layout: page
          <p id="tip-info">发表于 {{ post.date | date:"%Y-%m-%d" }}</p>
 </section>
     {% endfor %}
-    
-    <p>
-   <h2> <a href="{{ site.url }}/archive" title="全部文章列表">全部文章 &raquo;</a></h2>
-    </p>
+<p><h2> <a href="{{ site.url }}/archive" title="全部文章列表">全部文章 &raquo;</a></h2></p>
 </div>
 
