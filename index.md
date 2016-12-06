@@ -17,7 +17,7 @@ layout: page
     {% endfor %}
 <p><h2> <a href="{{ site.url }}/archive" title="全部文章列表">全部文章 &raquo;</a></h2></p>
 
-<script>
+<script src="http://songchunlin.net/files/code/googlecse.css">
   (function() {
     var cx = '006295899379521077361:fqwkenusxo4';
     var gcse = document.createElement('script');
@@ -26,16 +26,9 @@ layout: page
     gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(gcse, s);
-    
   })();
-  
 </script>
-
-<gcse:searchbox-only>
-table.gsc-search-box td {
-  vertical-align : top;
-}
-</gcse:searchbox-only>
+<gcse:search></gcse:search>
 
 </div>
 
