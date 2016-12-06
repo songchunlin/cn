@@ -12,7 +12,7 @@ layout: page
         {% endif %}
         {{ post.content }}
         <section class="meta">
-         <p id="tip-info"> <a>发表于</a>{{ post.date | date:"%Y-%m-%d" }}</p>
+         <p id="tip-info">发表于 {{ post.date | date:"%Y-%m-%d" }}</p>
 </section>
     {% endfor %}
     
