@@ -28,4 +28,7 @@ comments: yes
 <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
 {% endhighlight %}
 
-其实对于个人网站 SSL 并不是一个必须的选项，连我大中科院的网站至今都没有 SSL 加密，但是看到那行绿色的字母心里就舒服，有这个作用就值了。
+其实对于个人网站 SSL 并不是一个必须的选项，连我大中科院的网站至今都没有 SSL 加密，但是看到那行绿色的字母心里还是挺舒服的，有这个作用就值了。
+
+---
+12月5日更新：由于使用 HTTPS 之后博客访问速度大大减缓，得不偿失，所以取消了 HTTPS。
