@@ -11,7 +11,9 @@ layout: page
         <h2><center><a href="{{ site.url }}{{ post.url }}" title="Permanent link to: '{{ post.title }}'">{{ post.title }}</a></center></h2>
         {% endif %}
         {{ post.content }}
+        <span class="align-right">
         <p id="tip-info">{{ post.date | date:"%Y-%m-%d" }}</p>
+        </span>
     {% endfor %}
     
     <p>
