@@ -8,7 +8,7 @@ layout: page
         {% if post.post-link %}
         <h2><a href="{{ post.post-link }}" title="External link">{{ post.title }}</a> <a href="{{ post.url }}" title="Permanent link to: '{{ post.title }}'">&raquo;</a></h2>
         {% else %}
-        <h2>{{ post.title }} <a href="{{ post.url }}" title="Permanent link to: '{{ post.title }}'">&raquo;</a></h2>
+        <h2>{{ post.title }} <a href="cn/{{ post.url }}" title="Permanent link to: '{{ post.title }}'">{{ post.title }}</a></h2>
         {% endif %}
         <p id="tip-info">{{ post.date | date:"%B %e, %Y" }}</p>
         {{ post.content }}
