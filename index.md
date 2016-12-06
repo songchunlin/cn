@@ -29,6 +29,5 @@ layout: page
   })();
 </script>
 <gcse:searchbox-only></gcse:searchbox-only>
-<gcse:searchbox-only></gcse:searchbox-only>
 </div>
 
