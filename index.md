@@ -8,7 +8,7 @@ layout: page
         {% if post.post-link %}
         <h2><center><a href="{{ post.post-link }}" title="External link">{{ post.title }}</a> <a href="{{ post.url }}" title="Permanent link to: '{{ post.title }}'">&raquo;</a></center></h2>
         {% else %}
-        <h2><center><a href="{{ site.url }}{{ post.url }}" title="Permanent link to: '{{ post.title }}'">{{ post.title }}</a></center></h2>
+        <h2><center><a href="{{ site.url }}{{ post.url }}" title="点击查看和评论">{{ post.title }}</a></center></h2>
         {% endif %}
         {{ post.content }}
         <section class="meta">
