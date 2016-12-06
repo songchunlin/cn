@@ -26,9 +26,16 @@ layout: page
     gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(gcse, s);
+    
   })();
+  
 </script>
-<gcse:searchbox-only></gcse:searchbox-only>
+
+<gcse:searchbox-only>
+table.gsc-search-box td {
+  vertical-align : top;
+}
+</gcse:searchbox-only>
 
 </div>
 
