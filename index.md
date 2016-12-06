@@ -10,9 +10,7 @@ layout: page
         {% else %}
         <h2><a href="cn/'{{ post.url }}'" title="Permanent link to: '{{ post.title }}'">{{ post.title }}</a></h2>
         {% endif %}
-<span class="time">
-  <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date:"%Y-%m-%d" }}</time>
-</span>
+<p id="tip-info">{{ post.date | date:"%Y-%m-%d" }}</p>
         {{ post.content }}
     {% endfor %}
     
