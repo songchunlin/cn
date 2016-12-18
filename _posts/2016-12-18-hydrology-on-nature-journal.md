@@ -1,0 +1,21 @@
+---
+title: 盘点 Nature 上的水文学文章
+layout: post
+categories: [学术科研]
+tags: [水文,Nature]
+comments: yes
+---
+
+水文学作为一个相对小众的学科，很难在 Nature 这样的综合性、兼具科学重要性和科普性的杂志上看到纯水文的文章发表。但也不是不可能。
+
+[Nature 上有 hydrology 为标签的文章](http://www.nature.com/nature/archive/subject.html?code=242){:target="_blank"} 是 2013 年才第一次出现的。这第一篇水文的文章是加拿大卡尔加里大学的 [Scott Jasechko](http://www.isohydro.ca/){:target="_blank"} 发表的，这哥们是做同位素水文学的，文章题目叫做 [Terrestrial water fluxes dominated by transpiration](http://www.nature.com/nature/journal/v496/n7445/full/nature11983.html){:target="_blank"}，虽然是 letter 的形式，但是好歹开了个头，是第一篇纯水文学的 Nature 文章。这篇文章讲的是水文学里最基础的水循环理论，核心的论点是蒸腾作用是陆地最大水通量，占到了蒸散发的 80% 到 90%，也就是说地球陆地上的水经由植物蒸腾作用进入大气的部分占蒸发的八、九倍。在此之前因为气孔导度的不确定性、流域尺度观测的缺乏，蒸散发是很难被区分的，这篇文章利用蒸发和蒸腾稳定氢氧同位素效应的差异首次解决了这个问题，得出陆地水每年蒸腾作用散失的水量是 62,000 ± 8,000 km<sup>3</sup> 的结论。解决了重大科学问题，具有全球性的意义，发表在 Nature 很合适。
+
+蒸腾的文章发表才一周，Nature 再次刊登有关水文学的 letter 文章 [Climatic control of bedrock river incision](http://www.nature.com/nature/journal/v496/n7444/full/nature11982.html){:target="_blank"}，不过这篇文章就不是纯粹的水文学了，更偏向地貌学。河流对于基岩的切割对于地球地貌的塑造有重要影响，这篇文章就讲气候对于河流切割基岩过程的控制作用。文章选取了夏威夷岛上的一些存在较大降雨梯度的河流，利用河谷深度和火山岩年龄判断切割速率，结果发现年降雨与河流基岩切割速率成正比。文章的创新点在于首次提供了基于经验观测的气候、地貌与构造地质之间的反馈作用。这篇文章虽然只用了一个点的数据，但是也具备全球性的意义。2016 年 Nature 上再次发表同一主题的文章 [Chemical weathering as a mechanism for the climatic control of bedrock river incision](http://www.nature.com/nature/journal/v532/n7598/full/nature17449.html){:target="_blank"}，研究地点还是夏威夷，指出气候控制河流基岩切割的机制在于化学侵蚀（chemical weathering），化学侵蚀是气候控制河床切割的纽带。这篇文章并没有打水文学的标签，大概是因为讲的是地球化学的事。基于单个点的研究能发 Nature，相当厉害。
+
+2014 年 Nature 上的水文学文章也有两篇，分别是 [Hybrid shallow on-axis and deep off-axis hydrothermal circulation at fast-spreading ridges](http://www.nature.com/nature/journal/v508/n7497/full/nature13174.html){:target="_blank"} 和 [Direct observations of evolving subglacial drainage beneath the Greenland Ice Sheet](http://www.nature.com/nature/journal/v514/n7520/full/nature13796.html){:target="_blank"}，都不是纯粹的水文学，而是地球动力学以及冰冻圈科学与水文学的交叉学科。前面这篇离我的专业太远不太懂，后面这篇讲的是对格陵兰冰原下的排水系统的观测，相当于是冰川下的「水系」，冰川的消融的水通过冰裂隙和冰河竖坑为这些「水系」供水。由于是在冰川下的排水系统，所以观测起来就很困难，只能通过冰河竖洞和钻孔的扬程（hydraulic head）来观测。文章通过观测数据得出结论：融化季节后期冰层速度的减慢可能是由未形成水通道区域的传导性造成的。
+
+到了 2015 年，Nature 上水文学的内容就更多了，不过多数是点评其他杂志发表的重要水文学进展和新闻类的文章，正儿八经的研究文章是三篇 letter： [Increases in tropical rainfall driven by changes in frequency of organized deep convection](http://www.nature.com/nature/journal/v519/n7544/full/nature14339.html){:target="_blank"} ，[Greenland supraglacial lake drainages triggered by hydrologically induced basal slip](http://www.nature.com/nature/journal/v522/n7554/full/nature14480.html){:target="_blank"} 和 [Global separation of plant transpiration from groundwater and streamflow](http://www.nature.com/nature/journal/v525/n7567/full/nature14983.html){:target="_blank"}。第一篇讲的是热带降雨增加的驱动因素。气候变暖会加强水文循环从而导致降水增加，但是这种增加存在地域差异，简单来说就是热带多雨的地区增加更明显。文章要解决的问题就是这种增加背后的机制。结果发现在热带地区有组织的深对流（organized deep convection）活动对于降水动态有重要影响，是联系降水和热带大气的纽带。第二篇讲的又是格陵兰冰盖的事情，是说冰川上的冰湖排水是因为冰川下的水文动力驱动冰川滑动导致的，对 2014 年的文章是更进一步的阐述，解释了冰川上下的水文联系。第三篇是我最关注的，是 [Scott Jasechko](http://www.isohydro.ca/){:target="_blank"} 和 [Jeffrey J. McDonnell](http://www.usask.ca/watershed/){:target="_blank"} 课题组合作的研究，这篇文章继续用同位素的方法区分了植物的蒸腾、地下水以及河水，是在他们 2013 年研究基础上的又一重磅进展。这个事情有很多人做，但是在全球尺度上还是第一回。这篇文章用全球 47 个样点的氢氧同位素数据验证了下表层水的生态水文分离（ecohydrological separation）是广泛存在的，即植物利用的土壤水，与补充地下水以及河水的水是不同的。补充地下水和河水的雨水与补充土壤水以及蒸腾用水的水也是不同的。这个结果对于植被、地下水以及地表径流的耦合有重要意义。
+
+2016年 Nature 上水文学文章也有很多，最重磅的无疑是这篇： [High-resolution mapping of global surface water and its long-term changes](http://www.nature.com/nature/journal/v540/n7633/full/nature20584.html){:target="_blank"}。虽然是以 letter 的形式发表的，但是长度远超很多 article 的文章。文章利用了 1984 到 2015年的三百万张卫星图像数据绘制了全球地表水分布的高精度地图，结果显示大概有 90,000 平方公里的水面消失了，与此同时，又增加了 184,000 平方公里的永久性水面，结果就是除了大洋洲以外的所有大洲永久性水是净增加的。地表水的增加主要是水库修建造成的，虽然气候变化也是一部分原因；而地表水的减少主要发生在中东、中亚以及澳大利亚，干旱以及人类活动是主要原因。文章的结果还基于谷歌地图引擎以网页的形式展示出来：[https://global-surface-water.appspot.com/](https://global-surface-water.appspot.com/)。这篇文章的数据量非常大，所以他们用了一套叫做专家系统（expert system）的方法来处理数据，用了谷歌地球引擎的一万台电脑运行了45天才完成处理，而之前的建模、测试和验证花了两年时间。
+
+可以看出来，Nature 上的水文学文章的一个重要特点是具有全球性的影响力，不管是单个点还是全球的数据，而且经常出现和其他学科的交叉比如冰冻圈科学、气候学、地貌学、遥感等。
