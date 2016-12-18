@@ -1,5 +1,5 @@
 ---
-title: 一次失败的海淘经历以及糟糕的 Fitbit Surge
+title: 一次失败的海淘经历
 layout: post
 categories: [器物杂谈]
 tags: [Fitbit,数码科技,海淘]

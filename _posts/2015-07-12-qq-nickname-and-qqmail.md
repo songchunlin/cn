@@ -1,5 +1,5 @@
 ---
-title: 没必要的 QQ 昵称以及使用 QQ 邮箱的细节
+title: QQ 昵称和 QQ 邮箱
 layout: post
 categories: [歪理邪说]
 tags: [QQ]
