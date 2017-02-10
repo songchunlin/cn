@@ -8,7 +8,7 @@
 * --------------------------------- */
 
 body{
-  font-size: 14px;
+  font-size: 15px;
   font-size: 1rem;
   line-height:1.5;
   font-family:normal, 'Avenir Next', Avenir,'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 微软雅黑,  sans-serif;
@@ -102,7 +102,7 @@ td {
 }
 
 .content{
-  font-size:14px;
+  font-size:15px;
   line-height:2;
 }
 
@@ -233,7 +233,7 @@ h1 {
 	 font-family: Georgia, Kaiti;
         -webkit-font-smoothing:antialiased;
         color: #222222;
-        font-size: 2.5rem;
+        font-size: 3rem;
         font-weight: 700;
         line-height: 1.5;
         margin-bottom: 14px;
