@@ -2,7 +2,7 @@
 title: 粉和黑
 layout: post
 categories: [歪理邪说]
-tags: [粉丝文化]
+tags: [粉丝文化,杂谈]
 comments: yes
 ---
 

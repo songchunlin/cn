@@ -2,7 +2,7 @@
 title: 报账
 layout: post
 categories: [歪理邪说]
-tags: [科研文化,科研经费]
+tags: [科研文化,科研经费,杂谈]
 comments: yes
 ---
 

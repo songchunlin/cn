@@ -2,7 +2,7 @@
 title: 在成都生活是怎么样的一种体验
 layout: post
 categories: [行万里路]
-tags: [成都]
+tags: [成都,杂谈]
 comments: yes
 ---
 

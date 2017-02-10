@@ -2,7 +2,7 @@
 title: 善良和聪明
 layout: post
 categories: [歪理邪说]
-tags: [聪明, 善良]
+tags: [聪明,善良,杂谈]
 comments: yes
 ---
 
