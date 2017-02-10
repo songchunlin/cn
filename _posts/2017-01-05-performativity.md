@@ -2,7 +2,7 @@
 title: 关于「装 X」这个词
 layout: post
 categories: [歪理邪说]
-tags: [生活]
+tags: [杂谈]
 comments: yes
 ---
 
