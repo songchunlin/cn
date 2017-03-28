@@ -2,7 +2,7 @@
 title: 申请公派联培的细节
 layout: post
 categories: [行万里路]
-tags: [CSC,公派,联培]
+tags: [CSC,公派,联培,出国]
 comments: yes
 ---
 
