@@ -1,5 +1,5 @@
 <section class="comment">
-<form method="POST" action="https://api.staticman.net/v2/entry/songchunlin/cn/blob/gh-pages/_includes">
+<form method="POST" action="https://api.staticman.net/v2/connect/songchunlin/cn">
   <input name="options[redirect]" type="hidden" value="http://songchunlin.net/cn">
   <input name="options[slug]" type="hidden" value="{{ page.slug }}">
   <label><input name="fields[name]" type="text">昵称</label></br>
