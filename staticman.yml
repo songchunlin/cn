@@ -1,6 +1,6 @@
 comments:
   allowedFields: ["name", "email", "url", "message"]
-  branch: "master"
+  branch: "gh-pages"
   commitMessage: "Add Staticman data"
   filename: "entry{@timestamp}"
   format: "yaml"
@@ -11,6 +11,6 @@ comments:
         format: "timestamp-seconds"
   moderation: true
   name: "北河以北"
-  path: "_include"
+  path: "https://api.staticman.net/v2/entry/songchunlin/cn/blob/gh-pages/_includes"
   requiredFields: ["name", "email", "message"]
   transforms:
