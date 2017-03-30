@@ -54,9 +54,9 @@ Tie.loader("aHR0cHM6Ly9hcGkuZ2VudGllLjE2My5jb20vcGMvbGl2ZXNjcmlwdC5odG1s", true)
   {% case page.comment_count %}
     {% when 0 %}
     {% when 1 %}
-      <h2>1 Comment</h2>
+      <h2>1 条评论</h2>
     {% else %}
-      <h2>{{page.comment_count}} Comments</h2>
+      <h2>{{page.comment_count}} 评论</h2>
   {% endcase %}
   {% for c in page.comments %}
     <div class="comment {% cycle 'odd', 'even' %}">
@@ -74,31 +74,27 @@ Tie.loader("aHR0cHM6Ly9hcGkuZ2VudGllLjE2My5jb20vcGMvbGl2ZXNjcmlwdC5odG1s", true)
       </p>
     </div>
   {% endfor %}
-  <h1>Post a comment</h1>
-  <p style="font-style: italic">
-    All comments are held for moderation; basic HTML formatting accepted.
-  </p>
   <form id="commentform" method="POST" action="{{site.url}}/commentsubmit.php">
     <input type="hidden" name="post_id" value="{{page.id}}" />
     <input type="hidden" name="return_url" value="{{site.url}}{{page.url}}" />
     <table>
       <tr>
-        <th>Name:</th>
-        <td><input type="text" size="25" name="name" /> (required)</td>
+        <th>名字:</th>
+        <td><input type="text" size="25" name="name" /> (必填)</td>
       </tr>
       <tr>
         <th>E-mail:</th>
-        <td><input type="text" size="25" name="email" /> (required, not published)</td>
+        <td><input type="text" size="25" name="email" /> (必填, 不公开)</td>
       </tr>
       <tr>
-        <th>Website:</th>
-        <td><input type="text" size="25" name="link" /> (optional)</td>
+        <th>网址:</th>
+        <td><input type="text" size="25" name="link" /> (选填)</td>
       </tr>
       <tr>
         <td colspan="2"><textarea name="comment" rows="10" cols="60" ></textarea></td>
       </tr>
       <tr>
-        <td><input type="submit" name="submit" value="Submit Comment" /></td>
+        <td><input type="submit" name="submit" value="发布" /></td>
       </tr>
     </table>
   </form>
