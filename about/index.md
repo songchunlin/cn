@@ -22,7 +22,7 @@ var urodz= new Date("11/13/2013"); var now = new Date(); var ile = now.getTime()
 
 本博客为我的个人独立博客，内容主要是我个人生活、一些评论和专业学习相关的东西；所有观点仅代表我个人，与我所在学校、研究所无关；很久以前的博文可能并不代表我现在的想法，毕竟人会成长。如果觉得我的文章对您有用，可以用手机支付宝支付我任意金额（支付宝账户为 sclyeah@gmail.com）。
 
-推荐使用 Chrome、Safari、Firefox 等浏览器访问本博客以获得最佳效果。本博客文章可以用键盘上的左右箭头导航，左为更早的文章，右为最新的文章。本站下方有 Google 自定义搜索框可搜索本站内容，如无法访问 Google，则请在 site: songchunlin.net 后面加关键词在其他搜索引擎进行检索。
+推荐使用 Chrome、Safari、Firefox 等浏览器访问本博客以获得最佳显示效果。本博客文章可以用键盘上的左右箭头导航，左为更早的文章，右为最新的文章。本站下方有 Google 自定义搜索框可搜索本站内容，如无法访问 Google，则请在 site: songchunlin.net 后面加关键词在其他搜索引擎进行检索。采用 Disqus 作为评论系统，国内可能需要翻墙才能看到。
 
 ---
 
@@ -31,5 +31,3 @@ var urodz= new Date("11/13/2013"); var now = new Date(); var ile = now.getTime()
 本博客内容如无特别说明均属本人原创，采用[知识共享「署名 3.0 中国大陆」许可协议](http://creativecommons.org/licenses/by/3.0/cn/)授权。意思是，在没有特别说明的情况下，您可以自由转载我的博文，仅需注明原文作者[宋春林](http://songchunlin.net)和原文链接地址。
 
 ---
-
-
