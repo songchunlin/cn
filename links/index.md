@@ -15,7 +15,7 @@ layout: page
 - [大鹏湾](http://dapengde.com/){:target="_blank"}：地理生态学
 - [木遥的窗子](http://blog.farmostwood.net/){:target="_blank"}：数学
 - [Definiter's Blog](http://definiter.net/){:target="_blank"}：计算机？
-- [Lisa Ding](http://dinglisa.com/){:target="_blank"}：管理信息系统
+- [Lisa Ding](http://dinglisa.com/){:target="_blank"}：信息系统管理
 - [熊阿姨](http://www.auntbear.com/){:target="_blank"}：中文、传播
 - [Yue Zhu](http://www.auntbear.com/){:target="_blank"}：光学工程
 - [尹璋琦](https://zqyin.wordpress.com/){:target="_blank"}：量子信息与量子光学
