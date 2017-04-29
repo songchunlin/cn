@@ -17,5 +17,5 @@ layout: page
 - [Definiter's Blog](http://definiter.net/){:target="_blank"}：计算机？
 - [Lisa Ding](http://dinglisa.com/){:target="_blank"}：信息系统管理
 - [熊阿姨](http://www.auntbear.com/){:target="_blank"}：中文、传播
-- [Yue Zhu](http://www.auntbear.com/){:target="_blank"}：光学工程
+- [Yue Zhu](http://yuezhu.org/){:target="_blank"}：光学工程
 - [尹璋琦](https://zqyin.wordpress.com/){:target="_blank"}：量子信息与量子光学
