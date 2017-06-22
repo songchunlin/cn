@@ -20,3 +20,4 @@ layout: page
 - [Yue Zhu](http://yuezhu.org/){:target="_blank"}
 - [尹璋琦](https://zqyin.wordpress.com/){:target="_blank"}
 - [戴睿可](http://cn.derekyang.us/){:target="_blank"}
+- [杜彦君](http://http://yanjun.weebly.com/){:target="_blank"}
