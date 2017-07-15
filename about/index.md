@@ -9,7 +9,7 @@ layout: page
 
 我的其他网络据点还有：[知乎](http://www.zhihu.com/people/songcl){:target="_blank"}、[微博](http://weibo.com/songchunlin){:target="_blank"}、[豆瓣](http://www.douban.com/people/iamscl/){:target="_blank"}、[ResearchGate](https://www.researchgate.net/profile/Chunlin_Song4/){:target="_blank"}。
 
-联系方式：scl(at)songchunlin.net
+联系方式：chunlin.song(at)yale.edu
 
 ---
 
