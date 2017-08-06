@@ -4,7 +4,6 @@ layout: page
 
 ---
 
-
 - [万物皆流](http://www.andrewsun.net/panta_rhei/){:target="_blank"}
 - [土木坛子](https://tumutanzi.com/){:target="_blank"}
 - [博士牌民工](http://www.yue366.com/){:target="_blank"}
@@ -20,4 +19,3 @@ layout: page
 - [Yue Zhu](http://yuezhu.org/){:target="_blank"}
 - [尹璋琦](https://zqyin.wordpress.com/){:target="_blank"}
 - [戴睿可](http://cn.derekyang.us/){:target="_blank"}
-- [杜彦君](http://http://yanjun.weebly.com/){:target="_blank"}
