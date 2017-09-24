@@ -14,7 +14,7 @@ comments: yes
 
 看到真机之前我以为我是喜欢MacBook Air的，去实体店体验了一番发现Retina MacBook Pro才是我的真爱。相比MBA，RMBP的性能、屏幕都更好，特别是屏幕让我很惊艳。看完了RMBP的屏幕再看MBA那个屏幕，简直可以用惨不忍睹来形容（其实也好过大部分1366*768的Windows电脑），视网膜屏实在太养眼，看文字的时候很舒服。而RMBP相对MBA的缺点仅仅是牺牲了一点续航和增加了200克重量，这对我来讲都是可以接受的。9小时的续航、1.57kg的重量和1.8厘米的厚度放在同等性能的笔记本电脑也是出类拔萃的。外观上相比Air的性感我也更喜欢Pro的硬朗方正造型。 
 
-**操作系统** Mac OS X上的操作方式和Windows有些类似，比如Windows上的ctrl+c/v/x分别是复制、粘贴和剪切，Mac上对应的是command+c/v/x；Windows上切换程序是alt+tab，而Mac上是command+tab；Windows上的页面查找是ctrl+f，Mac上是command+f……等等还有很多类似的。所以熟悉了Windows的一些快捷键，在Mac上把command键当ctrl用基本就可以实现，并没有什么不习惯的。 
+**操作系统** Mac OS X上的操作方式和Windows有些类似，比如Windows上的ctrl+c/v/x分别是复制、粘贴和剪切，Mac上对应的是command+c/v以及command+c & option+command+v；Windows上切换程序是alt+tab，而Mac上是command+tab；Windows上的页面查找是ctrl+f，Mac上是command+f……等等还有很多类似的。所以熟悉了Windows的一些快捷键，在Mac上把command键当ctrl用基本就可以实现，并没有什么不习惯的。 
 
 不知道是谁借鉴了谁，Mac上的触控板和iPad操作方式也很类似，比如自然滚动，只不过iPad上是单指而Mac上是双指；还比如回到Launchpad类似于iPad上回到屏幕都是四指捏合；还有双指缩放，和iOS设备是同样的操作方式。由于我之前iPad的使用经验，触控板也是很快就熟练使用，基本不需要鼠标。我觉得这才是真正的Laptop，试想一个叫Laptop的可以放在腿上使用的东西却还需要鼠标，这是很反人类的。 
 
