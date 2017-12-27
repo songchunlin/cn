@@ -11,7 +11,7 @@ layout: page
 - [谢益辉](http://yihui.name/){:target="_blank"}
 - [Hadley Wickham](http://hadley.nz/){:target="_blank"}
 - [斯幸峰](http://sixf.org/){:target="_blank"}
-- [大鹏湾](http://dapengde.com/){:target="_blank"}
+- [大鹏湾](http://www.pzhao.org/zh/){:target="_blank"}
 - [木遥的窗子](http://blog.farmostwood.net/){:target="_blank"}
 - [Definiter's Blog](http://definiter.net/){:target="_blank"}
 - [Lisa Ding](http://dinglisa.com/){:target="_blank"}
