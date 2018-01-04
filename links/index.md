@@ -13,7 +13,6 @@ layout: page
 - [斯幸峰](http://sixf.org/){:target="_blank"}
 - [大鹏湾](http://www.pzhao.org/zh/){:target="_blank"}
 - [木遥的窗子](http://blog.farmostwood.net/){:target="_blank"}
-- [Definiter's Blog](http://definiter.net/){:target="_blank"}
 - [Lisa Ding](http://dinglisa.com/){:target="_blank"}
 - [熊阿姨](http://www.auntbear.com/){:target="_blank"}
 - [Yue Zhu](http://yuezhu.org/){:target="_blank"}
