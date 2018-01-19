@@ -4,6 +4,7 @@ layout: page
 
 ---
 
+- [学而时嘻之](https://www.geekonomics10000.com/){:target="_blank"}
 - [万物皆流](http://www.andrewsun.net/panta_rhei/){:target="_blank"}
 - [土木坛子](https://tumutanzi.com/){:target="_blank"}
 - [博士牌民工](http://www.yue366.com/){:target="_blank"}
