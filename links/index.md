@@ -4,7 +4,6 @@ layout: page
 
 ---
 
-- [学而时嘻之](https://www.geekonomics10000.com/){:target="_blank"}
 - [万物皆流](http://www.andrewsun.net/panta_rhei/){:target="_blank"}
 - [土木坛子](https://tumutanzi.com/){:target="_blank"}
 - [博士牌民工](http://www.yue366.com/){:target="_blank"}
@@ -20,4 +19,6 @@ layout: page
 - [尹璋琦](https://zqyin.wordpress.com/){:target="_blank"}
 - [戴睿可](http://cn.derekyang.us/){:target="_blank"}
 - [程序员小辉](https://www.xiaohui.com/){:target="_blank"}
+- [学而时嘻之](https://www.geekonomics10000.com/){:target="_blank"}
 - [Yihan文字园艺](https://yihanxu.github.io/){:target="_blank"}
+- [子夜星河](https://zfangcs.wordpress.com){:target="_blank"}
