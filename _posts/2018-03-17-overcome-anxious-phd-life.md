@@ -1,5 +1,5 @@
 ---
-title: 打败读博的焦虑
+title: 打败读博期间的焦虑
 layout: post
 categories: [个人生活]
 tags: [博士,教育,焦虑]
