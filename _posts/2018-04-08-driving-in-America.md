@@ -26,7 +26,7 @@ Basic Driving Skills 最多可以错三次，超过就会挂，主要有以下�
 Critical Driving Skills 只要错一次，立马挂掉，主要包括：
 
 - Speed 根据限速保持适当的速度，不能超速，也不能过慢。比如限速 45 最好不要低于 40。
-- Proper lane selection 车道选择，直行不能跑到转弯车道，转弯不能跑到直行车道，左转弯有转弯也不能转到左车道。
+- Proper lane selection 车道选择，直行不能跑到转弯车道，转弯不能跑到直行车道，左转弯右转弯也不能转到左车道。
 - Right of way 考察路权，Stop Sign 要完全停止车速为零并左右观察，安全情况下通过。行人路权最大，任何时候都要让行人，其次是自行车。小路进入主路、转弯等都需要让直行。遇到警车、救护车、救火车闪灯鸣笛需要靠边停车。还有一种校车上的移动 Stop Sign 张开的时候同样要停车。
 - Traffic controls 遵守交通标志和交通灯。
 - Backing 倒车，包括三点转弯（Three point turn），主要是看的意识。
