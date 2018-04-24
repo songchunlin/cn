@@ -2,7 +2,7 @@
 title: 在美国学车与开车
 layout: post
 categories: [个人生活]
-tags: [汽车,驾考]
+tags: [汽车,驾考,美国]
 comments: yes
 ---
 
