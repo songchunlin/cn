@@ -6,7 +6,7 @@ tags: [青春电影,国产电影]
 comments: yes
 ---
 
-![](http://blogdata.qiniudn.com/tongzhuodeni.jpg) *图片来自豆瓣。*
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/tongzhuodeni.jpg) *图片来自豆瓣。*
 
 这段时间一直在忙，昨晚偶然的机会，和小伙伴一起看了电影《同桌的妳》。
 

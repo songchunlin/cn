@@ -15,7 +15,7 @@ PD10 天生支持 OS X Yosemite，所以我从 Mavericks 升级到Yosemite 的�
 
 两个系统同时使用起来没有任何不便之处。我最常用的状态就是 Mac 下开着浏览器、文献、Evernote 等，然后在 Windows 下面开个 Word 和 EndNote，四指一划就切换了。文件系统也是共用的，也就是说我在 Windows 下可以把文件存到 Mac 下，也可以访问 Mac 里的文件。实际上我这么说是不恰当的，因为这就是一台电脑里的一个分区，不存在 Mac 下还是 Windows 下的概念，除系统文件之外所有的文件和文件夹都是共用的。不仅如此，在 Mac 下复制的文件或者文本在Windows下是可以粘贴的，反之亦然。这种体验很棒，让人感觉不到是在使用两个系统。可以这么讲，PD10 下的 Windows 是更强大的 Windows，因为它还有 Yosemite 的功能而普通 PC 上的 Windows 没有。 
 
-![](http://blogdata.qiniudn.com/Screen%20Shot%202014-10-28%20at%2013.23.29.png) 
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Screen%20Shot%202014-10-28%20at%2013.23.29.png) 
 
 这是我的 Launchpad，最后两个文件夹就是 Windows 应用了。性能方面无需担心。我为 PD10 下的 Windows 分配了 2G 内存，开个 ArcGIS、AutoCAD 和 Photoshop 都没有问题，很流畅。因为是固态硬盘，所以 Windows 的启动速度也相当快，15 秒左右。平时如果没有开虚拟机，但是忽然想使用 Windows 下的某个软件，没问题，直接在 Launchpad 或者通过 Spotlight 打开就是了，虚拟机会自动启动然后打开软件，这个时间也不过是 20 秒左右。感觉 PD10 还是对 Windows 优化的最好，我在我的 RMBP 上装过 Chrome OS 和 Ubuntu，两个系统都存在分辨率的问题，看起来非常模糊，但是 Windows 就不存在这个问题。 
 

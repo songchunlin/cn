@@ -16,31 +16,31 @@ comments: yes
 
 启动后系统默认的壁纸是雪山上延伸至山下的长长脚印以及远山的风景，微软是想表达他们经过了漫长的征途如今终于可以一览众山小？不过确实如此，Windows 10在我看来可能是现今最好的桌面操作系统之一，而此前苹果称 [Yosemite](https://www.apple.com/osx/) 是世界上最先进的操作系统，没有之一。 
 
-![](http://blogdata.qiniudn.com/windows 10-1.png) 
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/windows 10-1.png) 
 
 **功能** 
 
 有开始菜单，磁贴则放在了开始菜单右侧，可以删减常用的应用。搜索框常驻任务栏，功能更强大，搜索应用很快，可以自动补全，但是试了一下无法搜索文件。OS X 下的 Spotlight 最强桌面搜索的称号没能被撼动。 
 
-![](http://blogdata.qiniudn.com/windows 10-2.png) 
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/windows 10-2.png) 
 
 Cortana，试了一下反应很灵敏。但是电脑上的语音助手我不知道除了酷炫还有什么实际的用途。所以我不认为苹果会在 Mac 上添加 Siri，想做他们早就做了。 
 
 Windows 10 终于支持多桌面了！OS X 笑了。 
 
-![](http://blogdata.qiniudn.com/windows 10-3.png) 
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/windows 10-3.png) 
 
 屏幕右侧有了类似 Yosemite 的通知中心。苹果：你这不是抄我么。微软：你们当年 iOS 7 还不是从安卓抄来了。好吧，都是借鉴。 
 
-![](http://blogdata.qiniudn.com/windows 10-4.png) 
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/windows 10-4.png) 
 
 系统自带输入法、天气、地图、日历、Skype 等应用，做得很精致。嗯，又是跟 OS X 学习。 
 
-![](http://blogdata.qiniudn.com/windows 10-5.png) 
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/windows 10-5.png) 
 
 控制面板变成了设置。本来就应该叫设置嘛，微软那群工程师以前居然叫控制面板这么难以理解的名字。 
 
-![](http://blogdata.qiniudn.com/windows 10-6.png) 
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/windows 10-6.png) 
 
 **体验** 
 

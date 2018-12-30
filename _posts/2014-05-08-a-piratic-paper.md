@@ -8,19 +8,19 @@ comments: yes
 
 这是之前看到的两篇论文，来欣赏一下黑体字的这篇的奇葩之处。
 
-![](http://blogdata.qiniudn.com/zfh.png) ![](http://blogdata.qiniudn.com/jll.png)
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/zfh.png) ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/jll.png)
 
 * * *
 
-  ![](http://blogdata.qiniudn.com/zfhyw1.png)![](http://blogdata.qiniudn.com/jllcx1.png)
+  ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/zfhyw1.png)![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/jllcx1.png)
 
 * * *
 
-  ![](http://blogdata.qiniudn.com/zfhyw2.png) ![](http://blogdata.qiniudn.com/jllcx2.png)
+  ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/zfhyw2.png) ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/jllcx2.png)
 
 * * *
 
-  [ ](http://blogdata.qiniudn.com/jllcx3.png)![](http://blogdata.qiniudn.com/zfhyw3.png)![](http://blogdata.qiniudn.com/jllcx3.png)         
+  [ ](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/jllcx3.png)![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/zfhyw3.png)![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/jllcx3.png)         
 
 很明显，《地球科学进展》上的这篇文章是原创，一是发表时间早，二是作者我都有所了解。特别是于贵瑞老师，现在是中科院地理所的副所长，他是陆地水碳耦合循环方面的大牛，我听过他的几次讲座。姜林林这篇，除了开头和结尾可能是自己写的（说可能是因为有可能还抄了其他论文），中间基本上是全部复制，只字未改，我截图展示的这只是其中的一部分。这样的论文都能够通过审稿并发表，真是学术界的耻辱。还是多读点英文SCI文献靠谱。 
 

@@ -16,7 +16,7 @@ comments: yes
 
 Mac OS X 平台的 Pages 软件也没有自动保存，但是有系统级别的解决方案——Time Machine，不仅针对 Pages，其他软件的每个改动都会存储，随时可以回去到过去。​ 
 
-![](http://7b1fc2.com1.z0.glb.clouddn.com/Screen-Shot-2014-12-12-at-19.50.34.png) 
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Screen-Shot-2014-12-12-at-19.50.34.png) 
 
 如今优秀的写作工具很多，如果不是写论文，我是不会用 Word 的。
 

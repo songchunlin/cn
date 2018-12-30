@@ -10,7 +10,7 @@ comments: yes
 
 简书作为一个博客平台已经很简单了，但是如果让我来设计它，我会设计地更简单。所以基于阅读和写作这两个核心功能，我花了一点时间做出了我心中希望的简书的样子。主要是淡化社交、简化UI。 
 
-![](http://blogdata.qiniudn.com/jianshubyscl.jpg)
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/jianshubyscl.jpg)
 
 解释如下： 
 
@@ -28,6 +28,6 @@ comments: yes
 
 这是没有左侧导航条的正文页面，是不是更清爽了？ 
 
-![](http://blogdata.qiniudn.com/zhengwenscl.jpg)
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/zhengwenscl.jpg)
 
 以上只是我作为一个普通用户的一些想法，或许很不成熟，或许有错误的地方，还请专业人士轻拍。

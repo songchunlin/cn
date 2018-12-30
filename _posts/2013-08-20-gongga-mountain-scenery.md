@@ -31,21 +31,3 @@ comments: yes
 最喜欢每天工作完下山的时候。一个多小时的路程，可以体验到雨天，阴天，晴天的不同天气变化；亦可感受不同季节的体验——最高处的雪山冰川是冬天，高山草甸和灌丛总是风雨凄凄，算是秋天吧，再往下是冷衫云杉和杜鹃，凉风习习是春天，山下阔叶林葳蕤茂盛则是夏天。所以工作一天便是一个四季的轮回，那种体验特别有趣。
 
 夏天正是贡嘎山雨季最盛的时候，暴雨下起来似千军万马奔向大地，磅礴汹涌。很多个夜晚，我在雨声中入睡，早晨又从雨声中醒来。雨为山中树木花草提供了水分，对这里生活的人们却并非福祉。这里山体坡降大，即便植被丰富，过多的降水还是经常带来滑坡、塌方和泥石流。我在这里工作的这段时间，上山的公路就数次中断。不过当地人对这样的事情已经习以为常了，因为年年如此，他们已经学会了豁达。
-
-随便贴几张图： 
-
-![](http://p2.zhimg.com/ad/e7/ade7d3ff9fd6069a6c47dce4b54aafab_m.jpg)
-
-![](http://p2.zhimg.com/ee/19/ee1972d92e36752b5725f556bc5f3efd_m.jpg)
-
-![](http://p2.zhimg.com/57/13/57135ccaff05aef8c4ccce19b42ff47c_m.jpg)
-
-![](http://p1.zhimg.com/8b/2a/8b2ada6cb0a8bfbdd5ab5d1fa08f0db9_m.jpg)
-
-![](http://p2.zhimg.com/a3/72/a3723a06e3c44ff08e5b292553871394_m.jpg)
-
-![](http://p2.zhimg.com/ef/43/ef434673c1b9064c85cc0961225e0cea_m.jpg)
-
-![](http://p1.zhimg.com/d5/47/d5479aa5a72ad28b26a270f3302900b3_m.jpg)![](http://p2.zhimg.com/56/14/56140e376ccfc8b6ac62e9a5c349a440_m.jpg)![](http://p2.zhimg.com/17/72/17723cf11979823ac6a69bd22315188b_m.jpg)
-
-![](http://p2.zhimg.com/ac/a7/aca786be5e57c093085f3c9dbbfe5cab_m.jpg)

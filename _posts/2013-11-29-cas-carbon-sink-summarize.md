@@ -97,7 +97,7 @@ comments: yes
 
 第一次参加这种高水平的学术论坛，感觉很能开阔眼界，以后还要遇到机会还要参加。
 
-![](http://blogdata.qiniudn.com/Chinese%20Academy%20of%20Sciences%20Xueshu%20Auditorium.jpg)
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Chinese%20Academy%20of%20Sciences%20Xueshu%20Auditorium.jpg)
 
 ## Comments
 

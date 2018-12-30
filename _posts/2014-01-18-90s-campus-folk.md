@@ -25,7 +25,7 @@ comments: yes
 况且，即便经过了十年，那些曾经的校园民谣依旧打动了我；即便经过了二十年，那些校园民谣依然在我心中留存。
 
 最后来一张图和六首歌。图中的高晓松，有力地证明了「岁月是把杀猪刀」这一真理；六首歌，是我以前非常喜欢的校园民谣。
-![](http://blogdata.qiniudn.com/gaoxiaosong.jpg)
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/gaoxiaosong.jpg)
 
 
 ## Comments

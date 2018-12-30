@@ -10,7 +10,7 @@ comments: yes
 
 最近在[中科院贡嘎山站](http://www.imde.cas.cn/jgsz/kypt/yztz/zgkxyggsgsstxtgccsz/)出差做实验，来的时候就背了一个威戈的双肩包，这个包我平时不出差的时候也会背，现在里面的东西基本就在照片里了。 
 
-![](http://blogdata.qiniudn.com/my backpack.jpg)
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/my backpack.jpg)
 
 最下面的大件是13寸256G的 Retina MacBook Pro，2014年中版。这是我有史以来买的最值的设备，没有之一。我觉得 RMBP 可能是对性能、续航和便携平衡的最好的笔记本电脑。用起来很舒服，我出差、听报告、开会、上课都会带着它，平常的工作和娱乐也用它来完成，完全无法想象没有它的日子。 
 

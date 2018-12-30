@@ -33,7 +33,7 @@ comments: yes
 * * *
 
 2014年4月3日更新： 彭丽媛在法国被授予特使时，她名字的拼写方式是PENG Liyuan，可见上文所说的规范写法在官方也是被认可的。 
-![](http://blogdata.qiniudn.com/ply.jpg) *图片来自网易新闻。*
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/ply.jpg) *图片来自网易新闻。*
 
 ## Comments
 

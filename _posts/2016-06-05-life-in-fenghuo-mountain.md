@@ -19,7 +19,8 @@ comments: yes
 
 iPhone 6s 在高原上无端坏掉了，拍的很多照片还没有备份，只能等回到成都再找售后。下次来高原一定要带相机。 
 
-高原上的生活虽然单调，但是也不至于无聊，没有闲杂事情的干扰，可以安静地看文献，思考。回成都之后又有一大堆事情，在这里反而是一种遁于世外的清净。 ![](http://7b1fc2.com1.z0.glb.clouddn.com/DSC00009.jpg) ![](http://7b1fc2.com1.z0.glb.clouddn.com/DSC00014.jpg) ![](http://7b1fc2.com1.z0.glb.clouddn.com/DSC00139.jpg)
+高原上的生活虽然单调，但是也不至于无聊，没有闲杂事情的干扰，可以安静地看文献，思考。回成都之后又有一大堆事情，在这里反而是一种遁于世外的清净。 
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/DSC00009.jpg) ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/DSC00014.jpg) ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/DSC00139.jpg)
 
 ## Comments
 

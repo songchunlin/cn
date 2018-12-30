@@ -18,6 +18,6 @@ FACE实验可用于森林、草地、荒漠和农田生态系统。目前，FACE
 
 相对于室内试验，FACE实验考虑了更多的生态系统环境因子，实验状态更接近植物和生态系统的自然状态，从而可使模拟更真实、有效；由于不局限于室内，可以从多个方面进行研究。可以说，FACE实验是目前模拟地球CO2增加影响的最佳方案。但是FACE实验的缺点是造价昂贵，NBL的FACE实验从1989年到1990年包括设备、管理、人员费用一共花了140万美元，对于一般的研究团队这算是天文数字了。 
 
-![](http://blogdata.qiniudn.com/FACE.jpg) *1990年，FACE Ring-2实验样地。a为风扇罩，b为22米的直径，c为VVP管，d为风速测杆，e为行人通道。图片引自：Vegetatio 104/105: 17-31, 1993。*
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/FACE.jpg) *1990年，FACE Ring-2实验样地。a为风扇罩，b为22米的直径，c为VVP管，d为风速测杆，e为行人通道。图片引自：Vegetatio 104/105: 17-31, 1993。*
 
 **参考资料：**[FACE Wikipedia](http://en.wikipedia.org/wiki/Free-air_concentration_enrichment)，[New Phytologist(2005) 165: 351–372](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-8137.2004.01224.x/pdf)，[Managed Ecosystems and CO2：Case Studies, Processes, and Perspectives](http://link.springer.com/book/10.1007%2F3-540-31237-4)，[Vegetatio 104/105: 17-31, 1993](http://link.springer.com/content/pdf/10.1007/BF00048142.pdf)

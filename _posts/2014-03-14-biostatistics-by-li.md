@@ -14,7 +14,7 @@ comments: yes
 
 课件上有一张图比较有意思，李老师对这张图也很得意。图中μ是总体均值（待估计），M是样本均值。 
 
-![MSE](http://blogdata.qiniudn.com/wp-content/uploads/2014/03/MSE.png)
+![MSE](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Screen Shot 2018-12-30 at 11.31.24.png)
 
 第一节课主要是生物统计学的介绍，从名词概念到统计学的简史再到R语言和基本的统计描述量。有几个问题比较有意思，比如用样本估计总体的时候，为什么有偏的估计总是比实际量小（样本估计量为实际总体的(N-1)/N）？为什么分母是（N-1）就是无偏的估计？老师上课讲了，但是我感觉讲得还不够清楚，所以我Google了一下，发现可汗学院有专门讲这个（N-1）的，讲得挺生动。链接在[这里](https://www.khanacademy.org/math/probability/descriptive-statistics/variance_std_deviation/v/statistics--standard-deviation)，视频来自YouTube，中科院IPV6网络不用翻墙就能看。实际上中科院的网也是有墙的，比如诺贝尔和平奖的网站就无法访问（原因你懂的），但是YouTube、Facebook、Twitter这些却可以访问。不知道是北京这边解禁了还是怎么回事，反正我对此是非常喜闻乐见的。 
 

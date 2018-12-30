@@ -9,7 +9,7 @@ comments: yes
 
 偶然用Google搜索我的博文，想看看搜索引擎对我博文的收录情况。基本上大部分以文章标题为关键词的搜索结果，排在第一位的来源都是我的博客或者[我的简书主页](http://jianshu.io/users/a366bb2e686a/latest_articles)。但是当我搜到[《学霸的三种境界》](/the-top-students/)这篇文章时，[排在第一位](https://www.google.com/#newwindow=1&q=%E5%AD%A6%E9%9C%B8%E7%9A%84%E4%B8%89%E7%A7%8D%E5%A2%83%E7%95%8C)的居然是一篇人人网的日志分享，一开始我还以为是有人写了和我标题一样的文章，点进去一看，这不就是我的那篇吗？一字不差，而这位转载者既没有注明原文链接也没有注明作者。排在第二位的，网址是mp.weixin.qq.com，我猜是来自微信公众号的文章。果不其然，通过查看缓存发现是一个叫葵花宝典的微信公众号，既没有注明作者也没有给原始链接。 
 
-![](http://blogdata.qiniudn.com/renrendaowen.png) ![](http://blogdata.qiniudn.com/weixindaowen.png)                           
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/renrendaowen.png) ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/weixindaowen.png)                           
 
 我在人人网那篇全文转载的日志下面留言，让转载者注明作者和出处，过了几个小时，发现转载者已经加上了我的名字和原文链接，略感欣慰。但是欣慰之余，还是觉得不对劲。因为在[Google搜索结果](https://www.google.com/#newwindow=1&q=%E5%AD%A6%E9%9C%B8%E7%9A%84%E4%B8%89%E7%A7%8D%E5%A2%83%E7%95%8C)的前10页里都没有找到我的博客或者简书的来源，也就是说Google搜索引擎可能已经把人人网的这篇当作原始出处了。也难怪，人人网的这篇目前有20000多次浏览和400多次转载，应该远大于我的博客访问量，按照Google的算法，它认为人人网这篇就是最初的来源，甚至可能认为我的博客上是转载（所以在搜索结果中不显示我的博客来源）。这才是对原创者的伤害，也是令我不快的原因。同样的内容在人人网上传播得更快，因为那是社交网络，传播上的效应肯定大于我这访问量很小的独立博客。我也可以去人人网上写，但是正因为反感SNS才来开独立博客的，再回去肯定不可能了。 
 
