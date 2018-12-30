@@ -16,7 +16,7 @@ comments: yes
 
 虽然这次自驾不那么完美，回想起在路上的时候还是觉得终身难忘。那些在路上听过的歌曲，变成了风景的一部分，见过的风景和人也变成了记忆的一部分。
 
-![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/On%20the%20road.jpg) 
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/On%20the%20road.jpg){:height="50%" width="50%"}
 
 <center>▲ 行驶在新英格兰的路上</center>
 
