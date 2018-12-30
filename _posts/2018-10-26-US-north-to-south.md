@@ -58,7 +58,7 @@ comments: yes
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Virginia%20beach.jpg)
 
-<center>▲ 弗吉尼亚海滩（不是真的海滩，地名就叫 Virginia beach ）住的小区，主人是一个老人，家里很多照片</center>
+<center>▲ 弗吉尼亚海滩（不是真的海滩，地名就叫 Virginia Beach ）住的小区，主人是一个老人，家里很多照片</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/GA.jpg)
 
