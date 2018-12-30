@@ -1,5 +1,5 @@
 ---
-title: 美东纵贯线之旅
+title: 美东纵贯线
 layout: post
 categories: [行万里路]
 tags: [美国,东海岸,自驾]
@@ -17,62 +17,70 @@ comments: yes
 虽然这次自驾不那么完美，回想起在路上的时候还是觉得终身难忘。那些在路上听过的歌曲，变成了风景的一部分，见过的风景和人也变成了记忆的一部分。
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/On%20the%20road.jpg) 
-▲ 行驶在新英格兰的路上
+
+<center>▲ 行驶在新英格兰的路上</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Vermont%20fall.jpg) 
-▲ 住在佛蒙特州的一个民宿，早上出门散步看到的秋景
+
+<center>▲ 住在佛蒙特州的一个民宿，早上出门散步看到的秋景</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Acadia2.jpg) 
-▲ 在阿卡迪亚公园凯迪拉克山上看到的大西洋和海岛
+
+<center>▲ 在阿卡迪亚公园凯迪拉克山上看到的大西洋和海岛</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Acadia1.jpg) 
-▲ 山与海的相遇
+
+<center>▲ 山与海的相遇</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Acadia3.jpg) 
-▲ 咆哮的大西洋
+
+<center>▲ 咆哮的大西洋</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Acadia4.jpg) 
-▲ 路边看到的极美的小港湾
+
+<center>▲ 路边看到的极美的小港湾</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Princeton2.jpg) 
-▲ 在普林斯顿小镇散步偶遇的鹿
+
+<center>▲ 在普林斯顿小镇散步偶遇的鹿</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Princeton1.jpg)
 
-▲ 爱因斯坦的故居，一栋不起眼的建筑，没有爱因斯坦相关的标示，只有一个「Private Residence」的牌子
+<center>▲ 爱因斯坦的故居，一栋不起眼的建筑，没有爱因斯坦相关的标示，只有一个「Private Residence」的牌子</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Princeton3.jpg)
 
-▲ 普林斯顿大学的校园内
+<center>▲ 普林斯顿大学的校园内</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Princeton4.jpg)
 
-▲ 普林斯顿整个小镇基本就是普林斯顿大学和普林斯顿高等研究院的地盘，整个小镇非常静谧优美，普林斯顿大学也是我见过的最美的大学
+<center>▲ 普林斯顿整个小镇基本就是普林斯顿大学和普林斯顿高等研究院的地盘，整个小镇非常静谧优美，普林斯顿大学也是我见过的最美的大学</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Virginia%20beach.jpg)
 
-▲ 弗吉尼亚海滩（不是真的海滩，地名就叫 Virginia beach ）住的小区，主人是一个老人，家里很多照片
+<center>▲ 弗吉尼亚海滩（不是真的海滩，地名就叫 Virginia beach ）住的小区，主人是一个老人，家里很多照片</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/GA.jpg)
 
-▲ 佐治亚州萨凡纳，这里是 Chippewa Square 的一角，也是当年阿甘正传拍摄的地点之一，阿甘坐的那个长凳曾经就在这里
+<center>▲ 佐治亚州萨凡纳，这里是 Chippewa Square 的一角，也是当年阿甘正传拍摄的地点之一，阿甘坐的那个长凳曾经就在这里</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Sunset.jpg)
 
-▲ 皮尔斯堡海边的落日余晖
+<center>▲ 皮尔斯堡海边的落日余晖</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/US1%20South.jpg)
 
-▲  在去往佛罗里达礁岛群的美国 1 号公路，这条路从缅因州的最北部到佛罗里达的最南部
+<center>▲  在去往佛罗里达礁岛群的美国 1 号公路，这条路从缅因州的最北部到佛罗里达的最南部</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Islamorada%E2%81%A9%E2%81%A9.jpg)
 
-▲ 佛罗里达南边礁岛群 Islamorada 停靠的船只
+<center>▲ 佛罗里达南边礁岛群 Islamorada 停靠的船只</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/NH%20fall3.jpg)
 
-▲  纽黑文的秋景，在东岩公园上
+<center>▲ 纽黑文的秋景，在东岩公园上</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/NH%20fall5.jpg)
 
-▲  纽黑文的深秋
+<center>▲ 纽黑文的深秋</center>
+
