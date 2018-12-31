@@ -72,7 +72,7 @@ comments: yes
 
 <center>▲  在去往佛罗里达礁岛群的美国 1 号公路，这条路从缅因州的最北部到佛罗里达的最南部</center>
 
-![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Islamorada%E2%81%A9%E2%81%A9.jpg)
+![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Islamorada.jpg)
 
 <center>▲ 佛罗里达南边礁岛群的 Islamorada 岛上停靠的船只</center>
 
