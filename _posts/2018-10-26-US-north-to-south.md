@@ -12,13 +12,13 @@ comments: yes
 
 我们租了一辆 2018 年的卡罗拉，之所以选择租车是因为对自己那辆老车开长途不自信，租车的好处是不用担心中途车出问题，而且自己的车开到佛罗里达再开回来太累。当然缺点也是有的，租车一旦定下来再改变行程成本就会比较高，开自己的车则可以随意一点。这个车我最喜欢的是它的自适应巡航功能，带有雷达，可以辅助刹车，高速上开起来减轻负担。一趟旅程下来，里程表从 9109 到 11996 英里。
 
-为了减少路程，我们也改变了计划，取消绕道蓝岭公路，直接沿着东海岸往南，这样可以在佛罗里达轻松玩一两天。然而最后还是事与愿违，在佐治亚州萨凡纳的时候凡凡身体不舒服，还进了医院，休息了两天。那几天南方还有龙卷风，每天都是阴雨天气，最后连基韦斯特也没有去成。
+为了减少路程，我们也改变了计划，取消绕道蓝岭公路，直接沿着东海岸往南，这样可以在佛罗里达轻松玩一两天。然而最后还是事与愿违，在佐治亚州萨凡纳的时候凡凡身体不舒服，还进了医院，休息了两天。那几天南方还有龙卷风，每天都是阴雨天气，佛罗里达也是匆匆路过，最后连基韦斯特也没有去成。
 
-虽然这次自驾不那么完美，回想起在路上的时候还是觉得终身难忘。那些在路上听过的歌曲，变成了风景的一部分，见过的风景和人也变成了记忆的一部分。
+虽然这次自驾不那么完美，回想起在路上的时候还是觉得终身难忘。穿过山林，跨过大海，走过湖泊和草地，路过城市和村庄，从北到南 2887 英里的纵贯线。那些在路上听过的歌曲，变成了风景的一部分，见过的风景和人也变成了记忆的一部分。
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/On%20the%20road.jpg)
 
-<center>▲ 行驶在新英格兰的路上</center>
+<center>▲ 行驶在新英格兰初秋的路上</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Vermont%20fall.jpg) 
 
@@ -26,7 +26,7 @@ comments: yes
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Acadia2.jpg) 
 
-<center>▲ 在阿卡迪亚公园凯迪拉克山上看到的大西洋和海岛</center>
+<center>▲ 在阿卡迪亚公园凯迪拉克山顶上看到的大西洋和海岛</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Acadia1.jpg) 
 
@@ -58,7 +58,7 @@ comments: yes
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Virginia%20beach.jpg)
 
-<center>▲ 弗吉尼亚海滩（不是真的海滩，地名就叫 Virginia Beach ）住的小区，主人是一个老人，家里很多照片</center>
+<center>▲ 弗吉尼亚海滩（不是真的海滩，地名就叫 Virginia Beach ）住的小区的清晨，主人是一个老人，家里很多照片</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/GA.jpg)
 
@@ -74,7 +74,7 @@ comments: yes
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/Islamorada%E2%81%A9%E2%81%A9.jpg)
 
-<center>▲ 佛罗里达南边礁岛群 Islamorada 停靠的船只</center>
+<center>▲ 佛罗里达南边礁岛群的 Islamorada 岛上停靠的船只</center>
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/NH%20fall3.jpg)
 
@@ -82,5 +82,5 @@ comments: yes
 
 ![](https://blog-1252159939.cos.ap-hongkong.myqcloud.com/NH%20fall5.jpg)
 
-<center>▲ 纽黑文的深秋</center>
+<center>▲ 纽黑文的深秋，此时旅程已经结束</center>
 
