@@ -9,6 +9,7 @@ layout: page
 - [博士牌民工](http://www.yue366.com/){:target="_blank"}
 - [洋流范儿](http://yangliufr.com/){:target="_blank"}
 - [谢益辉](http://yihui.name/){:target="_blank"}
+- [统计之都](https://cosx.org/){:target="_blank"}
 - [斯幸峰](http://sixf.org/){:target="_blank"}
 - [大鹏湾](http://www.pzhao.org/zh/){:target="_blank"}
 - [木遥的窗子](http://blog.farmostwood.net/){:target="_blank"}
