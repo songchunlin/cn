@@ -13,6 +13,7 @@ layout: page
 - [斯幸峰](http://sixf.org/){:target="_blank"}
 - [大鹏湾](http://www.pzhao.org/zh/){:target="_blank"}
 - [木遥的窗子](http://blog.farmostwood.net/){:target="_blank"}
+- [张驰原](http://pluskid.org/){:target="_blank"}
 - [Mind Hacks](http://mindhacks.cn/){:target="_blank"}
 - [Lisa Ding](http://dinglisa.com/){:target="_blank"}
 - [Yue Zhu](http://yuezhu.org/){:target="_blank"}
