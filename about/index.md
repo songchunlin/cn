@@ -20,7 +20,7 @@ layout: page
 var urodz= new Date("11/13/2013"); var now = new Date(); var ile = now.getTime() - urodz.getTime(); var dni = Math.floor(ile / (1000 * 60 * 60 * 24)); document.write(+dni)
 // ]]></script></strong>天，曾用名「北河故事」。博客最初基于 WordPress，后来嫌其臃肿，搬迁至基于 GitHub Pages 的 Jekyll，使用 DNSPod 进行域名解析，七牛云作为图床，目前采用 [Xingfeng Si](http://sixf.org/) 和 [Yihui Xie](http://yihui.name/) 博客微调后的主题。本站是中文博客，还有一个[英文博客](http://songchunlin.net/en)。
 
-本博客为我的个人独立博客，内容主要是我个人生活、一些评论和专业学习相关的东西；所有观点仅代表我个人，与我所在学校、研究所无关；很久以前的博文可能并不代表我现在的想法，毕竟人会成长。如果觉得我的文章对您有用，可以用手机支付宝支付我任意金额（支付宝账户为 sclyeah@gmail.com）。
+本博客为我的个人独立博客，内容主要是我个人生活、一些评论和专业学习相关的东西；所有观点仅代表我个人，与我所在学校、研究所无关；很久以前的博文可能并不代表我现在的想法，毕竟人会成长。
 
 推荐使用 Chrome、Safari、Firefox 等浏览器访问本博客以获得最佳显示效果。本博客文章可以用键盘上的左右箭头导航，左为更早的文章，右为最新的文章。本站下方有 Google 自定义搜索框可搜索本站内容，如无法访问 Google，则请在 site: songchunlin.net 后面加关键词在其他搜索引擎进行检索。采用 Disqus 作为评论系统，国内可能需要翻墙才能看到。
 
