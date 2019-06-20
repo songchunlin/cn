@@ -21,5 +21,6 @@ layout: page
 - [戴睿可](http://cn.derekyang.us/){:target="_blank"}
 - [程序员小辉](https://www.xiaohui.com/){:target="_blank"}
 - [学而时嘻之](https://www.geekonomics10000.com/){:target="_blank"}
-- [Yihan文字园艺](https://yihanxu.github.io/){:target="_blank"}
+- [文字园艺](https://yihanxu.github.io/){:target="_blank"}
 - [子夜星河](https://zfangcs.wordpress.com){:target="_blank"}
+- [于淼](https://yufree.cn){:target="_blank"}
