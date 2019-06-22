@@ -18,7 +18,7 @@ layout: page
 
 [本独立博客](http://songchunlin.net/)诞生于2013年11月13日，至今已存活<strong><script>// <![CDATA[
 var urodz= new Date("11/13/2013"); var now = new Date(); var ile = now.getTime() - urodz.getTime(); var dni = Math.floor(ile / (1000 * 60 * 60 * 24)); document.write(+dni)
-// ]]></script></strong>天，曾用名「北河故事」。博客最初基于 WordPress，后来嫌其臃肿，搬迁至基于 GitHub Pages 的 Jekyll，使用 DNSPod 进行域名解析，七牛云作为图床，目前采用 [Xingfeng Si](http://sixf.org/) 和 [Yihui Xie](http://yihui.name/) 博客微调后的主题。本站是中文博客，还有一个[英文博客](http://songchunlin.net/en)。
+// ]]></script></strong>天，曾用名「北河故事」。博客最初基于 WordPress，后来嫌其臃肿，搬迁至基于 GitHub Pages 的 Jekyll，使用 DNSPod 进行域名解析，先用七牛云作为图床，后来换到腾讯云，目前采用 [Xingfeng Si](http://sixf.org/) 和 [Yihui Xie](http://yihui.name/) 博客调整后的主题。本站是中文博客，还有一个[英文博客](http://songchunlin.net/en)。
 
 本博客为我的个人独立博客，内容主要是我个人生活、一些评论和专业学习相关的东西；所有观点仅代表我个人，与我所在学校、研究所无关；很久以前的博文可能并不代表我现在的想法，毕竟人会成长。
 
