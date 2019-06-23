@@ -7,7 +7,7 @@ layout: page
 
 本人[宋春林](http://songchunlin.net "Chunlin Song"){:target="_blank"}，目前为中科院[成都山地所](http://www.imde.ac.cn/){:target="_blank"}特别研究助理，自然地理学专业生态水文学方向。Open-minded，自我驱动，喜欢折腾，乐于解决问题。一方面正在努力成为合格的科研工作者，另一方面又经常不务正业，常常因为对某事物的兴趣而放下正事去研究和学习。为人靠谱，人格可信，实用主义与理想主义并行。
 
-我的其他网络据点还有：[知乎](http://www.zhihu.com/people/songcl){:target="_blank"}、[微博](http://weibo.com/songchunlin){:target="_blank"}、[豆瓣](http://www.douban.com/people/iamscl/){:target="_blank"}、[ResearchGate](https://www.researchgate.net/profile/Chunlin_Song4/){:target="_blank"}。除了 ResearchGate大多年久失修。
+我的其他网络据点还有：[知乎](http://www.zhihu.com/people/songcl){:target="_blank"}、[推特](https://twitter.com/sclcas){:target="_blank"}、[豆瓣](http://www.douban.com/people/iamscl/){:target="_blank"}、[ResearchGate](https://www.researchgate.net/profile/Chunlin_Song4/){:target="_blank"}。除了 ResearchGate大多年久失修。
 
 联系方式：sclyeah(at)gmail.com
 
