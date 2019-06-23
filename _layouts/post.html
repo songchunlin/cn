@@ -9,6 +9,19 @@ layout: default
 <section class="post">
 {{ content }}
 </section>
+
+<div id="reward-container">
+  <div>Buy Me A Coffee</div>
+  <button id="reward-button" disable="enable" onclick="var qr = document.getElementById(&quot;qr&quot;); qr.style.display = (qr.style.display === 'none') ? 'block' : 'none';">
+    赞赏
+  </button>
+  <div id="qr" style="display: block;">
+      <div style="display: inline-block">
+        <img src="http://songchunlin.net/files/images/zanshang.jpg" alt="">
+      </div>
+  </div>
+</div>
+
 <section class="meta">
 <span class="author">
   <a>发表于</a>
