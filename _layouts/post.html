@@ -2,6 +2,25 @@
 layout: default
 ---
 
+<!DOCTYPE html>
+<html>
+<style>
+.button {
+  background-color: white;
+  border: 2px solid #ec6847;
+  border-radius: 5px;
+  color: #ec6847;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+</html>
+
 <h2>
   <center>{{ page.title }}</center>
 </h2>
@@ -10,10 +29,10 @@ layout: default
 {{ content }}
 </section>
 
-<h2>
+<h4>
 <div class="nav pills">
   <div>Buy Me A Coffee</div>
-  <button id="reward-button" disable="enable" onclick="var qr = document.getElementById(&quot;qr&quot;); qr.style.display = (qr.style.display === 'none') ? 'block' : 'none';">
+  <button id="reward-button" disable="enable" onclick="var qr = document.getElementById(&quot;qr&quot;); qr.style.display = (qr.style.display === 'none') ? 'block' : 'none';" class="button">
     赞赏
   </button>
   <div id="qr" style="display: none;">
@@ -22,7 +41,7 @@ layout: default
       </div>
   </div>
 </div>
-<h2>
+<h4>
 
 
 <section class="meta">
