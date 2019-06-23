@@ -1,5 +1,5 @@
 ---
-title: 用LaTeX写学位论文
+title: 用 LaTeX 写学位论文
 layout: post
 categories: [器物杂谈]
 tags: [Word, LaTeX]
