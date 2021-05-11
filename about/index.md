@@ -7,8 +7,6 @@ layout: page
 
 本人[宋春林](http://songchunlin.net "Chunlin Song"){:target="_blank"}，目前为四川大学特聘副研究员，主要从事水生生物地球化学和水文学及水资源方面的研究工作，研究兴趣包括河流碳循环、冰冻圈水文及水环境、多年冻土碳循环和流域生态水文等。目前主要关注气候变化背景下寒区河流等水体对陆地碳物质的迁移转化过程和机制以及冻土变化影响下的流域水循环过程。
 
-我的其他网络据点还有：[知乎](http://www.zhihu.com/people/songcl){:target="_blank"}、[推特](https://twitter.com/sclcas){:target="_blank"}、[豆瓣](http://www.douban.com/people/iamscl/){:target="_blank"}、[ResearchGate](https://www.researchgate.net/profile/Chunlin_Song4/){:target="_blank"}。除了 ResearchGate大多年久失修。
-
 联系方式：sclyeah(at)gmail.com
 
 ---
